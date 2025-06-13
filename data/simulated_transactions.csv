@@ -1,0 +1,2001 @@
+transaction_id,company_name,date,amount,type,description
+0,Posada-Peña S.A.S.,2024-09-10,586644.59,DEBIT,Libero porro quam modi incidunt.
+1,"Reyes, Álvarez and Hernández S.A.S.",2025-05-15,981599.1,DEBIT,Quo deleniti assumenda.
+2,González Inc S.A.S.,2022-05-02,684113.58,CREDIT,Placeat vel enim provident cumque.
+3,González Inc S.A.S.,2021-07-05,364723.7,DEBIT,Quia quos architecto reiciendis ad soluta.
+4,Jaimes-Quintero S.A.S.,2020-09-20,645364.92,DEBIT,Maxime eligendi recusandae quaerat.
+5,Muñoz LLC S.A.S.,2023-09-10,590029.25,DEBIT,Dolore ipsa tempore quia.
+6,Vargas-Álvarez S.A.S.,2021-06-24,637411.19,CREDIT,Quis sint numquam quam enim.
+7,"Gómez, Sanabria and Pulido S.A.S.",2020-11-30,788172.83,DEBIT,Consectetur cum voluptates reiciendis.
+8,Reyes-Zambrano S.A.S.,2022-07-05,846486.29,DEBIT,Explicabo aliquid doloribus quos odio quos.
+9,Reyes-Zambrano S.A.S.,2020-09-15,386828.83,DEBIT,Dicta quas fugit totam similique.
+10,Muñoz LLC S.A.S.,2024-11-20,983435.16,CREDIT,Praesentium laudantium officiis voluptates vel aliquid.
+11,Vargas-Álvarez S.A.S.,2022-05-18,682659.86,CREDIT,Aliquam accusantium ipsam architecto magni.
+12,Oviedo-Domínguez S.A.S.,2023-06-18,149562.37,CREDIT,Iusto a porro eaque omnis.
+13,Rodríguez-Martínez S.A.S.,2023-03-03,927698.23,DEBIT,Facere autem nisi.
+14,Muñoz LLC S.A.S.,2025-03-07,66122.0,DEBIT,Enim mollitia accusamus autem maxime accusantium.
+15,Rodríguez-Martínez S.A.S.,2024-05-29,847416.33,CREDIT,Quaerat quibusdam delectus autem perspiciatis.
+16,Mosquera-Medina S.A.S.,2022-11-18,52361.87,DEBIT,Similique officiis repellat.
+17,Muñoz LLC S.A.S.,2025-06-06,764955.27,CREDIT,Eaque nihil reprehenderit nobis architecto.
+18,Rodríguez-Martínez S.A.S.,2020-08-10,46660.07,CREDIT,Quo placeat ex ex facere.
+19,"Buitrago, García and García S.A.S.",2020-11-04,57426.89,CREDIT,Aliquam dolorum excepturi illum ipsum fugiat.
+20,Mosquera-Medina S.A.S.,2024-02-27,792449.08,CREDIT,Aliquam aliquam necessitatibus.
+21,Flórez Ltd S.A.S.,2023-07-14,761615.83,DEBIT,Quasi veniam numquam libero veritatis ex.
+22,González Inc S.A.S.,2023-04-25,172354.14,DEBIT,Perspiciatis sunt hic earum neque aut.
+23,Posada-Peña S.A.S.,2025-04-17,428144.07,CREDIT,Beatae reprehenderit fugit aspernatur dolor.
+24,Calderón and Sons S.A.S.,2022-04-09,642484.38,CREDIT,Enim hic voluptatibus eveniet.
+25,Gómez-Cardozo S.A.S.,2021-07-21,524676.94,CREDIT,Velit optio hic iste incidunt.
+26,Muñoz LLC S.A.S.,2025-03-12,899152.41,DEBIT,Cupiditate cum aperiam eum voluptates ad.
+27,"Pacheco, Velandia and Ávila S.A.S.",2024-02-14,757004.36,DEBIT,Nam ipsam libero iure.
+28,Posada-Peña S.A.S.,2024-07-26,467897.89,CREDIT,Nam expedita hic.
+29,Muñoz LLC S.A.S.,2021-07-24,319858.67,DEBIT,Id velit ducimus autem ab.
+30,González Inc S.A.S.,2021-12-18,762121.99,DEBIT,Porro blanditiis placeat ratione.
+31,Castro-Flórez S.A.S.,2024-11-26,71896.56,CREDIT,Ipsam quam natus delectus esse.
+32,González Inc S.A.S.,2023-12-07,394972.25,DEBIT,Nostrum sapiente atque.
+33,González Inc S.A.S.,2025-05-15,665367.16,CREDIT,Eveniet quia et nulla ullam aperiam.
+34,Muñoz LLC S.A.S.,2025-03-19,543803.05,CREDIT,Sequi earum delectus.
+35,"Reyes, Álvarez and Hernández S.A.S.",2021-10-21,567644.81,CREDIT,Nesciunt ab quaerat.
+36,Reyes-Zambrano S.A.S.,2021-12-03,184832.83,CREDIT,Maiores quis minus numquam veniam.
+37,González Inc S.A.S.,2021-05-12,587492.02,DEBIT,In voluptatem soluta autem iusto natus.
+38,Durán-Bernal S.A.S.,2021-12-04,300098.34,DEBIT,Quasi corporis quos laborum.
+39,"Reyes, Álvarez and Hernández S.A.S.",2024-08-15,878766.63,DEBIT,Mollitia corporis optio ea perferendis.
+40,Portilla-Palacios S.A.S.,2023-10-05,433335.75,CREDIT,Doloribus voluptate beatae adipisci delectus.
+41,Castro-Flórez S.A.S.,2024-06-27,131906.7,CREDIT,Quibusdam ipsa praesentium totam.
+42,Durán-Bernal S.A.S.,2025-04-27,716924.46,CREDIT,Dicta incidunt deserunt distinctio dolore illo.
+43,"García, Castro and Rendón S.A.S.",2024-08-13,990831.9,DEBIT,Dolores rem amet.
+44,Gil-Salazar S.A.S.,2023-12-08,801523.98,CREDIT,Porro quis explicabo.
+45,Castro-Flórez S.A.S.,2022-11-30,834313.21,DEBIT,Velit ipsa consequuntur rem tempora similique.
+46,González Inc S.A.S.,2021-11-17,326212.33,DEBIT,Recusandae quia perspiciatis autem exercitationem.
+47,Flórez Ltd S.A.S.,2022-02-15,871415.77,CREDIT,Impedit accusamus vel saepe soluta.
+48,Garcés-Buitrago S.A.S.,2023-08-20,464255.91,DEBIT,Sapiente exercitationem quam voluptate quisquam.
+49,Jaimes-Quintero S.A.S.,2022-05-13,448733.27,DEBIT,Dolorem omnis voluptates quos explicabo.
+50,"Buitrago, García and García S.A.S.",2023-10-25,596223.33,DEBIT,Quo voluptates tempore eaque rerum.
+51,"Gómez, Sanabria and Pulido S.A.S.",2022-03-01,291737.57,DEBIT,Expedita esse reiciendis animi ut.
+52,Castro-Flórez S.A.S.,2020-07-05,501974.57,DEBIT,Magni necessitatibus quos.
+53,Vargas-Álvarez S.A.S.,2021-02-26,258818.58,CREDIT,Expedita voluptatibus excepturi quas rem perspiciatis.
+54,Garcés-Buitrago S.A.S.,2020-09-07,307932.06,CREDIT,Ullam provident quo.
+55,Calderón and Sons S.A.S.,2021-11-22,404862.59,DEBIT,Odio eaque facere cumque excepturi.
+56,Durán-Bernal S.A.S.,2021-06-25,489286.4,CREDIT,Quod nesciunt repellat natus.
+57,"Reyes, Álvarez and Hernández S.A.S.",2025-03-30,57022.12,DEBIT,Voluptatem culpa eligendi ratione.
+58,"Reyes, Álvarez and Hernández S.A.S.",2020-07-12,440663.13,DEBIT,Culpa praesentium praesentium.
+59,"Palacios, Becerra and Rodríguez S.A.S.",2020-10-15,850269.19,CREDIT,Esse placeat fugiat itaque perferendis quia.
+60,Garcés-Buitrago S.A.S.,2023-08-23,84376.68,DEBIT,Nihil enim vero.
+61,"Palacios, Becerra and Rodríguez S.A.S.",2023-02-20,979033.3,DEBIT,Dignissimos necessitatibus vero dolorem.
+62,Garcés-Buitrago S.A.S.,2024-09-20,852987.61,CREDIT,Ipsam animi sunt.
+63,"Reyes, Álvarez and Hernández S.A.S.",2024-08-18,989346.72,DEBIT,Molestiae inventore aperiam.
+64,Gil-Salazar S.A.S.,2024-01-01,408140.42,DEBIT,Labore natus ab aspernatur.
+65,Posada-Peña S.A.S.,2024-11-02,117646.66,DEBIT,Id impedit doloribus eveniet quis quod.
+66,Ramírez LLC S.A.S.,2023-02-27,660848.46,DEBIT,Possimus sapiente eaque.
+67,Jaimes-Quintero S.A.S.,2023-11-06,283906.64,CREDIT,Itaque nemo laboriosam fuga deserunt quo.
+68,Gil-Salazar S.A.S.,2024-07-08,959184.24,CREDIT,Iure eveniet in quam aspernatur.
+69,Castro-Flórez S.A.S.,2022-07-26,115668.19,DEBIT,Iste nostrum consequuntur at facilis quae.
+70,Rodríguez-Martínez S.A.S.,2022-11-09,529547.28,DEBIT,Ratione enim quos molestias.
+71,Portilla-Palacios S.A.S.,2022-01-20,245160.54,CREDIT,Autem amet occaecati sequi esse rem.
+72,Reyes-Zambrano S.A.S.,2024-02-14,798369.07,CREDIT,Autem saepe minus hic nostrum.
+73,Reyes-Zambrano S.A.S.,2024-12-30,683153.68,CREDIT,Quae possimus quaerat facilis molestiae nam.
+74,Rodríguez-Martínez S.A.S.,2023-04-18,633431.84,CREDIT,Assumenda nam corrupti aliquid.
+75,Flórez Ltd S.A.S.,2023-07-20,818706.56,DEBIT,Placeat dicta rerum.
+76,Vargas-Álvarez S.A.S.,2023-03-01,238730.42,DEBIT,Possimus ducimus ex necessitatibus amet eos.
+77,Durán-Bernal S.A.S.,2023-04-23,697907.6,CREDIT,Esse perspiciatis repellendus.
+78,"Pacheco, Velandia and Ávila S.A.S.",2024-07-20,167611.84,CREDIT,Fugiat a laudantium est.
+79,Rodríguez-Martínez S.A.S.,2021-11-30,427698.08,CREDIT,Ipsa enim autem cumque officia adipisci.
+80,"García, Castro and Rendón S.A.S.",2021-03-24,692324.07,CREDIT,Assumenda debitis tenetur maxime facere laborum.
+81,Calderón and Sons S.A.S.,2022-06-05,660582.3,CREDIT,Incidunt facilis voluptas ipsam omnis.
+82,Flórez Ltd S.A.S.,2024-05-18,456310.5,DEBIT,Sapiente unde est et.
+83,"Pacheco, Velandia and Ávila S.A.S.",2023-06-21,868429.23,CREDIT,Quae numquam aliquam quae placeat ad.
+84,Durán-Bernal S.A.S.,2022-10-24,541615.12,DEBIT,Modi omnis pariatur.
+85,"Reyes, Álvarez and Hernández S.A.S.",2022-12-13,376980.15,CREDIT,Nulla praesentium ipsa quasi.
+86,Vargas-Álvarez S.A.S.,2024-09-16,270823.37,DEBIT,Error neque optio deleniti similique suscipit.
+87,"Galvis, Ramírez and Angarita S.A.S.",2024-01-17,222626.03,DEBIT,Quam fuga similique dolor.
+88,Reyes-Zambrano S.A.S.,2023-05-09,533724.78,CREDIT,Perspiciatis nisi impedit rem.
+89,"García, Castro and Rendón S.A.S.",2024-08-27,816275.78,DEBIT,Cum voluptates nostrum est facilis ipsa.
+90,Muñoz LLC S.A.S.,2024-10-07,796576.7,CREDIT,Animi odio sit minima.
+91,Durán-Bernal S.A.S.,2025-01-06,310781.51,DEBIT,Provident libero voluptas pariatur esse blanditiis suscipit.
+92,Gil-Salazar S.A.S.,2020-10-13,47573.0,CREDIT,Laudantium quod aut ipsa cumque nesciunt.
+93,Reyes-Zambrano S.A.S.,2024-08-14,512852.57,CREDIT,Earum molestias perspiciatis.
+94,Jaimes-Quintero S.A.S.,2022-12-14,603656.68,DEBIT,Nulla facere dolor.
+95,Castro-Flórez S.A.S.,2021-08-18,599193.85,DEBIT,Unde laudantium dolores repellendus sequi.
+96,Ramírez LLC S.A.S.,2021-07-14,755871.71,CREDIT,Facere eaque inventore provident.
+97,Vargas-Álvarez S.A.S.,2023-11-24,985500.48,CREDIT,Odit totam natus eaque amet eum.
+98,Castro-Flórez S.A.S.,2021-09-14,236652.65,CREDIT,Deleniti occaecati voluptas.
+99,"Pacheco, Velandia and Ávila S.A.S.",2022-04-22,331199.27,DEBIT,Nulla maxime eligendi molestias.
+100,Portilla-Palacios S.A.S.,2023-09-21,516847.96,CREDIT,Consequatur reprehenderit facere.
+101,"Galvis, Ramírez and Angarita S.A.S.",2021-05-27,814074.31,DEBIT,Commodi explicabo culpa provident qui nostrum.
+102,Ramírez LLC S.A.S.,2022-02-25,770560.61,CREDIT,Molestias vitae quo ab.
+103,Reyes-Zambrano S.A.S.,2023-08-16,57428.64,DEBIT,Iure suscipit vel.
+104,Muñoz LLC S.A.S.,2024-09-25,505693.65,CREDIT,Ea corrupti eaque quod sapiente.
+105,Flórez Ltd S.A.S.,2023-08-12,378680.88,CREDIT,Molestias temporibus maiores consectetur accusantium maxime.
+106,"Palacios, Becerra and Rodríguez S.A.S.",2025-06-02,931717.69,CREDIT,Aperiam eos illo praesentium.
+107,Gil-Salazar S.A.S.,2023-06-07,539154.17,CREDIT,Reiciendis iusto eveniet.
+108,González Inc S.A.S.,2023-10-03,22656.68,CREDIT,At quas quod soluta.
+109,"Pacheco, Velandia and Ávila S.A.S.",2021-08-20,23658.36,CREDIT,Commodi delectus magni nam.
+110,"Buitrago, García and García S.A.S.",2023-03-07,423825.55,CREDIT,Repellendus dolore beatae explicabo vel rem.
+111,Posada-Peña S.A.S.,2021-05-13,955361.32,DEBIT,Sint saepe officiis officia.
+112,Oviedo-Domínguez S.A.S.,2021-10-08,850862.33,DEBIT,Nostrum dicta dolore.
+113,Rodríguez-Martínez S.A.S.,2022-09-28,531901.15,CREDIT,Dicta quidem iste.
+114,González Inc S.A.S.,2024-01-23,249826.48,CREDIT,Minus ex reprehenderit.
+115,Flórez Ltd S.A.S.,2023-05-01,257314.05,DEBIT,Doloremque tempora modi perferendis.
+116,Jaimes-Quintero S.A.S.,2024-03-25,275295.54,DEBIT,Vel commodi tempore.
+117,"Buitrago, García and García S.A.S.",2024-08-27,830893.26,DEBIT,Qui ducimus eligendi.
+118,Rodríguez-Martínez S.A.S.,2021-02-03,604366.66,CREDIT,Tempora dicta explicabo sint ipsam voluptate.
+119,Castro-Flórez S.A.S.,2023-08-16,27990.35,DEBIT,Neque distinctio maxime excepturi.
+120,González Inc S.A.S.,2025-03-09,781018.35,CREDIT,Dolore blanditiis ipsum rerum culpa.
+121,Portilla-Palacios S.A.S.,2024-05-29,831703.25,DEBIT,Quaerat maiores iure eligendi.
+122,"Gómez, Sanabria and Pulido S.A.S.",2024-10-12,412746.36,DEBIT,Reprehenderit facilis nesciunt unde.
+123,Ramírez LLC S.A.S.,2022-05-21,640165.76,CREDIT,Quia nobis veniam laborum modi voluptas.
+124,Flórez Ltd S.A.S.,2020-10-12,47830.44,DEBIT,Provident ducimus labore porro quibusdam.
+125,Gil-Salazar S.A.S.,2023-06-13,654264.59,CREDIT,Voluptatibus a eum.
+126,"García, Castro and Rendón S.A.S.",2022-07-18,823356.04,DEBIT,Qui rem esse incidunt.
+127,Jaimes-Quintero S.A.S.,2020-08-11,176449.11,CREDIT,Quo officia tempora esse.
+128,"García, Castro and Rendón S.A.S.",2023-10-28,57987.21,CREDIT,Praesentium provident in maxime quam.
+129,González Inc S.A.S.,2021-04-15,726783.04,CREDIT,Facilis maiores deleniti hic.
+130,González Inc S.A.S.,2021-12-17,826805.01,DEBIT,Quas voluptates voluptas.
+131,Muñoz LLC S.A.S.,2020-06-28,859755.53,DEBIT,Enim molestiae debitis a praesentium.
+132,Reyes-Zambrano S.A.S.,2020-09-15,312502.28,DEBIT,Labore quidem aspernatur.
+133,Calderón and Sons S.A.S.,2020-07-09,126476.81,DEBIT,Soluta consequuntur expedita necessitatibus.
+134,"Gómez, Sanabria and Pulido S.A.S.",2022-11-10,343689.47,CREDIT,Libero laudantium temporibus.
+135,Jaimes-Quintero S.A.S.,2024-12-17,265013.09,DEBIT,Velit ut modi ipsum.
+136,"Pacheco, Velandia and Ávila S.A.S.",2020-09-26,225884.49,CREDIT,Repudiandae eveniet nesciunt enim.
+137,Muñoz LLC S.A.S.,2023-11-13,881775.07,DEBIT,Eveniet vero id ipsa in iusto.
+138,Castro-Flórez S.A.S.,2024-05-22,304292.71,CREDIT,Voluptas unde rerum voluptatum.
+139,Vargas-Álvarez S.A.S.,2023-07-03,632448.16,CREDIT,Magnam quasi ab.
+140,"Palacios, Becerra and Rodríguez S.A.S.",2022-02-17,843132.48,DEBIT,Placeat facilis cumque.
+141,Calderón and Sons S.A.S.,2020-11-24,168989.89,DEBIT,Numquam dolores quos.
+142,"Buitrago, García and García S.A.S.",2021-08-26,372879.43,DEBIT,Provident distinctio maiores.
+143,Flórez Ltd S.A.S.,2025-04-20,295306.01,DEBIT,Quisquam eos ipsum error maiores.
+144,Flórez Ltd S.A.S.,2024-03-17,464156.1,DEBIT,Eius id perferendis laudantium.
+145,Ramírez LLC S.A.S.,2021-12-18,474570.41,DEBIT,Maxime consequatur ut.
+146,Oviedo-Domínguez S.A.S.,2021-03-06,764651.99,CREDIT,Quo quaerat necessitatibus similique nemo saepe.
+147,Gil-Salazar S.A.S.,2020-10-26,177768.24,DEBIT,Voluptates vitae deserunt veniam aspernatur.
+148,Portilla-Palacios S.A.S.,2022-06-04,431888.35,CREDIT,Incidunt maiores delectus veniam ratione.
+149,Flórez Ltd S.A.S.,2023-05-07,498231.49,DEBIT,Rem qui eos.
+150,Durán-Bernal S.A.S.,2022-09-09,722676.68,DEBIT,Atque tempore consectetur.
+151,Reyes-Zambrano S.A.S.,2025-01-04,136548.33,CREDIT,Incidunt provident blanditiis sint id cupiditate.
+152,"Gómez, Sanabria and Pulido S.A.S.",2024-10-13,730542.93,CREDIT,Sunt magnam reprehenderit similique.
+153,Oviedo-Domínguez S.A.S.,2022-06-28,828149.53,DEBIT,Quis magnam veritatis ullam aliquam a.
+154,"Pacheco, Velandia and Ávila S.A.S.",2024-04-14,436693.51,CREDIT,Consequatur consequuntur odit.
+155,Rodríguez-Martínez S.A.S.,2021-12-04,962373.34,CREDIT,Vitae molestiae magnam itaque necessitatibus magni corporis.
+156,Muñoz LLC S.A.S.,2025-01-29,30125.53,DEBIT,Molestias quaerat modi est.
+157,Gil-Salazar S.A.S.,2022-06-17,24466.86,DEBIT,Odit nulla perspiciatis officia.
+158,"García, Castro and Rendón S.A.S.",2021-07-17,764251.07,DEBIT,Quam repudiandae molestias.
+159,"Galvis, Ramírez and Angarita S.A.S.",2020-11-20,739037.54,DEBIT,Vel dolorum numquam.
+160,"Palacios, Becerra and Rodríguez S.A.S.",2021-04-07,336194.44,CREDIT,Corporis eligendi delectus ullam maxime eos.
+161,"García, Castro and Rendón S.A.S.",2025-06-11,794782.51,CREDIT,Libero ullam a beatae.
+162,"Palacios, Becerra and Rodríguez S.A.S.",2022-07-12,414047.27,CREDIT,Veniam necessitatibus deserunt.
+163,Durán-Bernal S.A.S.,2024-08-31,5495.07,DEBIT,Earum omnis ratione.
+164,Oviedo-Domínguez S.A.S.,2025-01-03,652586.61,DEBIT,Et ea ratione id quis.
+165,"Pacheco, Velandia and Ávila S.A.S.",2023-03-09,884049.67,CREDIT,Beatae voluptatem at eveniet.
+166,"Buitrago, García and García S.A.S.",2021-05-12,500597.34,DEBIT,Minima ut cum.
+167,Castro-Flórez S.A.S.,2024-09-23,692087.32,DEBIT,Eos autem maiores enim ab.
+168,Portilla-Palacios S.A.S.,2023-04-02,792581.79,CREDIT,Odio omnis vitae.
+169,Garcés-Buitrago S.A.S.,2024-11-16,614443.12,DEBIT,Saepe perferendis reiciendis.
+170,"Palacios, Becerra and Rodríguez S.A.S.",2024-05-06,388838.9,CREDIT,Sed rem quos rem quaerat possimus.
+171,Gómez-Cardozo S.A.S.,2023-01-25,56430.94,DEBIT,Debitis beatae quis labore quidem.
+172,Durán-Bernal S.A.S.,2020-08-12,742722.74,CREDIT,Esse cum perferendis.
+173,"Reyes, Álvarez and Hernández S.A.S.",2020-10-05,593360.79,DEBIT,At harum hic.
+174,Durán-Bernal S.A.S.,2023-11-23,240744.34,DEBIT,Perspiciatis inventore repellat.
+175,"García, Castro and Rendón S.A.S.",2020-08-15,609758.45,DEBIT,Illum facere esse nesciunt placeat quos.
+176,Flórez Ltd S.A.S.,2023-12-29,327937.32,CREDIT,Maxime sit asperiores odit.
+177,"Reyes, Álvarez and Hernández S.A.S.",2021-08-03,319203.74,CREDIT,Provident animi exercitationem.
+178,Posada-Peña S.A.S.,2021-03-30,740900.0,DEBIT,Alias nisi aliquam debitis.
+179,Jaimes-Quintero S.A.S.,2024-03-27,211762.24,CREDIT,Dolore commodi excepturi porro.
+180,Posada-Peña S.A.S.,2020-09-03,681066.69,CREDIT,Sapiente reprehenderit sequi.
+181,"Reyes, Álvarez and Hernández S.A.S.",2023-04-20,644760.77,CREDIT,Distinctio ea consequuntur odit dolor architecto.
+182,Vargas-Álvarez S.A.S.,2022-08-09,118018.94,DEBIT,Autem dolore ipsam blanditiis mollitia.
+183,Ramírez LLC S.A.S.,2020-07-28,390415.47,DEBIT,Aspernatur illum neque.
+184,Flórez Ltd S.A.S.,2024-01-02,581363.27,CREDIT,Neque et in recusandae voluptate.
+185,Rodríguez-Martínez S.A.S.,2024-02-04,614600.7,CREDIT,Exercitationem dolore facere quas repellendus occaecati.
+186,"Palacios, Becerra and Rodríguez S.A.S.",2022-07-27,127665.2,CREDIT,Cum repellendus vel.
+187,"Gómez, Sanabria and Pulido S.A.S.",2022-09-26,152580.29,CREDIT,Perferendis aperiam mollitia autem.
+188,Durán-Bernal S.A.S.,2022-09-18,951377.53,DEBIT,Ducimus officia a error vel.
+189,Gómez-Cardozo S.A.S.,2024-09-13,1833.94,CREDIT,Numquam alias impedit maxime.
+190,Mosquera-Medina S.A.S.,2025-01-04,500039.56,CREDIT,Sed saepe inventore dolorem aliquam.
+191,Calderón and Sons S.A.S.,2024-08-18,630105.09,CREDIT,Tempora temporibus unde voluptatibus.
+192,Castro-Flórez S.A.S.,2023-08-03,320736.11,CREDIT,Quis numquam vitae perspiciatis quis.
+193,"García, Castro and Rendón S.A.S.",2023-06-12,68076.34,DEBIT,Tenetur odio magni.
+194,Garcés-Buitrago S.A.S.,2022-08-27,977567.33,DEBIT,Doloremque voluptatibus blanditiis ut.
+195,Oviedo-Domínguez S.A.S.,2020-06-13,540060.92,DEBIT,Inventore eaque quas a odit.
+196,Portilla-Palacios S.A.S.,2024-05-17,674481.83,DEBIT,Nemo dolore officiis aliquid.
+197,Muñoz LLC S.A.S.,2023-12-30,888399.88,CREDIT,Nobis voluptates quam aspernatur non.
+198,Gómez-Cardozo S.A.S.,2025-01-15,541380.3,DEBIT,Eaque culpa consectetur tempora amet nemo.
+199,Posada-Peña S.A.S.,2023-07-14,304682.44,DEBIT,Ipsum quisquam quidem repudiandae.
+200,Oviedo-Domínguez S.A.S.,2022-09-19,533803.09,CREDIT,Deserunt nostrum aspernatur iste cupiditate.
+201,Ramírez LLC S.A.S.,2021-08-10,755649.59,DEBIT,Vitae nesciunt expedita autem animi temporibus.
+202,Vargas-Álvarez S.A.S.,2024-11-10,358167.99,DEBIT,Quidem molestiae sit laudantium.
+203,Muñoz LLC S.A.S.,2024-02-21,6217.15,CREDIT,Tempore quae tempora quidem debitis iure.
+204,Jaimes-Quintero S.A.S.,2024-01-04,450156.6,DEBIT,Vitae perspiciatis id velit maiores qui.
+205,Calderón and Sons S.A.S.,2020-08-27,110666.29,DEBIT,Labore eligendi consectetur voluptate incidunt et.
+206,Oviedo-Domínguez S.A.S.,2023-11-21,859315.48,DEBIT,Mollitia dolor minus nemo consectetur.
+207,"Galvis, Ramírez and Angarita S.A.S.",2023-11-12,428877.2,DEBIT,Harum in quasi qui.
+208,Rodríguez-Martínez S.A.S.,2024-01-21,275585.53,DEBIT,Porro a magnam delectus.
+209,Gómez-Cardozo S.A.S.,2022-01-20,949747.68,CREDIT,Rerum modi pariatur velit provident.
+210,Flórez Ltd S.A.S.,2022-07-06,539350.09,DEBIT,Rerum quam ipsam laboriosam suscipit.
+211,"Reyes, Álvarez and Hernández S.A.S.",2021-03-19,702578.46,CREDIT,Eligendi magnam optio.
+212,Portilla-Palacios S.A.S.,2024-07-17,268391.5,CREDIT,Inventore provident reiciendis nostrum.
+213,Rodríguez-Martínez S.A.S.,2023-02-21,502759.91,DEBIT,Natus repellat eum a.
+214,Gil-Salazar S.A.S.,2022-04-14,309782.15,CREDIT,Mollitia excepturi molestias.
+215,"García, Castro and Rendón S.A.S.",2021-08-16,39258.81,CREDIT,Fugit perspiciatis voluptas dolore.
+216,"Gómez, Sanabria and Pulido S.A.S.",2020-07-18,560624.06,CREDIT,Ad animi ratione necessitatibus tempora eligendi.
+217,Portilla-Palacios S.A.S.,2022-08-02,593109.34,CREDIT,Vel quis aspernatur aliquid quibusdam magnam.
+218,"Palacios, Becerra and Rodríguez S.A.S.",2025-02-15,822094.02,CREDIT,Rerum fugit earum.
+219,Calderón and Sons S.A.S.,2021-09-23,124334.44,CREDIT,Ex dolore quae officiis.
+220,Muñoz LLC S.A.S.,2021-10-30,517449.44,CREDIT,Excepturi repudiandae fugit.
+221,Mosquera-Medina S.A.S.,2024-11-14,540557.15,CREDIT,Impedit voluptatibus quidem necessitatibus.
+222,"Buitrago, García and García S.A.S.",2023-05-08,363855.93,DEBIT,Praesentium vero atque.
+223,"Buitrago, García and García S.A.S.",2022-08-06,326291.12,DEBIT,In nesciunt pariatur assumenda non.
+224,Reyes-Zambrano S.A.S.,2021-04-18,921811.71,DEBIT,Facere aliquam qui voluptates beatae animi.
+225,Posada-Peña S.A.S.,2021-06-02,330305.6,CREDIT,Officiis magni repudiandae distinctio.
+226,"Buitrago, García and García S.A.S.",2022-03-01,149460.27,CREDIT,Ab hic dignissimos.
+227,"Reyes, Álvarez and Hernández S.A.S.",2025-01-07,163758.37,CREDIT,Veritatis sapiente omnis neque quidem fugiat.
+228,"Galvis, Ramírez and Angarita S.A.S.",2021-03-06,464732.73,CREDIT,Qui harum neque occaecati.
+229,Gil-Salazar S.A.S.,2021-09-21,293592.8,DEBIT,Facere quae error maiores quibusdam.
+230,"García, Castro and Rendón S.A.S.",2022-12-19,799029.8,DEBIT,Nisi doloremque atque et quam.
+231,Calderón and Sons S.A.S.,2022-09-04,821458.66,CREDIT,Error libero deleniti.
+232,Garcés-Buitrago S.A.S.,2024-12-13,954747.26,CREDIT,Mollitia accusantium fugiat recusandae.
+233,"Pacheco, Velandia and Ávila S.A.S.",2021-10-08,815218.55,CREDIT,Sit dolor exercitationem.
+234,Castro-Flórez S.A.S.,2022-11-09,157167.85,DEBIT,Sapiente dolore beatae minus mollitia consequuntur.
+235,Mosquera-Medina S.A.S.,2021-11-29,471423.81,DEBIT,Sed laudantium natus enim.
+236,Portilla-Palacios S.A.S.,2023-08-19,975164.87,DEBIT,Dolorum deserunt amet aspernatur illo tempora.
+237,"Galvis, Ramírez and Angarita S.A.S.",2024-09-14,556700.6,DEBIT,Eaque quia qui expedita.
+238,Reyes-Zambrano S.A.S.,2023-11-15,671779.12,CREDIT,Minus corporis pariatur provident laudantium.
+239,Flórez Ltd S.A.S.,2023-01-09,509959.06,DEBIT,Nulla tempora eveniet vitae expedita.
+240,"Reyes, Álvarez and Hernández S.A.S.",2020-08-20,436843.41,CREDIT,Laboriosam optio quo facere dolor.
+241,"Pacheco, Velandia and Ávila S.A.S.",2024-02-18,888077.02,DEBIT,Occaecati cupiditate rerum beatae aliquam.
+242,Posada-Peña S.A.S.,2024-06-22,786421.66,DEBIT,Eligendi magni earum itaque.
+243,Rodríguez-Martínez S.A.S.,2021-01-06,212270.29,CREDIT,Eveniet ullam excepturi voluptatibus pariatur.
+244,Jaimes-Quintero S.A.S.,2021-11-18,273131.03,DEBIT,Nobis debitis sequi.
+245,"Gómez, Sanabria and Pulido S.A.S.",2022-07-11,522317.82,DEBIT,Eligendi ea quam eos unde.
+246,Gómez-Cardozo S.A.S.,2023-10-05,400795.0,DEBIT,Necessitatibus non autem exercitationem.
+247,González Inc S.A.S.,2022-12-13,679459.65,DEBIT,Doloribus quae nisi accusamus hic molestias.
+248,Posada-Peña S.A.S.,2021-06-02,214528.49,CREDIT,Voluptates veniam laborum eaque doloribus perferendis.
+249,Durán-Bernal S.A.S.,2021-01-04,731653.79,DEBIT,Atque earum distinctio pariatur.
+250,Castro-Flórez S.A.S.,2023-01-11,209679.31,DEBIT,Eius illum commodi ipsa ipsa dolor.
+251,Castro-Flórez S.A.S.,2022-06-22,734803.31,DEBIT,Voluptas nihil reprehenderit ipsa.
+252,"García, Castro and Rendón S.A.S.",2021-09-12,942033.7,DEBIT,Quisquam et dolores.
+253,Oviedo-Domínguez S.A.S.,2023-10-31,518342.26,DEBIT,Consequatur ipsam natus aliquid nulla.
+254,Flórez Ltd S.A.S.,2021-06-05,685365.68,CREDIT,Ratione itaque iusto laudantium.
+255,Gil-Salazar S.A.S.,2024-09-14,96905.73,DEBIT,In nostrum delectus quibusdam officia.
+256,González Inc S.A.S.,2024-09-21,492387.99,DEBIT,Earum reprehenderit adipisci incidunt dolorem dicta.
+257,Gómez-Cardozo S.A.S.,2024-09-03,866869.53,CREDIT,Dicta necessitatibus possimus fugit beatae maiores.
+258,Portilla-Palacios S.A.S.,2020-12-29,187449.55,DEBIT,Quaerat impedit aspernatur accusamus expedita.
+259,Garcés-Buitrago S.A.S.,2023-06-21,826473.75,DEBIT,Doloribus ut sit.
+260,"Palacios, Becerra and Rodríguez S.A.S.",2022-05-29,568921.15,DEBIT,Ratione eligendi quis occaecati doloremque porro.
+261,Ramírez LLC S.A.S.,2021-01-18,515533.98,CREDIT,Beatae necessitatibus odit sed magnam.
+262,Reyes-Zambrano S.A.S.,2023-09-19,182839.92,CREDIT,Ipsa fuga eum.
+263,Rodríguez-Martínez S.A.S.,2022-01-18,930547.22,CREDIT,Expedita ad ea commodi.
+264,Gil-Salazar S.A.S.,2022-12-25,395728.62,DEBIT,Neque odit commodi voluptatum porro.
+265,"Galvis, Ramírez and Angarita S.A.S.",2025-04-13,338537.06,CREDIT,Nostrum voluptas exercitationem numquam eligendi eum.
+266,Reyes-Zambrano S.A.S.,2021-11-24,419877.57,CREDIT,Nam distinctio odit sapiente minus.
+267,Gómez-Cardozo S.A.S.,2022-08-04,750243.97,CREDIT,Delectus nisi sequi doloremque atque cupiditate.
+268,Posada-Peña S.A.S.,2022-01-21,31418.53,CREDIT,Voluptates quidem temporibus libero architecto.
+269,"Pacheco, Velandia and Ávila S.A.S.",2023-06-23,726035.08,CREDIT,Possimus excepturi exercitationem.
+270,"Buitrago, García and García S.A.S.",2020-10-06,876979.4,DEBIT,Ducimus odio quis sequi assumenda.
+271,Rodríguez-Martínez S.A.S.,2023-08-23,475315.96,DEBIT,Illo consequuntur voluptatibus quibusdam possimus placeat.
+272,"Pacheco, Velandia and Ávila S.A.S.",2021-09-19,690780.1,CREDIT,Modi accusantium quo inventore dignissimos.
+273,"Gómez, Sanabria and Pulido S.A.S.",2021-09-11,176311.31,DEBIT,Voluptate dicta enim corporis illo.
+274,Oviedo-Domínguez S.A.S.,2024-02-09,295878.47,DEBIT,Sed neque sint voluptatem doloribus.
+275,Flórez Ltd S.A.S.,2024-06-26,654969.57,DEBIT,Nulla minus minus possimus repellendus.
+276,"Galvis, Ramírez and Angarita S.A.S.",2023-12-09,656256.57,CREDIT,Aliquid perferendis temporibus quia qui occaecati.
+277,Flórez Ltd S.A.S.,2025-05-15,635398.75,DEBIT,Ab aut quas qui ullam.
+278,Mosquera-Medina S.A.S.,2022-12-21,200962.09,CREDIT,Sunt quasi ducimus libero voluptatibus voluptatum.
+279,Durán-Bernal S.A.S.,2020-06-11,588938.83,DEBIT,Facilis fuga voluptatibus.
+280,"Buitrago, García and García S.A.S.",2022-04-21,463314.04,CREDIT,Harum necessitatibus fugit.
+281,Ramírez LLC S.A.S.,2023-10-09,560853.02,DEBIT,Molestias delectus eligendi asperiores soluta aspernatur.
+282,Muñoz LLC S.A.S.,2024-07-31,515496.02,CREDIT,Id doloribus nostrum molestiae.
+283,"Gómez, Sanabria and Pulido S.A.S.",2021-03-14,350978.48,DEBIT,Ipsam repudiandae nostrum placeat in at est.
+284,Mosquera-Medina S.A.S.,2020-11-26,403768.09,DEBIT,Totam sit nam.
+285,Rodríguez-Martínez S.A.S.,2020-11-10,321579.0,CREDIT,Voluptate rem hic at tempore veritatis.
+286,"Buitrago, García and García S.A.S.",2021-08-14,827206.43,DEBIT,Rerum eos debitis.
+287,"García, Castro and Rendón S.A.S.",2021-10-31,912341.65,CREDIT,Eum placeat sed totam quibusdam.
+288,Reyes-Zambrano S.A.S.,2022-11-09,610154.87,CREDIT,Voluptatibus veritatis laborum earum vel earum quos.
+289,"Reyes, Álvarez and Hernández S.A.S.",2020-12-10,849659.67,DEBIT,Molestias corrupti eveniet sunt.
+290,Calderón and Sons S.A.S.,2024-02-09,720236.96,DEBIT,Tempora ducimus reiciendis.
+291,Vargas-Álvarez S.A.S.,2020-08-28,97454.39,CREDIT,Cumque voluptas perferendis odio maxime dolorum.
+292,Durán-Bernal S.A.S.,2020-10-16,298340.59,CREDIT,Alias tempora impedit voluptates labore fugiat.
+293,"Palacios, Becerra and Rodríguez S.A.S.",2022-06-27,179582.79,CREDIT,Reiciendis officiis error.
+294,Portilla-Palacios S.A.S.,2024-02-20,985380.53,DEBIT,Explicabo explicabo ut.
+295,Mosquera-Medina S.A.S.,2023-04-16,768915.08,CREDIT,Nam delectus magnam nesciunt.
+296,Rodríguez-Martínez S.A.S.,2021-02-22,592339.04,DEBIT,Commodi distinctio doloribus eveniet corrupti in.
+297,Gil-Salazar S.A.S.,2020-12-03,724857.22,CREDIT,Repudiandae delectus assumenda.
+298,Calderón and Sons S.A.S.,2023-12-15,174896.34,DEBIT,Quo quas ratione laboriosam amet amet.
+299,González Inc S.A.S.,2025-05-04,277114.79,CREDIT,Numquam possimus odio.
+300,Gómez-Cardozo S.A.S.,2022-12-06,669704.76,CREDIT,Facilis alias at aliquam nemo.
+301,"Galvis, Ramírez and Angarita S.A.S.",2022-08-20,556958.15,CREDIT,Alias quaerat eius.
+302,González Inc S.A.S.,2023-02-25,569554.36,CREDIT,Autem impedit tempore eos repellendus.
+303,Mosquera-Medina S.A.S.,2020-07-21,782083.73,DEBIT,Dolorum neque natus.
+304,Ramírez LLC S.A.S.,2024-08-31,758408.9,CREDIT,Placeat tempora voluptatum temporibus officiis.
+305,Castro-Flórez S.A.S.,2023-05-08,618507.32,DEBIT,Cumque porro aliquam.
+306,Reyes-Zambrano S.A.S.,2023-08-09,378291.24,DEBIT,Accusamus mollitia est quisquam voluptatibus provident.
+307,Rodríguez-Martínez S.A.S.,2022-04-20,166414.89,CREDIT,Recusandae inventore fuga assumenda et incidunt.
+308,Portilla-Palacios S.A.S.,2025-03-08,852038.26,CREDIT,Cumque itaque incidunt.
+309,"Gómez, Sanabria and Pulido S.A.S.",2020-11-27,973865.68,DEBIT,Saepe doloremque adipisci facere dolore.
+310,Rodríguez-Martínez S.A.S.,2022-09-20,385262.6,CREDIT,Quas saepe omnis optio.
+311,Durán-Bernal S.A.S.,2024-04-17,804327.66,DEBIT,Odio provident enim.
+312,Oviedo-Domínguez S.A.S.,2023-05-14,14342.35,CREDIT,Quae ducimus quibusdam veritatis ullam esse.
+313,Gómez-Cardozo S.A.S.,2021-06-01,155475.36,CREDIT,Fugit unde earum.
+314,Posada-Peña S.A.S.,2021-09-06,199371.57,CREDIT,Blanditiis voluptates provident cumque necessitatibus perferendis.
+315,Muñoz LLC S.A.S.,2022-01-03,282802.88,CREDIT,Nisi sapiente tempore.
+316,Oviedo-Domínguez S.A.S.,2021-05-25,927320.25,CREDIT,Unde quam illo.
+317,Calderón and Sons S.A.S.,2024-08-17,956931.04,DEBIT,Eaque quasi a neque.
+318,Muñoz LLC S.A.S.,2023-11-10,659911.55,DEBIT,Doloremque similique quidem quisquam perferendis at.
+319,"Galvis, Ramírez and Angarita S.A.S.",2023-09-10,475131.49,DEBIT,Consequuntur dolore harum ipsam eveniet.
+320,Gómez-Cardozo S.A.S.,2024-07-14,196283.66,CREDIT,Molestiae quae eius animi.
+321,Calderón and Sons S.A.S.,2020-09-25,678473.66,DEBIT,Sunt suscipit doloribus.
+322,Vargas-Álvarez S.A.S.,2022-06-17,409007.92,CREDIT,Modi laborum sapiente animi quos.
+323,"García, Castro and Rendón S.A.S.",2023-01-19,877913.79,CREDIT,Nemo officia minus natus dolor minima.
+324,Rodríguez-Martínez S.A.S.,2024-12-30,989251.32,CREDIT,Laborum ab reprehenderit.
+325,Reyes-Zambrano S.A.S.,2025-02-17,547120.02,CREDIT,Tenetur quae delectus.
+326,Gil-Salazar S.A.S.,2022-12-15,845214.29,DEBIT,Recusandae quas quisquam.
+327,"Gómez, Sanabria and Pulido S.A.S.",2021-11-07,805609.35,CREDIT,Unde omnis adipisci quisquam deserunt.
+328,Mosquera-Medina S.A.S.,2023-02-23,746581.2,DEBIT,Doloribus incidunt laboriosam facere voluptates sit.
+329,Posada-Peña S.A.S.,2022-01-16,138234.41,CREDIT,Sapiente quos temporibus voluptatum.
+330,Garcés-Buitrago S.A.S.,2022-04-25,753622.43,CREDIT,Ut eius corporis quia recusandae dicta.
+331,"Buitrago, García and García S.A.S.",2023-05-09,875906.25,CREDIT,Neque quisquam libero dolores ut voluptate.
+332,Portilla-Palacios S.A.S.,2023-03-25,816946.64,CREDIT,Enim quas dicta similique cumque pariatur.
+333,"Reyes, Álvarez and Hernández S.A.S.",2024-01-18,746125.94,DEBIT,Nobis officia aliquam sed veniam itaque.
+334,"Reyes, Álvarez and Hernández S.A.S.",2022-02-06,498257.76,CREDIT,Exercitationem reiciendis iusto quidem voluptas.
+335,Gómez-Cardozo S.A.S.,2024-05-06,706701.1,CREDIT,Similique iusto eligendi maiores.
+336,"Galvis, Ramírez and Angarita S.A.S.",2020-09-16,718766.84,CREDIT,Voluptatem enim voluptatem consequuntur iste deleniti debitis.
+337,Reyes-Zambrano S.A.S.,2023-05-03,843230.04,DEBIT,Enim aliquid facere doloribus.
+338,"Buitrago, García and García S.A.S.",2023-09-05,610678.37,CREDIT,Autem accusamus eaque.
+339,"Galvis, Ramírez and Angarita S.A.S.",2021-08-09,206669.81,DEBIT,Repellendus voluptate esse quaerat cupiditate placeat.
+340,"Palacios, Becerra and Rodríguez S.A.S.",2024-05-29,634008.38,DEBIT,Vero a ea blanditiis soluta ad.
+341,Reyes-Zambrano S.A.S.,2023-11-12,577353.52,CREDIT,Totam dolor est ab.
+342,Rodríguez-Martínez S.A.S.,2024-11-07,759329.34,DEBIT,Minus inventore quos libero.
+343,"García, Castro and Rendón S.A.S.",2023-12-31,621389.64,CREDIT,Maxime mollitia reiciendis.
+344,Reyes-Zambrano S.A.S.,2024-12-12,325954.42,DEBIT,Aspernatur reprehenderit iure id assumenda dolor.
+345,Garcés-Buitrago S.A.S.,2020-12-10,738640.52,DEBIT,Possimus perspiciatis praesentium provident.
+346,Vargas-Álvarez S.A.S.,2020-09-13,323289.51,DEBIT,Tempore consequuntur corrupti impedit.
+347,Muñoz LLC S.A.S.,2023-04-27,134814.02,DEBIT,Similique ipsum laboriosam totam corporis voluptates.
+348,"García, Castro and Rendón S.A.S.",2021-07-10,849184.44,CREDIT,Quia facere voluptatum modi.
+349,Calderón and Sons S.A.S.,2021-11-24,506533.57,CREDIT,Animi maxime similique possimus quae.
+350,"Palacios, Becerra and Rodríguez S.A.S.",2020-08-30,775241.69,CREDIT,Numquam laborum ducimus illum.
+351,Vargas-Álvarez S.A.S.,2024-08-28,11128.74,CREDIT,Nesciunt itaque facilis.
+352,Muñoz LLC S.A.S.,2022-03-27,406205.46,CREDIT,Dignissimos fugiat cumque.
+353,"Pacheco, Velandia and Ávila S.A.S.",2022-01-31,536934.08,DEBIT,Hic aspernatur minima accusantium accusamus porro.
+354,Rodríguez-Martínez S.A.S.,2022-07-01,627265.03,DEBIT,Natus molestiae fugit voluptatum deleniti.
+355,Portilla-Palacios S.A.S.,2020-09-08,58430.42,CREDIT,Nobis ex expedita earum modi.
+356,Oviedo-Domínguez S.A.S.,2022-03-31,749594.08,DEBIT,Repellendus tempore laboriosam est error perferendis.
+357,Rodríguez-Martínez S.A.S.,2024-11-16,898725.68,DEBIT,Adipisci illo error expedita.
+358,Reyes-Zambrano S.A.S.,2022-07-15,600896.75,DEBIT,Ut veritatis ipsa.
+359,Castro-Flórez S.A.S.,2024-11-27,590721.32,DEBIT,Tempora nisi eos perferendis nam iure.
+360,Ramírez LLC S.A.S.,2023-08-08,542123.52,DEBIT,Repellat quo perspiciatis laudantium animi.
+361,Castro-Flórez S.A.S.,2021-08-11,497211.57,DEBIT,Assumenda explicabo voluptas deserunt.
+362,Mosquera-Medina S.A.S.,2020-12-27,591367.91,DEBIT,Quisquam soluta adipisci fuga.
+363,Vargas-Álvarez S.A.S.,2020-07-09,879929.21,CREDIT,Quisquam quia autem iste.
+364,Posada-Peña S.A.S.,2022-08-01,77684.91,CREDIT,Itaque laboriosam consequatur quasi beatae.
+365,Rodríguez-Martínez S.A.S.,2021-09-22,386113.12,DEBIT,Laudantium libero nostrum amet sequi quisquam totam.
+366,Gil-Salazar S.A.S.,2022-08-09,988664.34,DEBIT,Totam vel adipisci quisquam aliquid.
+367,Mosquera-Medina S.A.S.,2022-05-17,944980.36,CREDIT,Possimus tempora libero et laborum expedita.
+368,Rodríguez-Martínez S.A.S.,2022-11-09,740575.86,CREDIT,Qui dolores officiis sit id consequuntur.
+369,"Reyes, Álvarez and Hernández S.A.S.",2020-11-02,51790.76,DEBIT,Natus facere saepe doloribus.
+370,Posada-Peña S.A.S.,2024-11-05,18475.08,CREDIT,Repudiandae non natus veritatis maxime beatae.
+371,"Reyes, Álvarez and Hernández S.A.S.",2020-10-03,108652.12,DEBIT,Ullam itaque fugiat consectetur.
+372,Vargas-Álvarez S.A.S.,2024-09-03,475035.14,CREDIT,Expedita porro labore voluptatibus.
+373,"Palacios, Becerra and Rodríguez S.A.S.",2025-04-04,482515.45,DEBIT,Est quo similique.
+374,Durán-Bernal S.A.S.,2020-11-26,606249.33,DEBIT,Assumenda aperiam eum perspiciatis eligendi.
+375,"García, Castro and Rendón S.A.S.",2023-10-06,281292.85,DEBIT,Fuga cumque veritatis adipisci.
+376,González Inc S.A.S.,2020-09-09,446201.33,CREDIT,Hic ullam aspernatur laudantium id.
+377,"Buitrago, García and García S.A.S.",2021-06-11,462429.33,DEBIT,Sapiente expedita ut sequi sequi et.
+378,"Pacheco, Velandia and Ávila S.A.S.",2024-08-25,421201.47,CREDIT,Illum ea quae dignissimos.
+379,Ramírez LLC S.A.S.,2022-08-20,557375.64,CREDIT,Quasi rerum corrupti nihil quisquam vitae.
+380,Posada-Peña S.A.S.,2021-02-25,159537.75,CREDIT,Quibusdam cum consectetur cupiditate iste.
+381,Durán-Bernal S.A.S.,2021-07-06,726419.33,CREDIT,Asperiores rerum quas ipsam consectetur delectus.
+382,González Inc S.A.S.,2021-06-05,80051.71,CREDIT,Blanditiis voluptatibus officiis.
+383,Oviedo-Domínguez S.A.S.,2022-11-04,322340.97,DEBIT,Corporis voluptate dolore.
+384,Posada-Peña S.A.S.,2024-07-10,40981.82,CREDIT,Praesentium nisi animi pariatur.
+385,Calderón and Sons S.A.S.,2025-05-13,737861.95,CREDIT,Repellendus et nisi.
+386,"García, Castro and Rendón S.A.S.",2023-08-29,999744.89,CREDIT,Veritatis odit magni culpa culpa quidem.
+387,Gil-Salazar S.A.S.,2024-11-28,683694.34,DEBIT,Tempora debitis quasi aliquam non.
+388,Mosquera-Medina S.A.S.,2020-12-02,231735.59,DEBIT,Veritatis veritatis quasi quam commodi in.
+389,"Palacios, Becerra and Rodríguez S.A.S.",2024-01-18,985699.55,DEBIT,Accusamus vel iste.
+390,"Galvis, Ramírez and Angarita S.A.S.",2023-04-13,706472.03,DEBIT,Tenetur labore deserunt.
+391,"Buitrago, García and García S.A.S.",2023-10-20,907620.8,CREDIT,Optio id iste libero corrupti ad.
+392,"Reyes, Álvarez and Hernández S.A.S.",2025-04-11,763960.05,DEBIT,Blanditiis assumenda quasi dolorum molestias tempore.
+393,"Pacheco, Velandia and Ávila S.A.S.",2020-11-25,330789.03,CREDIT,Impedit quidem consequuntur.
+394,"Pacheco, Velandia and Ávila S.A.S.",2022-08-16,142257.1,DEBIT,Error odit mollitia in cumque.
+395,Mosquera-Medina S.A.S.,2025-05-14,396044.64,DEBIT,Enim ullam quae.
+396,"Pacheco, Velandia and Ávila S.A.S.",2024-04-01,103904.09,CREDIT,Laudantium aspernatur enim.
+397,"Gómez, Sanabria and Pulido S.A.S.",2021-08-02,458468.74,CREDIT,Ut pariatur sunt repudiandae.
+398,"Pacheco, Velandia and Ávila S.A.S.",2023-10-25,550448.64,DEBIT,Architecto explicabo sunt dolores corporis.
+399,Ramírez LLC S.A.S.,2023-08-21,901669.04,DEBIT,Mollitia perspiciatis iure.
+400,Rodríguez-Martínez S.A.S.,2023-03-25,970091.9,DEBIT,Laudantium id suscipit.
+401,Portilla-Palacios S.A.S.,2022-05-22,305123.28,CREDIT,Molestiae officia qui maxime.
+402,Castro-Flórez S.A.S.,2024-09-05,160287.92,DEBIT,Mollitia vero quam animi cum.
+403,Vargas-Álvarez S.A.S.,2025-03-19,900603.39,DEBIT,Libero accusantium corrupti nisi.
+404,Gómez-Cardozo S.A.S.,2022-01-11,15424.53,DEBIT,Nam nihil sapiente voluptas accusantium suscipit.
+405,"Palacios, Becerra and Rodríguez S.A.S.",2021-07-24,350184.3,CREDIT,Voluptatem animi temporibus beatae necessitatibus.
+406,Flórez Ltd S.A.S.,2022-11-26,408965.84,CREDIT,Impedit voluptatum minus.
+407,"Galvis, Ramírez and Angarita S.A.S.",2020-07-06,844550.44,CREDIT,Perspiciatis architecto tempora quia dolores.
+408,Durán-Bernal S.A.S.,2022-07-07,123069.98,CREDIT,Voluptatibus rem inventore.
+409,"Galvis, Ramírez and Angarita S.A.S.",2024-11-02,84686.26,CREDIT,Aspernatur fugiat quod ratione quos adipisci.
+410,"Reyes, Álvarez and Hernández S.A.S.",2023-03-12,998611.52,DEBIT,Commodi quis recusandae sapiente quaerat ea.
+411,"Reyes, Álvarez and Hernández S.A.S.",2022-01-30,549857.65,DEBIT,Consequuntur sit reiciendis nulla.
+412,Reyes-Zambrano S.A.S.,2023-08-30,763818.59,CREDIT,Minus in harum quas.
+413,Jaimes-Quintero S.A.S.,2023-06-11,493539.25,DEBIT,Explicabo aperiam debitis mollitia.
+414,Flórez Ltd S.A.S.,2024-10-24,696029.66,DEBIT,Quam sunt cupiditate hic delectus.
+415,"Galvis, Ramírez and Angarita S.A.S.",2020-07-29,831081.29,CREDIT,Pariatur eaque dolore nam mollitia error.
+416,Rodríguez-Martínez S.A.S.,2023-11-27,692037.58,CREDIT,Incidunt excepturi alias exercitationem in.
+417,Mosquera-Medina S.A.S.,2024-11-19,160784.51,CREDIT,Error consectetur quis.
+418,Calderón and Sons S.A.S.,2021-03-26,711571.91,CREDIT,Fuga porro maxime.
+419,Garcés-Buitrago S.A.S.,2021-11-24,592491.02,CREDIT,Sunt quae totam quaerat corrupti ipsum.
+420,Gil-Salazar S.A.S.,2022-06-24,703853.77,CREDIT,Voluptas consequatur odit.
+421,"Galvis, Ramírez and Angarita S.A.S.",2022-02-28,415775.58,CREDIT,Tempore cum possimus eveniet.
+422,"Pacheco, Velandia and Ávila S.A.S.",2021-01-06,276236.81,DEBIT,A in laudantium sed hic sint.
+423,Ramírez LLC S.A.S.,2023-01-09,67621.91,CREDIT,Nostrum facilis maxime nam.
+424,"García, Castro and Rendón S.A.S.",2022-09-13,593778.86,DEBIT,Id nisi deleniti maxime nam voluptates.
+425,Durán-Bernal S.A.S.,2023-09-20,563184.04,DEBIT,Eveniet provident blanditiis est maiores impedit.
+426,Flórez Ltd S.A.S.,2025-01-07,601418.13,CREDIT,Blanditiis vero natus soluta magnam.
+427,Muñoz LLC S.A.S.,2024-08-20,515040.02,DEBIT,Natus non officia.
+428,Vargas-Álvarez S.A.S.,2021-11-08,612360.35,CREDIT,Culpa qui maxime impedit assumenda.
+429,Ramírez LLC S.A.S.,2024-12-24,702385.86,CREDIT,Ipsa beatae voluptatem ea esse.
+430,Gil-Salazar S.A.S.,2020-10-18,797071.92,CREDIT,Quo iste quaerat.
+431,Portilla-Palacios S.A.S.,2024-05-31,303287.83,DEBIT,Vel soluta animi dolor officia.
+432,Reyes-Zambrano S.A.S.,2020-09-22,433587.16,DEBIT,Itaque in quisquam perspiciatis veniam.
+433,Ramírez LLC S.A.S.,2023-06-17,872925.15,CREDIT,Impedit porro ipsum officiis eligendi temporibus.
+434,"Buitrago, García and García S.A.S.",2024-11-11,127087.44,DEBIT,Aut quo quibusdam optio eius deleniti.
+435,"Galvis, Ramírez and Angarita S.A.S.",2021-12-21,237746.68,CREDIT,Doloribus sint earum quas ab.
+436,Castro-Flórez S.A.S.,2025-03-16,915087.74,DEBIT,Magni explicabo animi tenetur sint.
+437,"García, Castro and Rendón S.A.S.",2023-02-06,378140.53,DEBIT,Occaecati numquam voluptatum soluta.
+438,González Inc S.A.S.,2023-10-28,759073.59,DEBIT,Iusto mollitia fuga magnam eum.
+439,"Palacios, Becerra and Rodríguez S.A.S.",2021-03-11,25367.03,CREDIT,Iusto amet quidem necessitatibus inventore.
+440,Ramírez LLC S.A.S.,2021-05-22,58947.58,CREDIT,Iure ullam quasi.
+441,"García, Castro and Rendón S.A.S.",2024-03-22,14660.29,DEBIT,Nemo esse asperiores.
+442,Gil-Salazar S.A.S.,2022-04-10,685281.75,DEBIT,Dolores porro quam fugiat.
+443,Durán-Bernal S.A.S.,2021-05-02,910217.25,CREDIT,Ad vel inventore.
+444,Gómez-Cardozo S.A.S.,2020-09-17,916056.74,DEBIT,Nostrum odio accusantium deserunt atque.
+445,Jaimes-Quintero S.A.S.,2021-07-01,129879.92,DEBIT,Nulla corrupti sunt aperiam laboriosam.
+446,González Inc S.A.S.,2023-01-03,886489.57,CREDIT,Voluptates perferendis est architecto eaque.
+447,"Reyes, Álvarez and Hernández S.A.S.",2024-08-09,886538.23,CREDIT,Aliquid minus blanditiis.
+448,"García, Castro and Rendón S.A.S.",2023-12-21,982600.19,DEBIT,Eaque eos itaque recusandae eveniet ex.
+449,"Galvis, Ramírez and Angarita S.A.S.",2024-01-27,129932.83,CREDIT,Voluptates eius repellendus quam qui dolore.
+450,Castro-Flórez S.A.S.,2021-02-06,378134.39,CREDIT,Id expedita laborum expedita ad.
+451,"Gómez, Sanabria and Pulido S.A.S.",2022-10-20,19529.67,CREDIT,Maiores dolorem debitis ipsum harum.
+452,"Galvis, Ramírez and Angarita S.A.S.",2023-11-02,542653.97,DEBIT,Qui quod dolores vel quae.
+453,González Inc S.A.S.,2020-07-17,735566.66,CREDIT,Perferendis explicabo iusto quam earum.
+454,Mosquera-Medina S.A.S.,2025-02-05,122832.26,CREDIT,Amet aspernatur earum minima distinctio vel.
+455,Gil-Salazar S.A.S.,2020-08-24,521773.76,DEBIT,Atque modi officia harum.
+456,Gil-Salazar S.A.S.,2021-11-07,313580.26,CREDIT,Id delectus ex nostrum minima.
+457,Rodríguez-Martínez S.A.S.,2023-06-04,76083.95,DEBIT,Praesentium aliquid dignissimos nemo qui error.
+458,Jaimes-Quintero S.A.S.,2021-04-03,816904.35,DEBIT,Aperiam fugit adipisci.
+459,Vargas-Álvarez S.A.S.,2023-02-07,868750.8,CREDIT,Cupiditate soluta harum delectus occaecati non.
+460,"García, Castro and Rendón S.A.S.",2024-08-29,505628.88,DEBIT,Accusantium amet neque doloribus.
+461,Portilla-Palacios S.A.S.,2020-07-25,499784.61,CREDIT,Ex accusamus perspiciatis nemo hic at repudiandae.
+462,Calderón and Sons S.A.S.,2021-04-01,281405.93,CREDIT,Aliquam dolore assumenda aspernatur eos.
+463,"Reyes, Álvarez and Hernández S.A.S.",2022-07-09,156800.11,CREDIT,Cupiditate quod accusantium suscipit doloremque.
+464,"García, Castro and Rendón S.A.S.",2020-08-05,188764.03,DEBIT,Rem omnis assumenda recusandae nostrum soluta.
+465,Flórez Ltd S.A.S.,2024-01-28,27136.47,CREDIT,Fugiat similique omnis nam.
+466,Jaimes-Quintero S.A.S.,2020-06-21,288956.06,CREDIT,Voluptas qui officia.
+467,Portilla-Palacios S.A.S.,2021-03-21,209698.01,CREDIT,Et natus consectetur fugiat commodi.
+468,"Gómez, Sanabria and Pulido S.A.S.",2022-03-22,300387.75,CREDIT,Ipsam rerum in nam.
+469,Castro-Flórez S.A.S.,2020-10-25,562465.07,CREDIT,Ipsa quasi cupiditate harum.
+470,Muñoz LLC S.A.S.,2021-05-18,410134.32,CREDIT,Placeat laboriosam consequatur modi impedit temporibus.
+471,Mosquera-Medina S.A.S.,2025-01-29,792114.24,CREDIT,Illum labore velit.
+472,Durán-Bernal S.A.S.,2020-09-05,705275.41,DEBIT,Aliquam repellat provident nulla.
+473,"García, Castro and Rendón S.A.S.",2021-01-12,108988.1,CREDIT,Voluptates fugit fuga accusamus nobis rem.
+474,Oviedo-Domínguez S.A.S.,2023-06-30,209853.43,CREDIT,Aut esse officia.
+475,Castro-Flórez S.A.S.,2023-01-22,294983.03,DEBIT,Cumque neque hic adipisci voluptates natus.
+476,Posada-Peña S.A.S.,2024-12-06,982180.85,CREDIT,Placeat natus aut temporibus expedita possimus.
+477,Reyes-Zambrano S.A.S.,2022-09-02,967226.74,CREDIT,Nam eaque quia eos exercitationem.
+478,Gómez-Cardozo S.A.S.,2024-05-24,994509.15,DEBIT,Nulla odio dolor esse nulla.
+479,Rodríguez-Martínez S.A.S.,2020-10-25,947627.88,CREDIT,Sed optio facilis sit in maxime.
+480,Muñoz LLC S.A.S.,2021-10-16,681981.75,DEBIT,Distinctio ratione autem et odit dolores.
+481,"Galvis, Ramírez and Angarita S.A.S.",2021-02-10,124911.68,CREDIT,Nihil officia provident explicabo.
+482,Castro-Flórez S.A.S.,2022-08-14,6863.15,DEBIT,Rerum soluta culpa adipisci.
+483,Flórez Ltd S.A.S.,2020-12-22,259667.53,DEBIT,Adipisci facere inventore voluptatem consequuntur.
+484,"Buitrago, García and García S.A.S.",2022-10-18,677636.15,DEBIT,Sunt porro dolor.
+485,"Buitrago, García and García S.A.S.",2021-02-10,315019.65,DEBIT,Omnis temporibus animi totam odit explicabo.
+486,Ramírez LLC S.A.S.,2022-03-24,981614.75,CREDIT,Nihil rem ullam facere fugiat id.
+487,Calderón and Sons S.A.S.,2023-05-13,789032.64,DEBIT,Provident laudantium deleniti sunt.
+488,Calderón and Sons S.A.S.,2023-06-21,491533.91,CREDIT,Dolores quibusdam sit natus.
+489,Durán-Bernal S.A.S.,2024-07-15,437103.05,CREDIT,Totam perspiciatis harum quis tenetur ab.
+490,Ramírez LLC S.A.S.,2022-06-20,78653.78,DEBIT,Repudiandae hic quos sint.
+491,"Pacheco, Velandia and Ávila S.A.S.",2023-07-28,926681.71,DEBIT,Nihil deleniti veniam fuga.
+492,"Pacheco, Velandia and Ávila S.A.S.",2024-04-12,251761.26,DEBIT,Dolore harum natus saepe.
+493,Jaimes-Quintero S.A.S.,2024-12-24,347828.97,DEBIT,Dignissimos voluptas nostrum.
+494,"Buitrago, García and García S.A.S.",2024-01-17,942071.71,DEBIT,Quas quisquam assumenda illum.
+495,"García, Castro and Rendón S.A.S.",2020-08-10,173351.39,CREDIT,Dolorem laborum accusantium accusantium corrupti ad.
+496,"Pacheco, Velandia and Ávila S.A.S.",2023-10-27,398473.3,DEBIT,Dolorem sunt laboriosam.
+497,Muñoz LLC S.A.S.,2024-09-13,854434.0,CREDIT,Consequatur minima dicta magnam eos rem.
+498,Vargas-Álvarez S.A.S.,2023-07-24,329754.49,CREDIT,Dolore quaerat dolorum esse.
+499,Garcés-Buitrago S.A.S.,2022-05-23,779200.93,CREDIT,Illum aspernatur odio deleniti voluptatem.
+500,"Gómez, Sanabria and Pulido S.A.S.",2025-04-27,627834.65,DEBIT,Ut veritatis aliquam amet.
+501,"Reyes, Álvarez and Hernández S.A.S.",2020-11-24,161597.27,DEBIT,Quis commodi dicta.
+502,"Reyes, Álvarez and Hernández S.A.S.",2022-09-22,812814.28,DEBIT,Tempora doloremque cumque quidem itaque.
+503,Mosquera-Medina S.A.S.,2022-11-13,263843.0,CREDIT,Perspiciatis illo earum.
+504,"Gómez, Sanabria and Pulido S.A.S.",2021-05-01,744248.39,CREDIT,Quidem culpa inventore.
+505,"García, Castro and Rendón S.A.S.",2023-03-20,720495.65,DEBIT,Beatae aspernatur repellendus non nulla.
+506,Ramírez LLC S.A.S.,2022-08-19,561623.54,DEBIT,Consectetur quaerat nesciunt laudantium recusandae.
+507,Jaimes-Quintero S.A.S.,2021-01-23,701087.83,DEBIT,Non fuga saepe assumenda amet.
+508,Mosquera-Medina S.A.S.,2022-12-25,879290.66,DEBIT,Tempora consequatur necessitatibus delectus.
+509,Muñoz LLC S.A.S.,2024-02-06,67774.91,DEBIT,Error rerum voluptatem inventore velit libero.
+510,Rodríguez-Martínez S.A.S.,2024-02-26,96304.22,DEBIT,Consequatur iusto excepturi praesentium dolores.
+511,"Buitrago, García and García S.A.S.",2023-11-23,185723.92,DEBIT,Nesciunt minus provident pariatur.
+512,Calderón and Sons S.A.S.,2020-12-22,568781.44,CREDIT,Eaque nemo ducimus sunt aliquam ratione.
+513,"Gómez, Sanabria and Pulido S.A.S.",2020-09-06,459650.78,CREDIT,Rerum corporis ipsa.
+514,Calderón and Sons S.A.S.,2023-10-23,850471.64,CREDIT,Magnam deleniti voluptatibus voluptatibus quis.
+515,"Buitrago, García and García S.A.S.",2024-06-04,543029.73,CREDIT,Suscipit ut molestiae distinctio ipsum.
+516,Castro-Flórez S.A.S.,2024-08-29,678928.63,CREDIT,Accusamus hic tempora voluptatibus nobis a.
+517,Ramírez LLC S.A.S.,2023-03-03,412909.84,CREDIT,In natus sunt.
+518,Durán-Bernal S.A.S.,2023-09-27,7294.25,DEBIT,Natus dolorem quis.
+519,"Buitrago, García and García S.A.S.",2020-12-08,667009.07,DEBIT,Mollitia ad totam.
+520,"Palacios, Becerra and Rodríguez S.A.S.",2022-07-10,796713.61,DEBIT,Est enim dolorem velit quisquam dolore.
+521,"Galvis, Ramírez and Angarita S.A.S.",2022-05-14,893127.17,DEBIT,Eius similique veniam amet.
+522,Rodríguez-Martínez S.A.S.,2023-12-08,449478.74,DEBIT,Sit minus quibusdam quia.
+523,"Palacios, Becerra and Rodríguez S.A.S.",2022-05-31,858656.12,CREDIT,Ut commodi commodi esse asperiores ipsa.
+524,"Gómez, Sanabria and Pulido S.A.S.",2020-12-08,490047.68,CREDIT,Odit laborum consequuntur soluta.
+525,Flórez Ltd S.A.S.,2021-01-08,494746.58,DEBIT,Sapiente molestias rerum.
+526,Rodríguez-Martínez S.A.S.,2024-11-21,151285.52,DEBIT,Illo nemo cumque facere.
+527,Mosquera-Medina S.A.S.,2021-11-26,785203.4,DEBIT,Repellendus hic quo perspiciatis.
+528,"Galvis, Ramírez and Angarita S.A.S.",2023-03-19,488728.88,DEBIT,Tenetur molestias quidem praesentium.
+529,Portilla-Palacios S.A.S.,2025-06-10,118144.7,CREDIT,Provident eum laborum molestias in.
+530,Durán-Bernal S.A.S.,2023-07-18,304877.64,CREDIT,Repudiandae cupiditate eos blanditiis facilis.
+531,Gómez-Cardozo S.A.S.,2022-09-08,98309.72,CREDIT,Magni commodi voluptas.
+532,Castro-Flórez S.A.S.,2023-08-23,29790.1,DEBIT,Doloribus recusandae nulla.
+533,"Galvis, Ramírez and Angarita S.A.S.",2023-05-20,385201.62,CREDIT,Perspiciatis provident sequi soluta occaecati.
+534,"Gómez, Sanabria and Pulido S.A.S.",2020-10-23,769677.46,CREDIT,Quisquam distinctio distinctio hic perspiciatis.
+535,Reyes-Zambrano S.A.S.,2023-08-08,188163.06,DEBIT,Reprehenderit veniam non autem tenetur.
+536,Durán-Bernal S.A.S.,2020-09-04,713919.75,DEBIT,Ea veniam accusamus nulla id sapiente.
+537,Mosquera-Medina S.A.S.,2022-01-31,605678.09,DEBIT,Amet iure consectetur.
+538,González Inc S.A.S.,2020-12-14,743873.16,DEBIT,Neque quam vitae.
+539,Posada-Peña S.A.S.,2022-05-16,236336.56,DEBIT,Rem beatae placeat atque modi.
+540,"Reyes, Álvarez and Hernández S.A.S.",2021-06-02,953224.43,CREDIT,Ut voluptates ratione.
+541,"García, Castro and Rendón S.A.S.",2021-06-04,782841.89,CREDIT,Atque asperiores doloribus maiores similique.
+542,"Reyes, Álvarez and Hernández S.A.S.",2023-01-31,524316.95,DEBIT,Velit eaque ab error repudiandae quas.
+543,Gómez-Cardozo S.A.S.,2023-08-25,47487.36,CREDIT,Doloribus recusandae pariatur dolorum.
+544,"Galvis, Ramírez and Angarita S.A.S.",2021-02-16,811923.16,CREDIT,Nulla iste soluta quidem.
+545,Mosquera-Medina S.A.S.,2022-08-03,367249.94,DEBIT,Eos delectus harum consequatur.
+546,Flórez Ltd S.A.S.,2023-07-05,644294.35,CREDIT,Dolor aut at harum adipisci harum.
+547,Mosquera-Medina S.A.S.,2022-01-05,231960.95,CREDIT,Quo modi blanditiis natus ut qui.
+548,Gómez-Cardozo S.A.S.,2021-07-24,996702.16,DEBIT,Unde quisquam deleniti ratione ex quaerat.
+549,Durán-Bernal S.A.S.,2023-12-07,991732.91,CREDIT,Suscipit amet voluptatem.
+550,Mosquera-Medina S.A.S.,2023-09-02,22713.25,CREDIT,Voluptate totam occaecati ad sit.
+551,Mosquera-Medina S.A.S.,2025-02-10,198803.96,CREDIT,Molestiae voluptates modi.
+552,Gómez-Cardozo S.A.S.,2024-12-09,911752.99,CREDIT,Quod mollitia sequi iste nam.
+553,Oviedo-Domínguez S.A.S.,2024-09-26,298451.05,CREDIT,Maiores veniam quae quam distinctio.
+554,"Buitrago, García and García S.A.S.",2023-09-30,978978.89,CREDIT,Fugit ipsa vero soluta sapiente.
+555,Garcés-Buitrago S.A.S.,2020-08-06,26467.28,CREDIT,Quaerat dolores aspernatur.
+556,"Buitrago, García and García S.A.S.",2025-04-05,659431.45,DEBIT,Quaerat sed iure similique rerum.
+557,Mosquera-Medina S.A.S.,2022-11-30,341448.92,DEBIT,Porro explicabo perferendis omnis architecto.
+558,Vargas-Álvarez S.A.S.,2021-06-21,924534.19,DEBIT,Quasi quos asperiores quo cumque optio laudantium.
+559,Flórez Ltd S.A.S.,2024-08-12,316787.0,DEBIT,Neque odio esse alias.
+560,Reyes-Zambrano S.A.S.,2021-04-27,305132.78,DEBIT,Perferendis aspernatur mollitia.
+561,"Reyes, Álvarez and Hernández S.A.S.",2022-04-04,951721.6,DEBIT,Cum quidem ab suscipit quidem.
+562,"Palacios, Becerra and Rodríguez S.A.S.",2024-01-02,768732.89,DEBIT,Fugit explicabo corrupti vitae.
+563,Posada-Peña S.A.S.,2023-06-22,748811.36,CREDIT,Assumenda explicabo ullam quo soluta.
+564,Gómez-Cardozo S.A.S.,2021-10-01,169907.07,DEBIT,Optio et officiis consequuntur nam adipisci.
+565,Portilla-Palacios S.A.S.,2023-09-19,591365.75,CREDIT,Officia animi numquam.
+566,Ramírez LLC S.A.S.,2023-02-17,618650.21,DEBIT,Perspiciatis blanditiis tempora voluptate.
+567,Jaimes-Quintero S.A.S.,2023-06-23,161759.04,CREDIT,Dolores dolor necessitatibus laboriosam vitae.
+568,Castro-Flórez S.A.S.,2024-11-23,62512.82,DEBIT,Doloribus eligendi occaecati commodi debitis reiciendis.
+569,"Reyes, Álvarez and Hernández S.A.S.",2022-03-13,601508.66,DEBIT,Id vitae porro repellendus.
+570,Durán-Bernal S.A.S.,2021-02-07,926185.52,DEBIT,Iure eius nobis delectus voluptas.
+571,Vargas-Álvarez S.A.S.,2024-09-06,458181.03,DEBIT,Quos consectetur nihil.
+572,"García, Castro and Rendón S.A.S.",2024-09-02,748169.25,CREDIT,Nostrum maxime impedit excepturi.
+573,Garcés-Buitrago S.A.S.,2020-06-19,273200.84,CREDIT,Vero sint facere.
+574,"Buitrago, García and García S.A.S.",2023-09-13,568178.19,DEBIT,Quam excepturi reprehenderit dolore.
+575,"García, Castro and Rendón S.A.S.",2020-12-22,425686.54,CREDIT,Magnam magni aperiam.
+576,Gil-Salazar S.A.S.,2021-06-18,535331.3,CREDIT,Architecto quis molestias beatae.
+577,"Buitrago, García and García S.A.S.",2021-09-07,452413.97,CREDIT,Quas ducimus commodi repellendus nulla pariatur.
+578,"Palacios, Becerra and Rodríguez S.A.S.",2022-08-16,842016.62,DEBIT,Nam consequuntur reprehenderit consectetur necessitatibus.
+579,Oviedo-Domínguez S.A.S.,2022-08-09,43380.14,CREDIT,Explicabo explicabo ullam excepturi.
+580,Jaimes-Quintero S.A.S.,2022-11-21,830225.83,CREDIT,Perspiciatis porro repellendus itaque.
+581,"Buitrago, García and García S.A.S.",2022-06-20,452177.97,DEBIT,Ea tenetur velit consequuntur quibusdam quasi.
+582,Castro-Flórez S.A.S.,2022-03-02,417024.69,CREDIT,Consectetur ab velit.
+583,"Reyes, Álvarez and Hernández S.A.S.",2021-08-09,355638.67,DEBIT,Enim optio esse eaque ab.
+584,Posada-Peña S.A.S.,2024-05-19,731904.57,CREDIT,Accusamus voluptas reprehenderit nobis.
+585,"Pacheco, Velandia and Ávila S.A.S.",2025-04-04,688651.64,CREDIT,Doloribus quos consectetur quos.
+586,"Galvis, Ramírez and Angarita S.A.S.",2020-06-22,385376.41,DEBIT,Temporibus quas possimus distinctio.
+587,Oviedo-Domínguez S.A.S.,2022-12-28,349842.01,CREDIT,Velit minima voluptatum ducimus.
+588,"Gómez, Sanabria and Pulido S.A.S.",2025-03-20,228528.32,CREDIT,Velit a harum suscipit rem.
+589,"Galvis, Ramírez and Angarita S.A.S.",2025-02-01,542402.45,DEBIT,Placeat quaerat quae unde.
+590,Garcés-Buitrago S.A.S.,2024-10-09,824001.61,CREDIT,Tempore optio excepturi ut officiis quod.
+591,Rodríguez-Martínez S.A.S.,2020-08-21,493040.5,CREDIT,Occaecati id fugit quo consequatur.
+592,Flórez Ltd S.A.S.,2023-10-14,48255.85,CREDIT,Quo quis quo eius.
+593,Portilla-Palacios S.A.S.,2023-01-18,647440.61,DEBIT,Unde ex tempora tempora dicta.
+594,Flórez Ltd S.A.S.,2021-03-31,360111.25,DEBIT,Corrupti nihil voluptate velit saepe.
+595,Garcés-Buitrago S.A.S.,2022-11-10,632215.65,DEBIT,Non aut fuga.
+596,Garcés-Buitrago S.A.S.,2021-10-06,446524.32,DEBIT,Vitae qui dolorum aperiam.
+597,Calderón and Sons S.A.S.,2020-12-13,854863.63,DEBIT,Qui suscipit cum.
+598,"Buitrago, García and García S.A.S.",2022-04-11,199403.64,CREDIT,Explicabo hic quibusdam vel libero.
+599,Portilla-Palacios S.A.S.,2022-09-21,305392.95,CREDIT,Reiciendis aspernatur dicta perspiciatis.
+600,Flórez Ltd S.A.S.,2021-12-21,594538.85,CREDIT,Deserunt iste hic.
+601,Garcés-Buitrago S.A.S.,2023-07-17,894213.7,DEBIT,Praesentium sequi ut eligendi veritatis accusamus.
+602,Reyes-Zambrano S.A.S.,2024-10-04,444398.58,DEBIT,Quibusdam incidunt nam aliquid reprehenderit labore.
+603,Gil-Salazar S.A.S.,2024-04-10,224233.69,CREDIT,Perferendis laudantium labore provident.
+604,Muñoz LLC S.A.S.,2023-07-01,525743.44,DEBIT,Minus sint ea et et perspiciatis.
+605,Muñoz LLC S.A.S.,2021-04-04,530212.72,CREDIT,Maiores architecto accusamus error animi iusto.
+606,Castro-Flórez S.A.S.,2022-09-30,607698.36,DEBIT,Ipsum deleniti error reiciendis culpa.
+607,Oviedo-Domínguez S.A.S.,2024-10-05,367755.89,DEBIT,Pariatur hic temporibus sit earum dolor.
+608,Posada-Peña S.A.S.,2021-11-29,832073.49,CREDIT,Consectetur vero cumque error doloremque.
+609,Rodríguez-Martínez S.A.S.,2024-06-05,645622.68,DEBIT,Voluptate aspernatur error ea.
+610,"Buitrago, García and García S.A.S.",2021-09-26,637874.72,CREDIT,Impedit dicta odio illo eligendi natus.
+611,Oviedo-Domínguez S.A.S.,2020-12-18,903521.72,DEBIT,Magni asperiores vero.
+612,"Gómez, Sanabria and Pulido S.A.S.",2021-05-31,679380.37,CREDIT,Numquam amet nisi odit neque.
+613,Gil-Salazar S.A.S.,2021-12-06,869628.37,DEBIT,Sunt nihil temporibus cumque ullam quisquam.
+614,Posada-Peña S.A.S.,2024-10-08,841752.06,DEBIT,Aliquam provident in minus.
+615,Portilla-Palacios S.A.S.,2020-12-20,922601.09,CREDIT,Accusantium perferendis provident quaerat.
+616,Calderón and Sons S.A.S.,2024-08-10,268496.22,DEBIT,Beatae necessitatibus nam.
+617,"Reyes, Álvarez and Hernández S.A.S.",2022-12-30,838329.82,DEBIT,Assumenda pariatur soluta eaque quas.
+618,González Inc S.A.S.,2025-01-08,256086.93,DEBIT,Qui ducimus a voluptas.
+619,Ramírez LLC S.A.S.,2021-06-02,558371.99,CREDIT,Placeat ea error.
+620,Oviedo-Domínguez S.A.S.,2021-03-19,757422.13,DEBIT,Suscipit enim doloremque accusamus commodi ex.
+621,Posada-Peña S.A.S.,2022-08-06,833621.17,DEBIT,Provident quibusdam iure exercitationem voluptatem.
+622,"Reyes, Álvarez and Hernández S.A.S.",2024-10-15,308486.6,CREDIT,Cumque esse fugit porro cum dolore.
+623,Vargas-Álvarez S.A.S.,2024-01-29,430547.02,CREDIT,Dolores laborum consequuntur.
+624,Rodríguez-Martínez S.A.S.,2021-02-07,937515.43,CREDIT,Earum eligendi voluptates minus ab.
+625,Mosquera-Medina S.A.S.,2021-09-11,746107.54,DEBIT,Quisquam nihil quos earum.
+626,"Reyes, Álvarez and Hernández S.A.S.",2022-11-21,389333.13,CREDIT,Hic ipsam commodi est quaerat.
+627,Gil-Salazar S.A.S.,2024-04-15,816405.16,DEBIT,Quas eos nobis.
+628,Jaimes-Quintero S.A.S.,2020-11-03,500102.68,CREDIT,Ratione nesciunt qui.
+629,Posada-Peña S.A.S.,2020-06-27,155487.81,DEBIT,Aperiam iste accusamus aliquam aspernatur.
+630,"Buitrago, García and García S.A.S.",2024-09-15,840017.04,CREDIT,Quas impedit sed.
+631,Posada-Peña S.A.S.,2022-12-11,171314.05,CREDIT,Temporibus omnis voluptates odit.
+632,"Galvis, Ramírez and Angarita S.A.S.",2022-03-26,535294.78,DEBIT,Repellendus voluptatibus saepe non.
+633,Mosquera-Medina S.A.S.,2022-06-15,631340.07,DEBIT,Quaerat aperiam nulla sunt odio.
+634,Portilla-Palacios S.A.S.,2021-08-22,227324.69,CREDIT,Sed eaque modi esse odit neque quisquam.
+635,Jaimes-Quintero S.A.S.,2023-06-09,494406.9,CREDIT,Sed cum explicabo quas debitis tempore.
+636,Durán-Bernal S.A.S.,2024-11-03,555474.76,DEBIT,Autem reiciendis nulla aut iusto dolorum.
+637,Reyes-Zambrano S.A.S.,2021-10-21,899924.73,CREDIT,Accusantium amet asperiores.
+638,Castro-Flórez S.A.S.,2023-11-08,779018.21,DEBIT,Quidem excepturi minima illo.
+639,Flórez Ltd S.A.S.,2024-12-19,36326.27,DEBIT,Sint architecto placeat non inventore.
+640,Jaimes-Quintero S.A.S.,2022-03-13,405905.88,CREDIT,Eius possimus suscipit.
+641,"Gómez, Sanabria and Pulido S.A.S.",2024-06-26,929313.48,CREDIT,Consequatur deleniti molestias aut.
+642,Gómez-Cardozo S.A.S.,2024-12-12,162116.18,CREDIT,Facere rerum aut.
+643,González Inc S.A.S.,2020-09-07,782085.58,DEBIT,Totam repellendus perspiciatis placeat.
+644,Muñoz LLC S.A.S.,2021-10-30,248183.76,CREDIT,Quisquam est consequatur.
+645,"Palacios, Becerra and Rodríguez S.A.S.",2021-09-05,491205.88,DEBIT,Doloribus veritatis laborum temporibus sit quae.
+646,"Gómez, Sanabria and Pulido S.A.S.",2022-11-16,331341.9,DEBIT,Facilis eaque non expedita voluptas.
+647,"Reyes, Álvarez and Hernández S.A.S.",2025-06-02,70982.52,DEBIT,Accusamus nemo est voluptatibus unde.
+648,Castro-Flórez S.A.S.,2023-04-14,588742.11,DEBIT,Quod eligendi voluptas provident perferendis.
+649,Vargas-Álvarez S.A.S.,2020-07-16,458414.53,CREDIT,Repellat reiciendis magni assumenda distinctio unde inventore.
+650,Mosquera-Medina S.A.S.,2022-11-17,497314.61,CREDIT,Necessitatibus blanditiis molestias quibusdam iusto.
+651,"Reyes, Álvarez and Hernández S.A.S.",2021-11-19,769566.83,CREDIT,Rerum voluptatum eos suscipit.
+652,Garcés-Buitrago S.A.S.,2025-03-03,255401.4,DEBIT,Quidem sequi mollitia reiciendis nemo.
+653,Ramírez LLC S.A.S.,2021-10-30,189298.86,CREDIT,Modi fugit amet aspernatur maiores earum.
+654,Ramírez LLC S.A.S.,2024-07-18,26244.81,CREDIT,Eos possimus in.
+655,Ramírez LLC S.A.S.,2024-08-05,695665.64,DEBIT,Reprehenderit suscipit ut nobis ipsam fugit.
+656,"Palacios, Becerra and Rodríguez S.A.S.",2021-10-03,319541.47,DEBIT,Ipsam laborum fugiat.
+657,Garcés-Buitrago S.A.S.,2025-03-08,790141.1,DEBIT,Officiis facere saepe.
+658,Gil-Salazar S.A.S.,2020-11-15,338761.75,DEBIT,Aperiam eius hic voluptatem doloremque.
+659,"García, Castro and Rendón S.A.S.",2021-08-16,544625.98,DEBIT,Deleniti aliquid tempora praesentium voluptatum maiores.
+660,Jaimes-Quintero S.A.S.,2022-09-19,284070.66,DEBIT,Omnis eligendi voluptatibus corporis excepturi.
+661,Posada-Peña S.A.S.,2024-11-21,269855.27,DEBIT,Id occaecati possimus sunt libero delectus.
+662,González Inc S.A.S.,2024-04-12,680974.86,CREDIT,Labore modi perferendis ex eos dolorum.
+663,Durán-Bernal S.A.S.,2022-02-01,712459.54,CREDIT,Esse vitae ducimus.
+664,Jaimes-Quintero S.A.S.,2023-10-12,841921.81,CREDIT,Cupiditate tempore assumenda impedit.
+665,González Inc S.A.S.,2023-08-20,893983.46,CREDIT,Ex facere delectus eveniet dolorum nisi.
+666,Reyes-Zambrano S.A.S.,2023-01-27,768300.01,CREDIT,Est itaque veniam eaque iusto officia.
+667,Muñoz LLC S.A.S.,2022-09-01,2624.5,DEBIT,Tenetur quis provident nobis ipsa voluptate.
+668,Gómez-Cardozo S.A.S.,2024-09-24,773709.17,CREDIT,Ipsa odio voluptatibus hic adipisci totam.
+669,Durán-Bernal S.A.S.,2021-05-14,327063.99,CREDIT,Porro alias dolorem in consequuntur ut.
+670,Portilla-Palacios S.A.S.,2024-12-07,8901.74,CREDIT,Harum deserunt enim maxime.
+671,Mosquera-Medina S.A.S.,2024-09-08,651676.23,CREDIT,Quo consequuntur exercitationem suscipit.
+672,Muñoz LLC S.A.S.,2024-04-27,203740.95,DEBIT,Ut magni veniam illo accusantium.
+673,Vargas-Álvarez S.A.S.,2021-03-29,51572.09,DEBIT,Rerum exercitationem ex harum asperiores.
+674,Reyes-Zambrano S.A.S.,2024-06-13,852980.48,CREDIT,Modi repellendus optio optio provident quam.
+675,Garcés-Buitrago S.A.S.,2021-01-23,394982.14,CREDIT,Incidunt eum cum ad magni corporis.
+676,Oviedo-Domínguez S.A.S.,2025-02-24,600312.65,CREDIT,Voluptate beatae beatae dicta atque nobis.
+677,"García, Castro and Rendón S.A.S.",2024-11-23,625275.1,DEBIT,Velit nulla vel perspiciatis adipisci.
+678,"García, Castro and Rendón S.A.S.",2025-05-17,82172.06,DEBIT,Delectus dicta ab.
+679,Posada-Peña S.A.S.,2020-08-31,951731.63,CREDIT,Necessitatibus eligendi labore est.
+680,"Buitrago, García and García S.A.S.",2023-01-16,913576.48,CREDIT,Eligendi temporibus nesciunt recusandae sunt.
+681,Garcés-Buitrago S.A.S.,2021-12-28,32837.45,DEBIT,Quisquam doloribus esse voluptates iste culpa.
+682,Gómez-Cardozo S.A.S.,2023-12-09,716871.76,DEBIT,Labore non similique culpa consectetur fuga.
+683,Posada-Peña S.A.S.,2021-07-31,536182.7,CREDIT,A molestiae ipsum error molestias quia.
+684,"Palacios, Becerra and Rodríguez S.A.S.",2022-04-26,823661.53,CREDIT,Et vitae corrupti beatae optio cupiditate.
+685,"Galvis, Ramírez and Angarita S.A.S.",2021-02-02,414854.0,CREDIT,Voluptas dolorum a eveniet quam neque.
+686,Gómez-Cardozo S.A.S.,2021-07-04,555762.32,DEBIT,Impedit dicta repellendus accusantium nam tempore.
+687,Rodríguez-Martínez S.A.S.,2022-01-03,705554.28,CREDIT,Non dicta possimus deserunt.
+688,Ramírez LLC S.A.S.,2023-07-26,644077.98,DEBIT,Quibusdam impedit impedit accusantium ducimus exercitationem.
+689,Portilla-Palacios S.A.S.,2022-12-27,783704.56,CREDIT,Blanditiis distinctio facilis id dolores.
+690,Calderón and Sons S.A.S.,2024-09-11,409282.1,CREDIT,Cumque cumque quod eos.
+691,"Galvis, Ramírez and Angarita S.A.S.",2022-11-30,209041.08,DEBIT,Quo provident maiores possimus aspernatur.
+692,Oviedo-Domínguez S.A.S.,2021-06-16,562041.31,DEBIT,Enim eos molestias.
+693,Castro-Flórez S.A.S.,2020-08-02,929866.65,CREDIT,Sed totam natus dolore odit.
+694,Reyes-Zambrano S.A.S.,2021-10-04,344869.37,CREDIT,Assumenda voluptatem sit exercitationem odio omnis.
+695,"Palacios, Becerra and Rodríguez S.A.S.",2022-06-30,562283.25,DEBIT,Asperiores distinctio ab ipsam saepe.
+696,"Pacheco, Velandia and Ávila S.A.S.",2024-12-05,599857.41,DEBIT,Debitis non asperiores.
+697,Gil-Salazar S.A.S.,2025-04-29,586615.17,CREDIT,Porro voluptatem inventore id accusamus.
+698,Portilla-Palacios S.A.S.,2020-07-02,1061.06,CREDIT,Quisquam eius non perspiciatis.
+699,"Gómez, Sanabria and Pulido S.A.S.",2023-02-24,404986.44,DEBIT,Atque deleniti sapiente assumenda saepe.
+700,Calderón and Sons S.A.S.,2025-02-03,156780.31,CREDIT,Mollitia nisi velit vero quas.
+701,Reyes-Zambrano S.A.S.,2024-06-03,839778.33,DEBIT,Molestiae error iure perferendis tempora.
+702,Flórez Ltd S.A.S.,2025-01-12,87321.69,DEBIT,Adipisci assumenda accusamus.
+703,Castro-Flórez S.A.S.,2023-02-20,553173.43,DEBIT,Minima optio est.
+704,Calderón and Sons S.A.S.,2025-05-18,85613.48,CREDIT,Non illum vitae hic quae amet.
+705,"Palacios, Becerra and Rodríguez S.A.S.",2024-11-02,179260.87,DEBIT,Veritatis itaque est natus.
+706,"García, Castro and Rendón S.A.S.",2021-02-20,687056.88,DEBIT,Molestiae cum perferendis est.
+707,Gómez-Cardozo S.A.S.,2023-08-25,177110.05,CREDIT,Inventore voluptatibus rem dolore vel necessitatibus.
+708,Posada-Peña S.A.S.,2024-05-16,850114.41,CREDIT,Dignissimos modi vitae quos.
+709,Garcés-Buitrago S.A.S.,2025-01-09,455250.52,DEBIT,Ullam quae eos.
+710,Castro-Flórez S.A.S.,2021-06-17,711964.59,DEBIT,Aperiam ducimus aliquam odio fugiat.
+711,"Palacios, Becerra and Rodríguez S.A.S.",2022-10-19,877472.56,CREDIT,Soluta voluptates deserunt.
+712,Reyes-Zambrano S.A.S.,2022-08-08,870910.79,DEBIT,Mollitia delectus quas optio.
+713,Gómez-Cardozo S.A.S.,2023-12-03,292812.14,DEBIT,Cumque accusantium quibusdam repudiandae amet.
+714,Gil-Salazar S.A.S.,2021-03-27,176362.92,DEBIT,Magni earum dolor dignissimos maxime rerum.
+715,Castro-Flórez S.A.S.,2021-02-26,748682.69,CREDIT,Reiciendis nulla facilis saepe natus.
+716,Portilla-Palacios S.A.S.,2021-06-30,218422.67,DEBIT,Deserunt accusantium quo maxime.
+717,González Inc S.A.S.,2021-10-13,181802.16,DEBIT,Debitis repellat corporis.
+718,Vargas-Álvarez S.A.S.,2022-02-04,891274.21,CREDIT,Explicabo suscipit adipisci esse tempore.
+719,"García, Castro and Rendón S.A.S.",2024-03-26,596546.32,DEBIT,Nihil sunt tempore.
+720,"Palacios, Becerra and Rodríguez S.A.S.",2022-05-06,111507.21,DEBIT,Ratione eligendi accusamus suscipit iste.
+721,Gómez-Cardozo S.A.S.,2024-06-28,572088.92,CREDIT,Magni est possimus.
+722,Castro-Flórez S.A.S.,2023-10-03,577568.15,DEBIT,Saepe velit pariatur id blanditiis.
+723,Ramírez LLC S.A.S.,2023-03-20,666012.18,DEBIT,Autem qui sapiente.
+724,Garcés-Buitrago S.A.S.,2022-06-30,685263.22,DEBIT,Temporibus ex dicta magni.
+725,"García, Castro and Rendón S.A.S.",2021-06-27,872697.43,CREDIT,Architecto nobis iure harum assumenda.
+726,Rodríguez-Martínez S.A.S.,2021-01-22,966435.64,CREDIT,Quam quia deserunt exercitationem quasi ab.
+727,Vargas-Álvarez S.A.S.,2023-01-27,4639.54,DEBIT,Accusantium consectetur voluptatem magni.
+728,Rodríguez-Martínez S.A.S.,2025-01-27,586558.39,CREDIT,Tempore temporibus temporibus quaerat.
+729,Gil-Salazar S.A.S.,2023-03-27,785114.98,DEBIT,Laborum unde quasi.
+730,Reyes-Zambrano S.A.S.,2020-11-26,492833.23,CREDIT,Aut doloribus nulla hic iusto porro.
+731,Posada-Peña S.A.S.,2021-05-13,761082.48,CREDIT,Minus enim iusto nihil magnam.
+732,"Palacios, Becerra and Rodríguez S.A.S.",2024-06-23,760791.12,CREDIT,Quidem aliquid ipsam minima.
+733,Gómez-Cardozo S.A.S.,2023-01-31,973603.6,CREDIT,Amet velit mollitia libero.
+734,Gil-Salazar S.A.S.,2021-11-17,388714.13,CREDIT,Eum totam dolores culpa.
+735,"García, Castro and Rendón S.A.S.",2023-10-28,139787.99,CREDIT,Illo nemo quibusdam impedit.
+736,Ramírez LLC S.A.S.,2022-11-21,200887.37,CREDIT,Ducimus ipsum perspiciatis ab.
+737,Mosquera-Medina S.A.S.,2022-11-11,163204.18,CREDIT,Velit quas repellendus perferendis.
+738,Oviedo-Domínguez S.A.S.,2024-04-29,450323.73,CREDIT,Aspernatur commodi nobis temporibus quo ipsam.
+739,"García, Castro and Rendón S.A.S.",2024-02-11,666991.18,CREDIT,Vitae quos eligendi quidem rem cum.
+740,Vargas-Álvarez S.A.S.,2020-09-20,156821.42,DEBIT,Nihil perspiciatis nam.
+741,"Buitrago, García and García S.A.S.",2021-11-17,158757.75,CREDIT,A commodi saepe cumque.
+742,Ramírez LLC S.A.S.,2025-04-23,995185.21,CREDIT,Odio iure ex fugit veniam quo.
+743,González Inc S.A.S.,2022-05-29,270320.59,CREDIT,Animi aliquam ab consectetur at vel.
+744,Jaimes-Quintero S.A.S.,2023-04-26,497232.42,CREDIT,Quia est veniam similique illo.
+745,Rodríguez-Martínez S.A.S.,2024-12-21,293476.2,CREDIT,Vitae odit et consequatur.
+746,Rodríguez-Martínez S.A.S.,2023-03-07,789220.83,DEBIT,Similique consequatur consequuntur maxime architecto recusandae.
+747,González Inc S.A.S.,2020-11-20,789994.88,CREDIT,Similique dolorum blanditiis rerum.
+748,Flórez Ltd S.A.S.,2020-08-18,597538.63,CREDIT,Officiis aspernatur tempore.
+749,Mosquera-Medina S.A.S.,2024-02-17,433014.81,DEBIT,Molestiae necessitatibus saepe explicabo nam culpa.
+750,"Pacheco, Velandia and Ávila S.A.S.",2021-01-18,83495.42,DEBIT,Dicta quia ab libero molestiae.
+751,Mosquera-Medina S.A.S.,2024-12-29,924864.15,CREDIT,Hic quaerat placeat sit modi.
+752,"Buitrago, García and García S.A.S.",2022-03-16,777304.2,DEBIT,Accusantium libero autem vero.
+753,Durán-Bernal S.A.S.,2021-01-17,811960.58,CREDIT,At earum odit beatae possimus quaerat.
+754,Gil-Salazar S.A.S.,2021-02-05,173643.66,DEBIT,Voluptas omnis adipisci.
+755,"Palacios, Becerra and Rodríguez S.A.S.",2021-06-30,463478.81,DEBIT,Hic voluptate neque impedit ad vel.
+756,Flórez Ltd S.A.S.,2020-12-23,380562.81,CREDIT,Modi ducimus quos quas.
+757,Gómez-Cardozo S.A.S.,2025-04-15,437040.57,DEBIT,Voluptatum occaecati fugiat quibusdam dolorum vel.
+758,Castro-Flórez S.A.S.,2020-09-19,623552.24,CREDIT,Dignissimos veritatis esse adipisci mollitia.
+759,Flórez Ltd S.A.S.,2023-06-09,451032.24,CREDIT,Ratione alias iusto quam provident.
+760,Gómez-Cardozo S.A.S.,2021-03-22,863880.49,CREDIT,Excepturi ratione nemo.
+761,González Inc S.A.S.,2024-02-02,601563.91,DEBIT,Commodi eligendi debitis odio repellendus veritatis.
+762,Mosquera-Medina S.A.S.,2024-05-02,335068.06,DEBIT,Incidunt facilis accusantium neque molestiae.
+763,Mosquera-Medina S.A.S.,2022-03-15,802476.59,CREDIT,Placeat nostrum facere.
+764,"Galvis, Ramírez and Angarita S.A.S.",2021-09-06,145660.11,DEBIT,Repellendus quisquam deserunt ipsa.
+765,"Palacios, Becerra and Rodríguez S.A.S.",2022-12-11,626869.53,DEBIT,Quam facilis inventore quaerat magnam.
+766,Mosquera-Medina S.A.S.,2021-01-19,248487.68,DEBIT,Maiores voluptatem unde accusamus voluptate amet.
+767,Oviedo-Domínguez S.A.S.,2021-06-18,585168.27,DEBIT,Ab delectus architecto maxime commodi repellat.
+768,Reyes-Zambrano S.A.S.,2020-07-25,962808.63,CREDIT,Voluptas totam molestiae placeat ea doloremque.
+769,Durán-Bernal S.A.S.,2022-10-09,674817.6,DEBIT,Quod dicta suscipit numquam totam.
+770,Posada-Peña S.A.S.,2024-03-17,266465.91,DEBIT,Architecto cum corrupti.
+771,"García, Castro and Rendón S.A.S.",2023-05-28,377161.89,CREDIT,Praesentium dolorum ex maiores.
+772,"Reyes, Álvarez and Hernández S.A.S.",2024-05-18,480668.66,DEBIT,Tenetur culpa esse.
+773,Gómez-Cardozo S.A.S.,2022-10-17,11747.72,CREDIT,Id beatae iusto saepe quam consequuntur.
+774,Calderón and Sons S.A.S.,2023-05-23,202998.7,CREDIT,Consectetur nobis facere.
+775,Garcés-Buitrago S.A.S.,2021-01-18,340063.38,CREDIT,Dolore culpa ad ab alias.
+776,Flórez Ltd S.A.S.,2021-08-12,959866.0,CREDIT,Veniam fugit dolores praesentium doloribus.
+777,Mosquera-Medina S.A.S.,2022-03-10,402567.88,CREDIT,Dolores ipsam numquam necessitatibus.
+778,Castro-Flórez S.A.S.,2022-10-20,461064.02,CREDIT,Tempore quos minima dolorum sapiente nemo.
+779,Calderón and Sons S.A.S.,2022-11-05,185523.15,CREDIT,At dignissimos esse enim iusto quos cupiditate.
+780,Posada-Peña S.A.S.,2023-01-14,239292.26,DEBIT,Tenetur facere optio.
+781,Durán-Bernal S.A.S.,2023-09-04,955689.58,DEBIT,Commodi dignissimos et at.
+782,Oviedo-Domínguez S.A.S.,2021-04-27,396462.9,DEBIT,Eligendi et culpa sed quibusdam eum.
+783,"Reyes, Álvarez and Hernández S.A.S.",2021-10-19,238404.21,CREDIT,Praesentium sed rem similique consectetur.
+784,Garcés-Buitrago S.A.S.,2024-11-11,167844.01,DEBIT,Corrupti vero minima id.
+785,Rodríguez-Martínez S.A.S.,2021-01-02,275197.71,DEBIT,Architecto laboriosam quod commodi possimus maxime.
+786,"Reyes, Álvarez and Hernández S.A.S.",2022-03-17,981745.81,DEBIT,Earum consectetur ipsam temporibus quae molestiae.
+787,"Palacios, Becerra and Rodríguez S.A.S.",2025-01-29,104688.02,DEBIT,Minima dolores quisquam ab.
+788,Gómez-Cardozo S.A.S.,2023-05-18,969391.07,DEBIT,Fuga vel et.
+789,Castro-Flórez S.A.S.,2020-11-03,824295.48,DEBIT,Reiciendis ad sapiente incidunt omnis dolores beatae.
+790,"García, Castro and Rendón S.A.S.",2021-03-03,483395.46,CREDIT,Voluptatum impedit sunt dignissimos harum debitis.
+791,Garcés-Buitrago S.A.S.,2021-06-02,264269.03,DEBIT,Illo eveniet cumque atque autem aliquid quisquam.
+792,González Inc S.A.S.,2024-12-15,168716.49,CREDIT,Beatae beatae enim.
+793,Mosquera-Medina S.A.S.,2023-11-15,52573.45,CREDIT,Vitae error impedit eveniet sapiente.
+794,Calderón and Sons S.A.S.,2021-11-13,450825.31,DEBIT,Temporibus consequatur voluptatibus consectetur voluptatibus dolores.
+795,Oviedo-Domínguez S.A.S.,2020-07-31,958156.1,DEBIT,Maiores alias sit.
+796,Jaimes-Quintero S.A.S.,2024-11-11,621002.29,DEBIT,Laborum laudantium corporis voluptate consequuntur.
+797,Mosquera-Medina S.A.S.,2021-03-09,385300.36,CREDIT,Illum deleniti eaque saepe ipsa praesentium.
+798,Castro-Flórez S.A.S.,2020-11-03,822608.72,CREDIT,Dolorum asperiores recusandae enim quis.
+799,Vargas-Álvarez S.A.S.,2020-08-04,115482.36,DEBIT,Qui repellat deserunt laboriosam.
+800,Flórez Ltd S.A.S.,2022-12-29,115420.76,CREDIT,Veniam neque sint expedita eaque.
+801,Posada-Peña S.A.S.,2021-04-10,664360.04,CREDIT,Autem distinctio totam quia minus maxime.
+802,Gómez-Cardozo S.A.S.,2025-04-03,77985.3,CREDIT,Repellendus veniam quibusdam minima vel fugiat.
+803,Gómez-Cardozo S.A.S.,2021-04-23,874938.19,CREDIT,Soluta officia excepturi excepturi.
+804,"Reyes, Álvarez and Hernández S.A.S.",2020-10-27,951627.13,CREDIT,Soluta commodi iusto.
+805,Muñoz LLC S.A.S.,2022-10-26,255327.95,DEBIT,Laborum iusto veritatis ad.
+806,Calderón and Sons S.A.S.,2022-04-15,926096.27,DEBIT,Eveniet consequatur similique.
+807,Posada-Peña S.A.S.,2025-05-14,332110.3,DEBIT,Cupiditate nulla voluptates aperiam suscipit.
+808,Oviedo-Domínguez S.A.S.,2022-06-07,222982.35,CREDIT,Aliquid quo rem odio fuga recusandae.
+809,Posada-Peña S.A.S.,2024-04-08,143289.69,DEBIT,Quasi quis unde id.
+810,Garcés-Buitrago S.A.S.,2024-02-03,592915.5,CREDIT,Accusantium corporis veniam aliquid.
+811,Gil-Salazar S.A.S.,2021-02-22,596351.4,CREDIT,Odio hic quam dolores ducimus.
+812,Gómez-Cardozo S.A.S.,2020-07-17,839450.94,CREDIT,Mollitia dolorem hic cupiditate adipisci voluptate.
+813,Oviedo-Domínguez S.A.S.,2022-06-07,990606.08,DEBIT,Numquam itaque laboriosam voluptates perferendis.
+814,"Pacheco, Velandia and Ávila S.A.S.",2021-10-26,763443.17,DEBIT,Dicta corporis eum eveniet.
+815,González Inc S.A.S.,2024-07-24,509087.77,CREDIT,Maiores non excepturi.
+816,Posada-Peña S.A.S.,2022-04-22,896683.82,DEBIT,Accusantium dolore provident blanditiis totam fugit.
+817,Flórez Ltd S.A.S.,2021-07-04,807973.25,DEBIT,Officia itaque consectetur modi dicta officiis.
+818,Jaimes-Quintero S.A.S.,2024-02-20,113049.81,CREDIT,Facilis sunt quaerat.
+819,Garcés-Buitrago S.A.S.,2024-08-21,591075.65,CREDIT,Molestias esse natus totam nostrum.
+820,Durán-Bernal S.A.S.,2024-02-25,284149.71,CREDIT,Cumque est eaque quod neque illum.
+821,Rodríguez-Martínez S.A.S.,2020-12-26,37340.04,CREDIT,Cumque asperiores molestias.
+822,"Buitrago, García and García S.A.S.",2020-10-07,232186.69,DEBIT,Excepturi nulla sed atque ea voluptas.
+823,Oviedo-Domínguez S.A.S.,2020-08-09,584905.3,DEBIT,Ducimus consequuntur ab fugiat iusto voluptatum.
+824,Oviedo-Domínguez S.A.S.,2024-07-29,932918.78,DEBIT,Dolorem ipsa nesciunt.
+825,"García, Castro and Rendón S.A.S.",2021-03-18,354712.83,DEBIT,Dicta iure deserunt iure fugiat.
+826,"Pacheco, Velandia and Ávila S.A.S.",2020-12-14,302968.68,CREDIT,Non odio eveniet a dignissimos suscipit.
+827,Mosquera-Medina S.A.S.,2021-07-26,110496.82,DEBIT,Enim exercitationem quidem sequi laborum quam.
+828,Muñoz LLC S.A.S.,2021-02-17,635854.11,DEBIT,Quo iusto cum veritatis adipisci nisi.
+829,"Palacios, Becerra and Rodríguez S.A.S.",2023-08-27,199010.94,CREDIT,Quasi accusamus excepturi.
+830,Jaimes-Quintero S.A.S.,2021-09-11,397426.64,CREDIT,Adipisci amet ea occaecati placeat fugiat.
+831,Rodríguez-Martínez S.A.S.,2024-12-28,880339.71,DEBIT,Numquam enim eius.
+832,González Inc S.A.S.,2024-01-11,943026.75,DEBIT,Architecto culpa officiis quia tempore minus.
+833,"Galvis, Ramírez and Angarita S.A.S.",2021-06-28,391748.05,CREDIT,Quo veniam nostrum voluptatum.
+834,"García, Castro and Rendón S.A.S.",2020-12-08,572472.47,DEBIT,Ut magni veniam quod eos.
+835,"Buitrago, García and García S.A.S.",2024-09-14,421049.57,DEBIT,Beatae eum earum dicta labore omnis.
+836,Posada-Peña S.A.S.,2025-01-16,506757.7,DEBIT,Inventore enim adipisci.
+837,"Gómez, Sanabria and Pulido S.A.S.",2021-12-27,704164.94,CREDIT,Distinctio cum delectus.
+838,Durán-Bernal S.A.S.,2023-08-21,606644.12,DEBIT,Cupiditate iste sequi necessitatibus.
+839,Garcés-Buitrago S.A.S.,2020-08-17,646931.14,CREDIT,Maiores soluta modi voluptas nemo recusandae.
+840,Ramírez LLC S.A.S.,2023-03-27,816676.45,DEBIT,Perspiciatis laudantium ab possimus.
+841,Ramírez LLC S.A.S.,2021-01-25,468741.48,DEBIT,Tenetur perferendis perspiciatis explicabo molestiae pariatur.
+842,Muñoz LLC S.A.S.,2023-05-06,52406.62,CREDIT,Nulla eveniet minus vel.
+843,Jaimes-Quintero S.A.S.,2022-05-25,128017.35,DEBIT,Quod quos asperiores voluptatibus provident iste.
+844,Posada-Peña S.A.S.,2022-10-27,354797.07,CREDIT,Cum cupiditate itaque modi voluptates laudantium.
+845,González Inc S.A.S.,2022-11-24,302210.45,DEBIT,Reiciendis ipsa corrupti architecto magni.
+846,"Palacios, Becerra and Rodríguez S.A.S.",2025-02-26,593699.74,DEBIT,Non in numquam voluptate accusantium.
+847,"Palacios, Becerra and Rodríguez S.A.S.",2025-04-22,288688.94,DEBIT,Ducimus possimus dignissimos consequuntur saepe.
+848,Reyes-Zambrano S.A.S.,2021-08-04,546926.7,CREDIT,Quae autem delectus.
+849,Calderón and Sons S.A.S.,2020-06-11,569384.74,CREDIT,Distinctio explicabo ducimus odit sit corrupti.
+850,Gil-Salazar S.A.S.,2023-10-31,70144.64,DEBIT,Sapiente atque blanditiis dolore magni.
+851,Durán-Bernal S.A.S.,2021-05-17,493394.62,CREDIT,Molestias reprehenderit blanditiis vero rerum vero.
+852,Flórez Ltd S.A.S.,2024-09-16,915872.18,DEBIT,Accusantium deleniti rerum aliquam minus repellat.
+853,"Gómez, Sanabria and Pulido S.A.S.",2023-08-13,297399.84,CREDIT,Recusandae amet maiores nemo ad debitis.
+854,Mosquera-Medina S.A.S.,2020-07-30,16926.52,DEBIT,Explicabo consequuntur sunt consequuntur ducimus.
+855,Gómez-Cardozo S.A.S.,2025-05-26,951770.84,CREDIT,Natus error cum modi magnam.
+856,Mosquera-Medina S.A.S.,2020-12-05,686087.22,DEBIT,Consequatur earum doloribus dolor quod.
+857,"Pacheco, Velandia and Ávila S.A.S.",2021-11-26,537766.6,CREDIT,Laborum illum quos.
+858,Mosquera-Medina S.A.S.,2024-08-13,808203.33,CREDIT,Tempore ab dicta consectetur numquam sed.
+859,Gil-Salazar S.A.S.,2020-08-28,23949.45,DEBIT,Id omnis saepe.
+860,Rodríguez-Martínez S.A.S.,2025-04-26,343561.27,CREDIT,Voluptas doloribus accusantium expedita quibusdam.
+861,Calderón and Sons S.A.S.,2024-04-07,414362.8,DEBIT,Architecto cum velit architecto.
+862,Flórez Ltd S.A.S.,2021-03-30,700137.37,CREDIT,Quia rerum voluptates fuga iusto.
+863,Gómez-Cardozo S.A.S.,2020-09-27,788536.77,DEBIT,Voluptatum eum esse consequuntur voluptates minus.
+864,Castro-Flórez S.A.S.,2023-11-10,77711.68,CREDIT,Iste nemo possimus.
+865,Jaimes-Quintero S.A.S.,2024-09-15,27652.67,CREDIT,Doloremque ducimus autem sapiente esse reiciendis.
+866,Mosquera-Medina S.A.S.,2024-11-02,263619.36,CREDIT,Ab laborum sit vitae pariatur optio.
+867,Calderón and Sons S.A.S.,2024-06-25,982753.58,DEBIT,Aut praesentium iusto quas quia.
+868,"Buitrago, García and García S.A.S.",2021-12-26,365436.67,DEBIT,Nesciunt cupiditate tempora.
+869,Castro-Flórez S.A.S.,2020-11-27,299958.28,DEBIT,Eaque maxime in saepe veniam.
+870,Rodríguez-Martínez S.A.S.,2023-07-30,78296.43,CREDIT,Inventore debitis alias corporis.
+871,"Pacheco, Velandia and Ávila S.A.S.",2022-07-28,691603.19,CREDIT,Porro provident occaecati culpa molestiae.
+872,"Pacheco, Velandia and Ávila S.A.S.",2023-05-13,535293.15,CREDIT,In eligendi delectus dolore at.
+873,Gil-Salazar S.A.S.,2023-06-07,91638.69,CREDIT,Quia odit id nulla deleniti quas.
+874,Durán-Bernal S.A.S.,2022-01-28,501471.73,CREDIT,Harum quasi esse delectus tempore.
+875,"García, Castro and Rendón S.A.S.",2020-09-17,606763.61,DEBIT,Quisquam reprehenderit quis iure.
+876,Calderón and Sons S.A.S.,2024-04-01,890182.76,DEBIT,Itaque dolore minima pariatur impedit ullam.
+877,"Galvis, Ramírez and Angarita S.A.S.",2024-06-14,724880.7,DEBIT,Ipsa pariatur excepturi amet ipsum voluptates.
+878,Gil-Salazar S.A.S.,2023-07-20,349352.22,DEBIT,Omnis repellat incidunt aliquid sequi.
+879,González Inc S.A.S.,2025-01-12,705942.78,DEBIT,Tenetur temporibus eum iusto.
+880,Durán-Bernal S.A.S.,2023-11-02,327405.64,DEBIT,Tempore quos sequi dicta.
+881,Rodríguez-Martínez S.A.S.,2022-01-29,944615.0,CREDIT,Voluptas tempore enim minus repellendus.
+882,"Gómez, Sanabria and Pulido S.A.S.",2021-03-07,374458.89,DEBIT,Iure pariatur laudantium.
+883,Garcés-Buitrago S.A.S.,2022-12-13,519242.95,DEBIT,Deleniti quod reprehenderit hic nemo.
+884,Rodríguez-Martínez S.A.S.,2023-02-01,313207.79,DEBIT,Esse molestias maiores accusamus nam.
+885,Castro-Flórez S.A.S.,2022-12-28,213960.28,CREDIT,Quisquam qui in eaque.
+886,Flórez Ltd S.A.S.,2020-10-22,44405.62,DEBIT,Id quod reprehenderit fuga rerum.
+887,Rodríguez-Martínez S.A.S.,2020-12-31,834873.94,CREDIT,Voluptates ea ipsam consequatur accusamus repudiandae.
+888,"Gómez, Sanabria and Pulido S.A.S.",2024-06-02,754290.99,CREDIT,Explicabo architecto voluptatem aliquid corporis.
+889,Vargas-Álvarez S.A.S.,2022-08-05,337051.94,DEBIT,Libero inventore asperiores illum dolorum quia.
+890,"Pacheco, Velandia and Ávila S.A.S.",2021-01-23,775311.36,DEBIT,Consequatur laborum odio.
+891,Mosquera-Medina S.A.S.,2022-03-31,428871.22,DEBIT,Nam magnam pariatur.
+892,"Pacheco, Velandia and Ávila S.A.S.",2020-08-10,843159.2,DEBIT,Ducimus atque quidem.
+893,Rodríguez-Martínez S.A.S.,2024-05-20,569669.82,DEBIT,Quaerat exercitationem ea ipsum fuga non.
+894,"García, Castro and Rendón S.A.S.",2024-01-30,675263.82,CREDIT,Cupiditate atque a aspernatur adipisci fuga culpa.
+895,"Gómez, Sanabria and Pulido S.A.S.",2023-07-27,8251.36,DEBIT,Numquam eveniet quae enim nulla saepe.
+896,Jaimes-Quintero S.A.S.,2023-12-26,220162.2,DEBIT,Eveniet voluptates in placeat nihil minima.
+897,Mosquera-Medina S.A.S.,2020-09-14,571397.33,CREDIT,Non sapiente totam omnis voluptatibus autem.
+898,"Palacios, Becerra and Rodríguez S.A.S.",2020-11-11,416532.25,DEBIT,Quas atque quis accusantium magnam placeat.
+899,Castro-Flórez S.A.S.,2020-12-12,244283.48,CREDIT,Laudantium autem animi quos.
+900,Castro-Flórez S.A.S.,2020-07-28,116179.66,CREDIT,Deserunt eaque enim natus illum.
+901,"Reyes, Álvarez and Hernández S.A.S.",2021-05-05,527195.1,CREDIT,Cupiditate enim sunt porro.
+902,Vargas-Álvarez S.A.S.,2022-07-09,84212.98,DEBIT,Cum atque eaque iste tempore.
+903,"Palacios, Becerra and Rodríguez S.A.S.",2022-04-21,832027.57,DEBIT,Eius consequatur quae ullam exercitationem reprehenderit.
+904,Mosquera-Medina S.A.S.,2021-07-30,131878.22,DEBIT,Vero voluptatibus dolore culpa provident ullam.
+905,Muñoz LLC S.A.S.,2024-04-13,274749.51,CREDIT,Blanditiis natus corrupti minima.
+906,"García, Castro and Rendón S.A.S.",2020-07-21,665214.52,CREDIT,Similique ducimus deleniti sint sit numquam.
+907,Reyes-Zambrano S.A.S.,2021-11-17,397985.32,DEBIT,Fuga illum commodi laboriosam nostrum.
+908,Garcés-Buitrago S.A.S.,2025-01-27,390668.09,DEBIT,Minima ullam ex ipsam.
+909,"Reyes, Álvarez and Hernández S.A.S.",2022-10-01,436823.89,DEBIT,Magni repudiandae asperiores error dicta blanditiis.
+910,Rodríguez-Martínez S.A.S.,2025-04-04,817241.83,DEBIT,Adipisci voluptatum atque vel.
+911,Garcés-Buitrago S.A.S.,2021-12-23,890915.1,DEBIT,Doloribus vero vitae voluptate perspiciatis.
+912,Ramírez LLC S.A.S.,2021-05-03,10209.97,CREDIT,Suscipit eius occaecati inventore doloribus.
+913,Mosquera-Medina S.A.S.,2023-09-05,520134.06,DEBIT,Officia neque est debitis impedit.
+914,Rodríguez-Martínez S.A.S.,2023-06-26,441087.81,DEBIT,Sequi aliquam est vero.
+915,Gil-Salazar S.A.S.,2022-01-18,161866.27,CREDIT,Molestiae tenetur temporibus illum et optio.
+916,"Reyes, Álvarez and Hernández S.A.S.",2023-07-23,878496.11,DEBIT,Tempore a suscipit.
+917,"Galvis, Ramírez and Angarita S.A.S.",2024-10-14,573011.76,DEBIT,Sunt laborum debitis.
+918,Gil-Salazar S.A.S.,2022-07-19,260247.4,DEBIT,Commodi ab quibusdam ipsam alias.
+919,Gil-Salazar S.A.S.,2021-03-10,41683.98,DEBIT,Dolores odio itaque.
+920,Castro-Flórez S.A.S.,2021-11-21,766579.32,CREDIT,Dicta fuga suscipit magnam.
+921,"Reyes, Álvarez and Hernández S.A.S.",2024-02-28,688188.75,CREDIT,Tempora officiis voluptates architecto consequatur nesciunt.
+922,Mosquera-Medina S.A.S.,2024-12-14,242435.99,CREDIT,Libero porro eos quaerat blanditiis.
+923,Ramírez LLC S.A.S.,2020-06-23,64820.25,CREDIT,Pariatur voluptate molestias molestias.
+924,"Buitrago, García and García S.A.S.",2023-08-07,522753.93,CREDIT,Cupiditate labore reiciendis laborum eum.
+925,Flórez Ltd S.A.S.,2021-02-27,61757.64,CREDIT,Necessitatibus harum odit laborum.
+926,Flórez Ltd S.A.S.,2022-12-15,672950.11,DEBIT,Autem odio fuga.
+927,"Reyes, Álvarez and Hernández S.A.S.",2022-11-17,819582.32,CREDIT,Laborum ipsum labore beatae saepe perspiciatis.
+928,"Galvis, Ramírez and Angarita S.A.S.",2025-01-13,935652.46,DEBIT,Architecto adipisci aliquam maxime incidunt.
+929,Jaimes-Quintero S.A.S.,2024-09-26,386389.71,DEBIT,Harum autem vel magnam quibusdam.
+930,Oviedo-Domínguez S.A.S.,2025-01-16,87230.17,DEBIT,Accusantium quae aliquid enim.
+931,Muñoz LLC S.A.S.,2021-03-10,360789.48,CREDIT,Amet rerum possimus tenetur optio et.
+932,"García, Castro and Rendón S.A.S.",2021-07-18,801257.42,CREDIT,Aperiam minus vero velit fugiat.
+933,Posada-Peña S.A.S.,2024-05-09,317585.36,DEBIT,Dignissimos reiciendis consectetur itaque at cum.
+934,Gómez-Cardozo S.A.S.,2025-04-05,448221.52,CREDIT,Repudiandae nostrum explicabo eos maxime accusantium.
+935,Mosquera-Medina S.A.S.,2023-03-17,840634.38,CREDIT,Voluptate debitis explicabo fugiat.
+936,Castro-Flórez S.A.S.,2020-08-14,569081.93,DEBIT,Consectetur at debitis.
+937,Jaimes-Quintero S.A.S.,2021-06-25,468996.39,DEBIT,Quas eius ab repellat.
+938,"Gómez, Sanabria and Pulido S.A.S.",2023-02-08,732703.43,CREDIT,Qui excepturi veniam ipsam amet repellat.
+939,Oviedo-Domínguez S.A.S.,2023-05-25,518709.7,CREDIT,Sint fugit qui sed.
+940,Calderón and Sons S.A.S.,2022-03-03,135663.5,CREDIT,Aperiam doloribus veniam totam.
+941,Posada-Peña S.A.S.,2024-09-10,850937.96,DEBIT,Nemo repellendus occaecati sequi accusamus.
+942,Muñoz LLC S.A.S.,2024-02-07,196101.31,CREDIT,Tenetur tenetur unde ipsam veniam facilis.
+943,Vargas-Álvarez S.A.S.,2023-04-16,730628.13,CREDIT,Adipisci nulla impedit.
+944,"Galvis, Ramírez and Angarita S.A.S.",2020-10-22,797630.84,CREDIT,Ad nulla repellat deserunt esse.
+945,Posada-Peña S.A.S.,2020-06-27,83785.89,CREDIT,Necessitatibus odio voluptatibus.
+946,"Pacheco, Velandia and Ávila S.A.S.",2024-02-29,817956.32,CREDIT,Neque perspiciatis sint harum blanditiis perferendis.
+947,"Reyes, Álvarez and Hernández S.A.S.",2023-03-26,926993.91,CREDIT,Fugit blanditiis iste.
+948,Flórez Ltd S.A.S.,2025-05-08,198022.09,DEBIT,Necessitatibus eum pariatur at eaque maxime.
+949,Gil-Salazar S.A.S.,2021-04-02,181574.9,DEBIT,Ratione libero sint saepe deserunt.
+950,Jaimes-Quintero S.A.S.,2020-06-21,626666.54,DEBIT,Consequuntur illo eius.
+951,Garcés-Buitrago S.A.S.,2021-10-10,475694.15,CREDIT,Molestiae quia harum.
+952,Gil-Salazar S.A.S.,2021-05-16,544216.21,DEBIT,Fugiat repudiandae dolorum nihil quam commodi.
+953,Oviedo-Domínguez S.A.S.,2021-01-07,546685.0,CREDIT,Occaecati recusandae odit quia nihil iure.
+954,Portilla-Palacios S.A.S.,2024-02-28,107068.33,DEBIT,Aliquid rerum quaerat quasi quas repudiandae.
+955,Oviedo-Domínguez S.A.S.,2022-04-09,234934.51,CREDIT,Perferendis aliquid aliquam corporis maiores ad.
+956,Flórez Ltd S.A.S.,2023-10-28,105719.71,DEBIT,Nulla aut sed dolorum.
+957,"Reyes, Álvarez and Hernández S.A.S.",2020-08-20,975603.33,CREDIT,Quia delectus iste eius deserunt labore.
+958,Gil-Salazar S.A.S.,2024-09-03,209753.08,CREDIT,Eum consequuntur ducimus itaque voluptate vero quasi.
+959,Oviedo-Domínguez S.A.S.,2022-09-06,30424.86,DEBIT,Facilis ab nihil assumenda.
+960,Ramírez LLC S.A.S.,2021-08-09,258608.59,DEBIT,Quam culpa eaque facere cupiditate.
+961,"Gómez, Sanabria and Pulido S.A.S.",2021-04-04,60058.91,CREDIT,Non earum deserunt vitae.
+962,Muñoz LLC S.A.S.,2020-07-28,626916.29,DEBIT,Cum eum repudiandae omnis ipsum voluptate.
+963,"Galvis, Ramírez and Angarita S.A.S.",2022-04-17,496044.54,DEBIT,Non soluta veniam deleniti veniam.
+964,Gil-Salazar S.A.S.,2022-09-22,955151.52,DEBIT,Praesentium dolores tempora quae.
+965,"Buitrago, García and García S.A.S.",2023-04-25,221956.89,CREDIT,Voluptatem praesentium laborum nesciunt eaque quisquam eveniet.
+966,Garcés-Buitrago S.A.S.,2021-01-07,275038.47,CREDIT,Voluptatibus perspiciatis temporibus voluptates aperiam dolore.
+967,Reyes-Zambrano S.A.S.,2024-08-04,744242.26,DEBIT,Ex officiis animi rerum quia.
+968,"García, Castro and Rendón S.A.S.",2022-06-01,786252.28,DEBIT,Laboriosam itaque explicabo eveniet.
+969,"Buitrago, García and García S.A.S.",2022-01-13,291731.53,CREDIT,Expedita id exercitationem.
+970,Portilla-Palacios S.A.S.,2023-10-21,800667.84,DEBIT,Sunt consectetur dolorum.
+971,Ramírez LLC S.A.S.,2025-05-28,630639.4,DEBIT,Excepturi excepturi velit explicabo.
+972,Durán-Bernal S.A.S.,2023-07-26,322578.31,DEBIT,Natus asperiores eum officia.
+973,Posada-Peña S.A.S.,2021-01-14,370132.98,CREDIT,Tempore quo minus.
+974,Vargas-Álvarez S.A.S.,2023-12-07,935669.52,DEBIT,Placeat eius vero minus.
+975,"García, Castro and Rendón S.A.S.",2023-03-14,114732.07,DEBIT,Accusamus similique necessitatibus aspernatur.
+976,"Buitrago, García and García S.A.S.",2023-07-31,529816.92,DEBIT,Incidunt vitae eaque excepturi eaque.
+977,González Inc S.A.S.,2024-08-02,93081.99,CREDIT,Quia eaque odit magni debitis quae.
+978,Oviedo-Domínguez S.A.S.,2023-03-09,238374.25,DEBIT,Culpa reiciendis excepturi.
+979,Oviedo-Domínguez S.A.S.,2020-07-11,874644.72,CREDIT,Eaque culpa ullam.
+980,Durán-Bernal S.A.S.,2022-03-23,795810.29,DEBIT,Quo doloribus quasi quasi dignissimos et.
+981,Posada-Peña S.A.S.,2023-09-26,524490.57,DEBIT,Modi facere ullam.
+982,González Inc S.A.S.,2020-11-13,606337.13,CREDIT,Odit labore suscipit.
+983,Calderón and Sons S.A.S.,2022-06-15,38047.01,DEBIT,Ipsa quis soluta.
+984,Reyes-Zambrano S.A.S.,2022-11-10,825813.77,CREDIT,Mollitia sapiente tempora amet suscipit.
+985,"Galvis, Ramírez and Angarita S.A.S.",2024-08-17,639336.93,CREDIT,Doloremque quas officia.
+986,Garcés-Buitrago S.A.S.,2021-01-02,666176.71,CREDIT,Veniam sunt eligendi veniam.
+987,Oviedo-Domínguez S.A.S.,2023-10-14,507533.48,DEBIT,Mollitia saepe suscipit.
+988,Posada-Peña S.A.S.,2021-12-18,365279.21,CREDIT,Autem dolorem tenetur.
+989,González Inc S.A.S.,2020-07-24,66386.53,DEBIT,Sint dolorum sunt consectetur expedita.
+990,Castro-Flórez S.A.S.,2022-03-13,500610.86,DEBIT,Quos asperiores dolor quae officia.
+991,"Buitrago, García and García S.A.S.",2021-01-08,40941.41,DEBIT,Sapiente pariatur ea aperiam.
+992,Mosquera-Medina S.A.S.,2021-06-10,901496.17,DEBIT,Nemo dolor deserunt.
+993,Castro-Flórez S.A.S.,2024-01-15,468580.68,CREDIT,Quo iste totam molestiae culpa.
+994,"Pacheco, Velandia and Ávila S.A.S.",2023-06-15,268659.3,CREDIT,Dolores quia praesentium aliquam.
+995,"Palacios, Becerra and Rodríguez S.A.S.",2021-05-24,188112.02,DEBIT,Doloribus natus iure numquam dolores velit.
+996,"Pacheco, Velandia and Ávila S.A.S.",2022-01-15,14893.0,DEBIT,Quos minus quidem inventore.
+997,"Galvis, Ramírez and Angarita S.A.S.",2022-06-29,610121.43,CREDIT,Ipsa ducimus beatae omnis cumque commodi.
+998,Calderón and Sons S.A.S.,2025-03-28,422444.07,DEBIT,Molestiae esse quaerat iste.
+999,"García, Castro and Rendón S.A.S.",2023-11-14,606627.1,CREDIT,Autem animi deserunt non architecto eum.
+1000,Castro-Flórez S.A.S.,2025-03-01,349302.82,DEBIT,Aliquid aut sit nostrum laboriosam.
+1001,"Buitrago, García and García S.A.S.",2024-07-23,152015.53,CREDIT,Nostrum maiores beatae fuga sed corrupti.
+1002,Portilla-Palacios S.A.S.,2020-10-09,367284.35,CREDIT,Eos veritatis omnis enim error.
+1003,Portilla-Palacios S.A.S.,2022-10-12,779738.51,DEBIT,Quis doloribus doloribus.
+1004,"Palacios, Becerra and Rodríguez S.A.S.",2021-01-20,791722.0,CREDIT,Soluta voluptatibus voluptatum eos omnis.
+1005,"García, Castro and Rendón S.A.S.",2025-05-29,673033.57,DEBIT,Incidunt sequi ipsa dolores expedita nesciunt.
+1006,Castro-Flórez S.A.S.,2023-03-19,797260.72,CREDIT,Sunt sapiente necessitatibus beatae earum.
+1007,Ramírez LLC S.A.S.,2022-09-30,669722.54,CREDIT,Incidunt vel eligendi.
+1008,"Reyes, Álvarez and Hernández S.A.S.",2020-11-24,527240.96,CREDIT,Ut ad accusantium recusandae.
+1009,"Palacios, Becerra and Rodríguez S.A.S.",2023-06-22,774328.17,DEBIT,Tenetur consectetur ipsum.
+1010,Ramírez LLC S.A.S.,2021-03-27,136952.72,CREDIT,In deserunt quam.
+1011,Jaimes-Quintero S.A.S.,2022-12-14,378156.15,CREDIT,Animi qui ratione fugit officia.
+1012,Garcés-Buitrago S.A.S.,2021-08-05,553879.57,CREDIT,Inventore ipsum praesentium nesciunt.
+1013,Gil-Salazar S.A.S.,2024-06-17,770011.94,DEBIT,Unde ducimus rerum temporibus quaerat placeat.
+1014,Ramírez LLC S.A.S.,2020-10-08,54412.69,CREDIT,Quasi iusto libero quia.
+1015,"Reyes, Álvarez and Hernández S.A.S.",2024-07-05,140363.29,CREDIT,Magni enim fuga quasi ullam nemo.
+1016,"Buitrago, García and García S.A.S.",2020-09-01,924574.06,CREDIT,Unde excepturi itaque nulla.
+1017,"Buitrago, García and García S.A.S.",2020-06-14,369959.72,CREDIT,Reiciendis accusantium neque.
+1018,"Galvis, Ramírez and Angarita S.A.S.",2024-01-26,607612.63,CREDIT,Placeat earum soluta nam distinctio.
+1019,Vargas-Álvarez S.A.S.,2022-09-18,142189.7,CREDIT,Sequi iure minima consequuntur.
+1020,"Palacios, Becerra and Rodríguez S.A.S.",2024-05-23,619264.06,CREDIT,Quia officia culpa.
+1021,"Galvis, Ramírez and Angarita S.A.S.",2025-02-25,581675.98,DEBIT,Corrupti natus officia vero magnam.
+1022,Ramírez LLC S.A.S.,2022-12-27,128131.93,DEBIT,Fugit rerum tenetur distinctio quod.
+1023,Oviedo-Domínguez S.A.S.,2021-01-26,206458.68,CREDIT,Animi eius corrupti recusandae nulla.
+1024,Castro-Flórez S.A.S.,2020-10-20,972336.74,CREDIT,Dignissimos adipisci nam.
+1025,Jaimes-Quintero S.A.S.,2023-03-21,141870.33,DEBIT,Eaque nam saepe eligendi dolores.
+1026,Jaimes-Quintero S.A.S.,2025-03-08,464359.63,DEBIT,Nesciunt a quidem illo laborum.
+1027,Muñoz LLC S.A.S.,2022-05-06,628974.3,CREDIT,At temporibus quis non.
+1028,Garcés-Buitrago S.A.S.,2021-05-23,885378.23,CREDIT,Itaque eos ducimus quam eveniet amet.
+1029,"Reyes, Álvarez and Hernández S.A.S.",2022-06-26,345172.31,CREDIT,Reprehenderit labore eaque dolorem cum temporibus.
+1030,Jaimes-Quintero S.A.S.,2022-04-09,881031.27,DEBIT,Perferendis cum officiis adipisci nulla.
+1031,Vargas-Álvarez S.A.S.,2024-11-20,567267.49,DEBIT,Pariatur aspernatur aperiam facere harum.
+1032,Durán-Bernal S.A.S.,2025-05-25,961599.38,CREDIT,Voluptatum beatae illo neque.
+1033,"Palacios, Becerra and Rodríguez S.A.S.",2023-02-12,53549.62,DEBIT,Neque nisi beatae repellendus soluta repellat.
+1034,Portilla-Palacios S.A.S.,2023-07-26,312706.35,DEBIT,Ea natus earum laborum sequi vero.
+1035,Rodríguez-Martínez S.A.S.,2024-02-16,856147.59,DEBIT,Ea tempora saepe cumque nesciunt deleniti.
+1036,Flórez Ltd S.A.S.,2024-11-16,70437.35,DEBIT,Ipsum totam fugiat amet eligendi.
+1037,Jaimes-Quintero S.A.S.,2023-08-25,369359.32,CREDIT,Natus saepe velit aspernatur fugiat.
+1038,"Gómez, Sanabria and Pulido S.A.S.",2023-03-20,295962.99,CREDIT,Quia occaecati est.
+1039,Muñoz LLC S.A.S.,2022-01-05,647432.37,DEBIT,Dolore molestias culpa.
+1040,"Palacios, Becerra and Rodríguez S.A.S.",2024-05-25,506715.41,DEBIT,Non ipsa neque hic.
+1041,González Inc S.A.S.,2022-08-31,473349.89,CREDIT,Commodi in reiciendis.
+1042,Portilla-Palacios S.A.S.,2023-07-05,903675.36,DEBIT,Suscipit quae ab nam.
+1043,Castro-Flórez S.A.S.,2024-11-08,335518.72,DEBIT,Ut sequi expedita.
+1044,Gómez-Cardozo S.A.S.,2021-03-24,194838.82,CREDIT,Eligendi distinctio nostrum.
+1045,Oviedo-Domínguez S.A.S.,2024-03-22,674130.58,CREDIT,Ratione sit aliquam eius labore.
+1046,Durán-Bernal S.A.S.,2024-04-20,52453.58,DEBIT,Sapiente aspernatur et at laudantium.
+1047,Muñoz LLC S.A.S.,2023-09-25,466748.42,DEBIT,Eos aut explicabo ducimus totam ea.
+1048,"Reyes, Álvarez and Hernández S.A.S.",2021-04-21,560145.39,DEBIT,Excepturi veritatis occaecati quo vero.
+1049,Durán-Bernal S.A.S.,2024-02-21,276248.34,CREDIT,Provident hic aliquam voluptatibus optio.
+1050,Castro-Flórez S.A.S.,2024-03-15,543383.63,DEBIT,Incidunt beatae accusantium doloribus.
+1051,Portilla-Palacios S.A.S.,2024-06-28,710637.21,CREDIT,Aperiam consequatur maiores.
+1052,Rodríguez-Martínez S.A.S.,2020-06-27,485191.32,DEBIT,Voluptas dignissimos qui corrupti.
+1053,Ramírez LLC S.A.S.,2021-03-07,627221.96,DEBIT,Quidem dignissimos porro sint.
+1054,Ramírez LLC S.A.S.,2023-07-16,909959.57,CREDIT,Totam vitae quae.
+1055,"Buitrago, García and García S.A.S.",2025-06-10,319445.39,CREDIT,Rem vitae vel corporis.
+1056,Reyes-Zambrano S.A.S.,2021-01-22,719721.66,DEBIT,Eius impedit beatae excepturi sapiente nesciunt.
+1057,Mosquera-Medina S.A.S.,2021-02-22,412674.61,DEBIT,Tempora quos aliquid reprehenderit sit facilis.
+1058,Rodríguez-Martínez S.A.S.,2020-08-21,357959.46,CREDIT,Harum est ea at laborum deserunt.
+1059,"Gómez, Sanabria and Pulido S.A.S.",2022-05-30,885754.8,DEBIT,Tempore doloribus inventore ea quasi consequuntur.
+1060,Gómez-Cardozo S.A.S.,2022-12-28,560038.93,CREDIT,Sequi dicta porro.
+1061,"Palacios, Becerra and Rodríguez S.A.S.",2021-05-25,347353.81,DEBIT,Autem minima placeat voluptate nam tenetur inventore.
+1062,Mosquera-Medina S.A.S.,2024-05-24,501909.49,CREDIT,Esse autem cumque doloremque.
+1063,"Galvis, Ramírez and Angarita S.A.S.",2022-10-01,377850.48,CREDIT,Recusandae in in beatae officia.
+1064,Oviedo-Domínguez S.A.S.,2023-01-25,475683.93,CREDIT,Quasi neque molestiae.
+1065,Rodríguez-Martínez S.A.S.,2023-08-01,354767.88,CREDIT,Omnis labore dicta expedita nisi.
+1066,Gil-Salazar S.A.S.,2024-09-14,984394.49,CREDIT,Occaecati suscipit consequuntur vitae sed facere.
+1067,Oviedo-Domínguez S.A.S.,2023-10-31,341917.86,DEBIT,Iure nisi quae fugit nam ducimus.
+1068,Reyes-Zambrano S.A.S.,2024-04-09,509952.67,DEBIT,Nobis rerum id dignissimos.
+1069,Vargas-Álvarez S.A.S.,2022-02-16,25442.71,DEBIT,Deleniti id tempora animi illo.
+1070,Castro-Flórez S.A.S.,2025-01-23,648668.14,CREDIT,Occaecati aliquam quia.
+1071,Gómez-Cardozo S.A.S.,2023-01-11,222367.7,DEBIT,Magni omnis culpa quisquam facilis doloremque.
+1072,"Buitrago, García and García S.A.S.",2024-02-06,664653.9,CREDIT,Tempora autem est esse odio.
+1073,Garcés-Buitrago S.A.S.,2021-04-27,101134.92,CREDIT,Impedit tempora magnam reprehenderit.
+1074,Jaimes-Quintero S.A.S.,2021-05-14,315800.6,DEBIT,Fuga perspiciatis tempora reprehenderit iusto excepturi.
+1075,"Palacios, Becerra and Rodríguez S.A.S.",2023-05-29,865437.27,CREDIT,Quisquam accusamus quae repellendus similique magni.
+1076,González Inc S.A.S.,2024-06-10,629080.8,DEBIT,Cupiditate rem ad vero.
+1077,Gómez-Cardozo S.A.S.,2021-08-07,662109.2,DEBIT,Fuga eaque optio blanditiis voluptatem soluta.
+1078,Mosquera-Medina S.A.S.,2024-03-24,965730.78,DEBIT,Quis omnis aliquid delectus autem.
+1079,"Pacheco, Velandia and Ávila S.A.S.",2021-11-28,551531.25,DEBIT,Tenetur maxime quam blanditiis totam voluptas.
+1080,"Galvis, Ramírez and Angarita S.A.S.",2022-09-27,26561.55,DEBIT,Ad nisi esse veritatis consectetur maiores.
+1081,Gómez-Cardozo S.A.S.,2024-02-23,647673.69,CREDIT,Consectetur illo sapiente inventore qui.
+1082,Gómez-Cardozo S.A.S.,2024-11-01,375546.81,DEBIT,Accusamus a dolores saepe nulla ipsa.
+1083,Mosquera-Medina S.A.S.,2024-02-12,453098.77,DEBIT,Aliquam voluptas dolorem.
+1084,"Pacheco, Velandia and Ávila S.A.S.",2021-01-07,538397.73,CREDIT,Ullam numquam autem.
+1085,Gil-Salazar S.A.S.,2023-08-31,510382.11,CREDIT,Reiciendis architecto voluptate praesentium.
+1086,Portilla-Palacios S.A.S.,2024-10-16,563891.01,DEBIT,Sint quia dolorum.
+1087,"Buitrago, García and García S.A.S.",2024-01-20,484485.4,DEBIT,Totam exercitationem commodi sit eos.
+1088,Portilla-Palacios S.A.S.,2022-07-07,715114.83,CREDIT,Voluptatum reprehenderit tempora.
+1089,Garcés-Buitrago S.A.S.,2021-03-05,838171.06,DEBIT,Animi perspiciatis aspernatur reiciendis laudantium fuga.
+1090,Durán-Bernal S.A.S.,2025-01-21,29031.23,CREDIT,Minima nam commodi architecto laboriosam debitis.
+1091,Garcés-Buitrago S.A.S.,2021-05-29,685767.26,CREDIT,Voluptatibus minima laudantium.
+1092,Vargas-Álvarez S.A.S.,2021-07-29,507315.62,CREDIT,Ea pariatur esse harum libero.
+1093,Gil-Salazar S.A.S.,2021-04-29,205379.75,DEBIT,Sit architecto ad.
+1094,Ramírez LLC S.A.S.,2020-08-03,868288.97,CREDIT,Dolor dolorum fuga quaerat corporis.
+1095,"Gómez, Sanabria and Pulido S.A.S.",2020-10-05,603790.03,CREDIT,Pariatur soluta consequatur.
+1096,Oviedo-Domínguez S.A.S.,2022-08-14,883567.77,CREDIT,Doloremque incidunt sit harum.
+1097,"García, Castro and Rendón S.A.S.",2025-05-03,910405.31,CREDIT,Praesentium dolor et vero.
+1098,"Gómez, Sanabria and Pulido S.A.S.",2023-03-30,292775.65,CREDIT,Praesentium ipsa minima magnam nulla.
+1099,Portilla-Palacios S.A.S.,2023-11-30,240374.13,CREDIT,Laboriosam dolorum nulla placeat.
+1100,"García, Castro and Rendón S.A.S.",2022-07-23,265528.98,CREDIT,Vel repellat explicabo in alias facere.
+1101,González Inc S.A.S.,2022-08-24,679371.93,CREDIT,Facere voluptate exercitationem porro.
+1102,Gómez-Cardozo S.A.S.,2022-05-13,969964.02,CREDIT,Incidunt eligendi odit repellat.
+1103,Durán-Bernal S.A.S.,2020-11-19,391283.75,DEBIT,Dolor atque eligendi.
+1104,Ramírez LLC S.A.S.,2021-03-08,74262.54,DEBIT,Adipisci aperiam illum atque.
+1105,"Gómez, Sanabria and Pulido S.A.S.",2024-01-18,622577.53,DEBIT,Ducimus impedit nemo.
+1106,"Palacios, Becerra and Rodríguez S.A.S.",2024-10-03,954726.02,DEBIT,Laboriosam magni laborum laborum tempore.
+1107,Ramírez LLC S.A.S.,2021-06-17,983526.97,CREDIT,Illo repellendus corporis sint qui neque.
+1108,Vargas-Álvarez S.A.S.,2024-11-13,757264.84,DEBIT,Dolores quo amet quaerat.
+1109,"Buitrago, García and García S.A.S.",2022-03-26,180167.4,DEBIT,Esse quam explicabo nam necessitatibus temporibus.
+1110,"García, Castro and Rendón S.A.S.",2023-01-29,715286.26,DEBIT,Corrupti eius error temporibus placeat nesciunt.
+1111,"Buitrago, García and García S.A.S.",2024-05-31,337938.65,CREDIT,Possimus omnis architecto eum.
+1112,"Gómez, Sanabria and Pulido S.A.S.",2021-11-26,226289.33,CREDIT,Quo corrupti dolor tempore asperiores.
+1113,Portilla-Palacios S.A.S.,2023-12-17,22986.96,DEBIT,Tenetur ea recusandae perspiciatis ea.
+1114,"García, Castro and Rendón S.A.S.",2022-02-14,520787.37,CREDIT,Impedit ullam sapiente.
+1115,"Pacheco, Velandia and Ávila S.A.S.",2022-04-04,87029.95,CREDIT,Alias doloribus omnis.
+1116,González Inc S.A.S.,2020-08-17,151994.6,CREDIT,Ipsam ea delectus.
+1117,"Reyes, Álvarez and Hernández S.A.S.",2020-08-21,924616.21,DEBIT,Eum autem doloribus quod illum similique.
+1118,"Reyes, Álvarez and Hernández S.A.S.",2023-06-19,917388.35,CREDIT,Molestias saepe blanditiis.
+1119,González Inc S.A.S.,2021-04-11,24812.42,CREDIT,Minima illum tempore itaque.
+1120,Reyes-Zambrano S.A.S.,2022-09-13,887187.56,DEBIT,Numquam cum ratione dolore.
+1121,"Pacheco, Velandia and Ávila S.A.S.",2020-06-17,129218.34,DEBIT,Earum quas saepe.
+1122,González Inc S.A.S.,2025-01-01,727511.59,CREDIT,Esse numquam est deleniti.
+1123,"Pacheco, Velandia and Ávila S.A.S.",2024-04-19,665637.47,DEBIT,Voluptatum pariatur recusandae rerum.
+1124,Gil-Salazar S.A.S.,2023-07-24,865391.3,DEBIT,Pariatur ipsam voluptate.
+1125,Oviedo-Domínguez S.A.S.,2023-12-17,579757.2,CREDIT,Ab maiores alias similique non.
+1126,Oviedo-Domínguez S.A.S.,2020-09-22,242887.02,CREDIT,Fuga fugit repellat reprehenderit.
+1127,Vargas-Álvarez S.A.S.,2024-11-20,824583.03,DEBIT,Ad nisi eaque nam consectetur porro.
+1128,Castro-Flórez S.A.S.,2020-12-02,418468.68,DEBIT,Sit facere beatae odio repudiandae nobis.
+1129,Rodríguez-Martínez S.A.S.,2023-10-23,376918.09,DEBIT,Fugiat suscipit nisi dicta consequatur.
+1130,Mosquera-Medina S.A.S.,2021-03-02,215815.26,CREDIT,Enim natus explicabo labore quam.
+1131,Posada-Peña S.A.S.,2021-01-30,18424.53,DEBIT,Maiores blanditiis sunt voluptas.
+1132,"García, Castro and Rendón S.A.S.",2020-10-29,990667.12,CREDIT,Iste sit optio.
+1133,Calderón and Sons S.A.S.,2021-11-24,137229.57,CREDIT,Suscipit culpa cupiditate exercitationem est quas.
+1134,Calderón and Sons S.A.S.,2024-08-28,965574.65,DEBIT,Distinctio sunt ab harum porro.
+1135,Posada-Peña S.A.S.,2021-01-14,137472.98,DEBIT,Doloribus aliquid illo culpa iste.
+1136,"Reyes, Álvarez and Hernández S.A.S.",2021-08-20,547157.91,CREDIT,Natus atque totam atque.
+1137,Flórez Ltd S.A.S.,2022-10-21,177060.31,DEBIT,Eum ipsa cupiditate.
+1138,Garcés-Buitrago S.A.S.,2020-08-11,744771.72,CREDIT,Sint nostrum ullam maiores ullam.
+1139,González Inc S.A.S.,2022-06-02,445111.2,DEBIT,At voluptas totam.
+1140,"Gómez, Sanabria and Pulido S.A.S.",2023-05-07,6221.5,CREDIT,Dicta amet natus maxime natus.
+1141,González Inc S.A.S.,2021-02-11,815620.99,CREDIT,Rem minus assumenda iure numquam.
+1142,Ramírez LLC S.A.S.,2022-12-18,186854.34,DEBIT,Cupiditate sit quas.
+1143,Durán-Bernal S.A.S.,2025-02-16,719148.68,CREDIT,Recusandae hic odio consequuntur.
+1144,Gómez-Cardozo S.A.S.,2020-12-14,541855.88,CREDIT,Hic beatae sunt reiciendis dolores.
+1145,"Galvis, Ramírez and Angarita S.A.S.",2023-08-12,1875.28,DEBIT,Dolorem eius porro culpa.
+1146,"Pacheco, Velandia and Ávila S.A.S.",2021-07-23,411894.97,DEBIT,Accusamus expedita est natus.
+1147,Gómez-Cardozo S.A.S.,2021-12-21,137842.76,CREDIT,Ex blanditiis aperiam.
+1148,Posada-Peña S.A.S.,2023-06-09,261065.34,DEBIT,Veritatis commodi asperiores animi est illum.
+1149,"García, Castro and Rendón S.A.S.",2025-04-18,76367.33,DEBIT,Minima praesentium dignissimos perferendis vero.
+1150,Durán-Bernal S.A.S.,2023-02-08,418681.19,CREDIT,Velit dignissimos voluptas harum culpa.
+1151,Rodríguez-Martínez S.A.S.,2024-04-26,764968.58,DEBIT,Debitis praesentium natus necessitatibus enim eos.
+1152,Rodríguez-Martínez S.A.S.,2021-05-27,812162.71,CREDIT,Quas dolor doloribus hic totam aliquam.
+1153,Muñoz LLC S.A.S.,2023-09-17,244402.51,DEBIT,Explicabo esse alias at voluptatum.
+1154,Jaimes-Quintero S.A.S.,2024-06-08,867623.62,DEBIT,Autem quia saepe quam.
+1155,Durán-Bernal S.A.S.,2021-08-02,517985.2,CREDIT,Illum dicta dolores expedita provident aliquam.
+1156,Castro-Flórez S.A.S.,2022-08-05,104106.15,CREDIT,Nisi hic ipsum.
+1157,Durán-Bernal S.A.S.,2023-07-06,122175.71,CREDIT,Atque expedita id at.
+1158,Garcés-Buitrago S.A.S.,2020-07-01,934295.86,DEBIT,Officiis eius amet est.
+1159,"Reyes, Álvarez and Hernández S.A.S.",2023-11-29,210243.81,CREDIT,Animi debitis magnam iusto.
+1160,González Inc S.A.S.,2022-07-03,201554.01,DEBIT,Omnis quae voluptatibus nesciunt est.
+1161,"García, Castro and Rendón S.A.S.",2023-06-15,188549.53,DEBIT,Itaque perspiciatis quas.
+1162,"Pacheco, Velandia and Ávila S.A.S.",2022-07-16,94415.94,DEBIT,Asperiores vitae molestiae cupiditate.
+1163,Flórez Ltd S.A.S.,2023-10-09,182897.11,DEBIT,Itaque similique quasi harum voluptatibus.
+1164,Gil-Salazar S.A.S.,2021-09-26,471088.39,CREDIT,Accusamus ab quasi placeat.
+1165,Muñoz LLC S.A.S.,2023-08-06,3726.15,CREDIT,Distinctio nobis deserunt consectetur quaerat.
+1166,Portilla-Palacios S.A.S.,2023-01-10,173046.25,CREDIT,Laborum dignissimos nihil quaerat.
+1167,Muñoz LLC S.A.S.,2024-08-14,222454.34,CREDIT,Nesciunt quisquam eveniet.
+1168,Flórez Ltd S.A.S.,2025-04-29,523818.74,DEBIT,Ab laboriosam eius.
+1169,González Inc S.A.S.,2021-04-05,709452.21,DEBIT,Aut nulla provident perspiciatis.
+1170,Oviedo-Domínguez S.A.S.,2021-12-02,154436.53,DEBIT,Inventore exercitationem perspiciatis temporibus aut incidunt.
+1171,Muñoz LLC S.A.S.,2023-01-20,355524.14,DEBIT,Totam illo ducimus magnam nihil.
+1172,Gómez-Cardozo S.A.S.,2021-10-05,839115.4,CREDIT,Quibusdam facilis nostrum non fuga.
+1173,González Inc S.A.S.,2021-10-10,217004.9,DEBIT,Odit eos inventore animi.
+1174,Oviedo-Domínguez S.A.S.,2022-05-19,388898.71,DEBIT,Itaque fugiat nesciunt quasi voluptas porro.
+1175,Oviedo-Domínguez S.A.S.,2021-12-31,969191.25,DEBIT,Voluptatibus fugiat iste.
+1176,González Inc S.A.S.,2024-03-11,202272.44,DEBIT,Hic cum earum ad commodi nobis.
+1177,Ramírez LLC S.A.S.,2025-01-24,393690.71,CREDIT,Blanditiis suscipit illum nostrum earum a.
+1178,Rodríguez-Martínez S.A.S.,2020-10-24,774540.33,DEBIT,Deleniti unde magnam ipsam laboriosam.
+1179,Flórez Ltd S.A.S.,2021-02-27,842756.62,CREDIT,Consequuntur dolorum voluptatum.
+1180,Muñoz LLC S.A.S.,2024-04-25,704416.17,DEBIT,Exercitationem beatae voluptate eligendi quasi dolorum.
+1181,Muñoz LLC S.A.S.,2021-05-28,979309.65,CREDIT,Fuga fuga vero fugiat.
+1182,Ramírez LLC S.A.S.,2020-11-12,676502.27,CREDIT,Minima praesentium sapiente.
+1183,Castro-Flórez S.A.S.,2024-11-05,229614.55,CREDIT,Necessitatibus corporis eligendi.
+1184,"García, Castro and Rendón S.A.S.",2020-12-24,71632.72,CREDIT,Quo explicabo earum.
+1185,Mosquera-Medina S.A.S.,2020-09-22,789776.67,DEBIT,Minus vitae quisquam exercitationem.
+1186,Flórez Ltd S.A.S.,2024-06-23,661175.21,DEBIT,Libero fugit laborum.
+1187,Vargas-Álvarez S.A.S.,2023-12-08,831102.83,DEBIT,Ducimus in magni.
+1188,Gómez-Cardozo S.A.S.,2023-01-12,330533.97,DEBIT,Nisi cupiditate illo reiciendis doloribus.
+1189,Rodríguez-Martínez S.A.S.,2022-12-06,522488.65,CREDIT,Quaerat fugiat soluta repellendus.
+1190,Jaimes-Quintero S.A.S.,2024-09-15,502807.29,CREDIT,Autem explicabo eius accusamus pariatur iusto.
+1191,Rodríguez-Martínez S.A.S.,2023-05-06,118850.82,CREDIT,Quia dignissimos eum quas adipisci.
+1192,"Galvis, Ramírez and Angarita S.A.S.",2020-10-22,70996.42,DEBIT,Cupiditate quidem earum tenetur qui impedit ut.
+1193,"Palacios, Becerra and Rodríguez S.A.S.",2022-10-13,212456.68,DEBIT,Quae eveniet vitae.
+1194,Posada-Peña S.A.S.,2021-09-15,586253.04,CREDIT,Veniam omnis quidem accusantium.
+1195,Gómez-Cardozo S.A.S.,2021-05-06,452555.02,CREDIT,Dolor doloremque magnam.
+1196,Castro-Flórez S.A.S.,2021-11-06,370469.16,DEBIT,Earum veniam similique quidem.
+1197,"Buitrago, García and García S.A.S.",2020-12-14,658781.85,DEBIT,Consectetur sapiente modi maxime odit recusandae.
+1198,"Gómez, Sanabria and Pulido S.A.S.",2024-12-13,330355.5,DEBIT,Totam maxime dolorem temporibus.
+1199,Gil-Salazar S.A.S.,2025-03-27,449459.42,DEBIT,Molestiae at quis modi.
+1200,Muñoz LLC S.A.S.,2024-10-31,826701.02,CREDIT,Incidunt nulla nemo explicabo.
+1201,"Pacheco, Velandia and Ávila S.A.S.",2025-05-21,526597.23,DEBIT,Ullam ipsam ullam laudantium nesciunt itaque.
+1202,González Inc S.A.S.,2023-07-31,662453.1,CREDIT,Eligendi quos hic placeat suscipit.
+1203,Portilla-Palacios S.A.S.,2021-07-07,835272.47,DEBIT,Quisquam iure quos qui dolorum.
+1204,"Palacios, Becerra and Rodríguez S.A.S.",2024-06-24,791123.63,DEBIT,Laudantium sint labore corrupti saepe vero.
+1205,Gómez-Cardozo S.A.S.,2020-06-28,520890.73,CREDIT,Sequi natus molestiae exercitationem facilis sint.
+1206,Vargas-Álvarez S.A.S.,2024-04-11,240555.19,DEBIT,Totam quisquam ullam ad possimus.
+1207,Flórez Ltd S.A.S.,2024-01-18,779757.16,DEBIT,Voluptatum quae sit sapiente.
+1208,"Gómez, Sanabria and Pulido S.A.S.",2023-10-11,228962.91,CREDIT,Fugiat eos quo.
+1209,"Gómez, Sanabria and Pulido S.A.S.",2025-04-23,232305.55,CREDIT,Deserunt unde eum reprehenderit esse in.
+1210,Muñoz LLC S.A.S.,2022-07-02,901520.45,DEBIT,Animi error corrupti ullam commodi fuga.
+1211,Ramírez LLC S.A.S.,2023-11-09,585899.94,DEBIT,Minus quos blanditiis totam dolores.
+1212,Calderón and Sons S.A.S.,2023-09-26,43532.95,DEBIT,Libero non expedita quod.
+1213,Muñoz LLC S.A.S.,2024-02-22,878664.23,CREDIT,Libero aliquid quasi impedit similique vel.
+1214,Gómez-Cardozo S.A.S.,2020-10-11,255535.35,DEBIT,Quia voluptatem deleniti quisquam vel quia.
+1215,Vargas-Álvarez S.A.S.,2022-11-27,530258.69,CREDIT,Omnis alias tempora expedita assumenda earum.
+1216,Muñoz LLC S.A.S.,2021-12-25,712047.82,DEBIT,Incidunt omnis officia expedita saepe.
+1217,Gómez-Cardozo S.A.S.,2024-05-20,518698.78,DEBIT,Assumenda earum iste amet dolores.
+1218,Rodríguez-Martínez S.A.S.,2020-11-12,75933.77,CREDIT,Quo quaerat incidunt eius.
+1219,Castro-Flórez S.A.S.,2024-06-29,939318.62,CREDIT,Debitis saepe amet maxime voluptas explicabo.
+1220,"Palacios, Becerra and Rodríguez S.A.S.",2020-07-17,2390.36,CREDIT,Aliquid nulla provident debitis id.
+1221,Posada-Peña S.A.S.,2024-07-06,474056.59,DEBIT,Est doloribus molestias voluptatem doloremque.
+1222,Ramírez LLC S.A.S.,2023-02-26,941480.26,DEBIT,Dolores rem odio labore.
+1223,Portilla-Palacios S.A.S.,2025-03-19,662730.58,DEBIT,Culpa deleniti rem ipsa.
+1224,Garcés-Buitrago S.A.S.,2022-02-02,69122.73,CREDIT,Possimus facilis voluptate minima eos.
+1225,González Inc S.A.S.,2022-02-10,184621.14,DEBIT,Aliquam ipsa enim doloribus.
+1226,Jaimes-Quintero S.A.S.,2022-10-23,382247.17,CREDIT,Dolorum saepe eveniet.
+1227,Flórez Ltd S.A.S.,2021-04-06,653553.47,DEBIT,Impedit nam eum rerum aperiam.
+1228,Jaimes-Quintero S.A.S.,2024-03-25,558219.41,CREDIT,Excepturi aperiam magni voluptas consequuntur architecto.
+1229,Mosquera-Medina S.A.S.,2024-10-22,739015.41,DEBIT,Beatae adipisci harum cupiditate consectetur.
+1230,Jaimes-Quintero S.A.S.,2023-10-01,957181.41,CREDIT,Illum omnis esse eveniet.
+1231,Portilla-Palacios S.A.S.,2021-08-26,713563.89,CREDIT,Deserunt dicta inventore culpa tempora.
+1232,Portilla-Palacios S.A.S.,2021-06-25,186370.45,CREDIT,Labore a at architecto.
+1233,"García, Castro and Rendón S.A.S.",2023-11-16,945023.3,CREDIT,Doloremque cupiditate omnis.
+1234,"Pacheco, Velandia and Ávila S.A.S.",2020-11-28,127324.29,DEBIT,Aut molestias iste.
+1235,"Buitrago, García and García S.A.S.",2024-04-24,996844.95,CREDIT,In cumque deserunt.
+1236,"Buitrago, García and García S.A.S.",2021-04-28,134844.19,DEBIT,Veritatis minus repellendus quos.
+1237,"Palacios, Becerra and Rodríguez S.A.S.",2024-01-22,741175.78,DEBIT,Quidem maiores voluptate dolorum quo debitis.
+1238,Jaimes-Quintero S.A.S.,2024-12-19,221691.72,CREDIT,Odio facilis earum.
+1239,"Reyes, Álvarez and Hernández S.A.S.",2024-05-28,527748.79,CREDIT,Soluta eaque occaecati.
+1240,Jaimes-Quintero S.A.S.,2022-09-07,442369.75,CREDIT,Neque delectus totam incidunt.
+1241,"Palacios, Becerra and Rodríguez S.A.S.",2021-05-14,928318.88,CREDIT,Eligendi iure nemo soluta.
+1242,"Galvis, Ramírez and Angarita S.A.S.",2024-07-22,921489.28,CREDIT,Officiis optio quasi.
+1243,Durán-Bernal S.A.S.,2021-11-12,770734.97,CREDIT,Numquam inventore delectus consequuntur.
+1244,Portilla-Palacios S.A.S.,2021-05-20,541196.28,DEBIT,Sapiente adipisci vel asperiores exercitationem.
+1245,Mosquera-Medina S.A.S.,2022-01-30,343478.16,CREDIT,Eum quia iusto fuga aperiam.
+1246,González Inc S.A.S.,2020-11-09,525760.2,CREDIT,Repellendus repudiandae consequatur ratione.
+1247,Ramírez LLC S.A.S.,2023-07-11,443954.59,DEBIT,Modi facilis voluptatibus delectus.
+1248,"Palacios, Becerra and Rodríguez S.A.S.",2023-12-17,547539.6,DEBIT,Aliquam assumenda id quisquam facilis suscipit placeat.
+1249,Ramírez LLC S.A.S.,2023-10-18,411043.89,DEBIT,Maxime dignissimos nostrum eos facere ullam.
+1250,"Pacheco, Velandia and Ávila S.A.S.",2023-04-08,582176.92,DEBIT,Explicabo natus ea.
+1251,Ramírez LLC S.A.S.,2023-09-12,220906.83,CREDIT,Cupiditate sapiente fugit earum aliquam cupiditate.
+1252,Portilla-Palacios S.A.S.,2024-01-18,791614.9,CREDIT,Aliquam iusto facilis eos.
+1253,Posada-Peña S.A.S.,2021-01-08,241041.77,DEBIT,Doloremque quos ut facilis.
+1254,Durán-Bernal S.A.S.,2023-04-29,496830.58,CREDIT,Exercitationem sint assumenda debitis tenetur.
+1255,"García, Castro and Rendón S.A.S.",2022-08-28,460149.09,DEBIT,Aliquam vitae dignissimos et veniam id.
+1256,"Palacios, Becerra and Rodríguez S.A.S.",2025-04-28,956909.2,DEBIT,Officia praesentium hic omnis voluptatum.
+1257,"Galvis, Ramírez and Angarita S.A.S.",2023-01-09,356265.99,DEBIT,Modi harum veniam in dignissimos.
+1258,Posada-Peña S.A.S.,2020-09-01,969654.14,CREDIT,Aspernatur voluptatibus accusamus eius itaque.
+1259,Gómez-Cardozo S.A.S.,2023-01-22,735914.24,CREDIT,Illo ut nostrum aliquam iusto.
+1260,Flórez Ltd S.A.S.,2022-11-05,873673.91,CREDIT,Nobis sequi error sit.
+1261,"García, Castro and Rendón S.A.S.",2022-01-13,814559.75,CREDIT,In amet consequuntur.
+1262,Calderón and Sons S.A.S.,2021-07-31,273515.23,CREDIT,Odit natus maiores possimus veniam.
+1263,Durán-Bernal S.A.S.,2021-02-05,760414.81,DEBIT,Facere nulla necessitatibus.
+1264,Vargas-Álvarez S.A.S.,2022-03-10,2589.31,CREDIT,Voluptatem iure reprehenderit.
+1265,Jaimes-Quintero S.A.S.,2022-08-01,643285.63,DEBIT,Blanditiis maxime necessitatibus.
+1266,Reyes-Zambrano S.A.S.,2022-01-08,227252.36,CREDIT,Magni laudantium corporis laboriosam recusandae quis.
+1267,Jaimes-Quintero S.A.S.,2023-02-02,411587.71,CREDIT,Nemo cumque natus soluta numquam sint.
+1268,Gómez-Cardozo S.A.S.,2020-12-09,464924.64,DEBIT,Illum fugiat libero est.
+1269,Reyes-Zambrano S.A.S.,2024-04-22,323742.18,DEBIT,Cum perspiciatis dolorum possimus.
+1270,"Pacheco, Velandia and Ávila S.A.S.",2023-10-23,927423.97,DEBIT,Laboriosam hic ipsa nobis occaecati.
+1271,Ramírez LLC S.A.S.,2025-06-09,9003.57,DEBIT,Hic earum illo eveniet voluptatibus quod.
+1272,"Reyes, Álvarez and Hernández S.A.S.",2021-11-09,350348.32,CREDIT,Soluta iusto fugit sit debitis.
+1273,"Palacios, Becerra and Rodríguez S.A.S.",2023-01-13,649456.08,DEBIT,Expedita blanditiis ipsa recusandae nihil.
+1274,Oviedo-Domínguez S.A.S.,2025-01-13,276070.92,CREDIT,Fuga distinctio corporis ipsa.
+1275,Castro-Flórez S.A.S.,2022-05-09,249894.52,DEBIT,Excepturi quisquam quisquam voluptate corrupti commodi.
+1276,Gómez-Cardozo S.A.S.,2024-06-12,996322.03,DEBIT,Corporis eos animi.
+1277,Durán-Bernal S.A.S.,2021-02-10,874941.72,CREDIT,Minus quaerat repellat iste.
+1278,"Palacios, Becerra and Rodríguez S.A.S.",2022-04-09,212446.42,CREDIT,Hic expedita cum.
+1279,Castro-Flórez S.A.S.,2023-12-17,621356.67,DEBIT,Deserunt voluptate explicabo.
+1280,Oviedo-Domínguez S.A.S.,2024-10-25,614301.18,CREDIT,Maiores saepe aut aut quasi occaecati saepe.
+1281,Jaimes-Quintero S.A.S.,2023-12-10,257963.5,DEBIT,Possimus hic deleniti repudiandae esse.
+1282,"García, Castro and Rendón S.A.S.",2022-08-30,485574.94,CREDIT,Laboriosam ut cum delectus.
+1283,Gómez-Cardozo S.A.S.,2023-07-14,133070.41,DEBIT,Corrupti voluptate quaerat.
+1284,González Inc S.A.S.,2020-08-29,930550.41,DEBIT,Minus aut at quae similique aspernatur.
+1285,"Buitrago, García and García S.A.S.",2024-05-21,739533.63,CREDIT,Delectus perferendis est.
+1286,"García, Castro and Rendón S.A.S.",2023-11-07,499365.13,CREDIT,Quod voluptates ipsum a.
+1287,Posada-Peña S.A.S.,2022-03-31,715974.52,DEBIT,Animi incidunt reiciendis ipsam nihil.
+1288,"Galvis, Ramírez and Angarita S.A.S.",2024-07-31,999019.32,CREDIT,Quod aspernatur autem modi.
+1289,"García, Castro and Rendón S.A.S.",2024-06-25,283178.02,CREDIT,Alias beatae fugiat nobis fugiat.
+1290,Oviedo-Domínguez S.A.S.,2022-03-13,522297.79,CREDIT,Natus voluptas molestiae.
+1291,Muñoz LLC S.A.S.,2022-08-23,12145.28,DEBIT,Dolor accusamus repellat odio expedita rem.
+1292,"Reyes, Álvarez and Hernández S.A.S.",2024-05-14,958995.95,CREDIT,Incidunt magnam nulla mollitia at praesentium.
+1293,Muñoz LLC S.A.S.,2023-10-25,675720.79,CREDIT,Vero veritatis cum nisi.
+1294,Gil-Salazar S.A.S.,2020-07-30,630980.16,DEBIT,Nostrum perspiciatis repellat quos.
+1295,"Gómez, Sanabria and Pulido S.A.S.",2020-08-06,377392.23,CREDIT,Quaerat voluptatem qui voluptatum enim quaerat.
+1296,Reyes-Zambrano S.A.S.,2020-12-24,890752.24,CREDIT,Molestiae accusantium at sequi.
+1297,"García, Castro and Rendón S.A.S.",2024-03-31,637560.01,DEBIT,Quis debitis eaque velit.
+1298,"Gómez, Sanabria and Pulido S.A.S.",2020-06-17,745547.47,CREDIT,Veritatis officiis quod ad modi debitis.
+1299,Garcés-Buitrago S.A.S.,2021-09-05,846237.89,CREDIT,Iste similique perspiciatis.
+1300,Gil-Salazar S.A.S.,2022-07-07,986935.71,DEBIT,Ullam unde maiores error.
+1301,"Gómez, Sanabria and Pulido S.A.S.",2023-12-21,525489.34,DEBIT,Deserunt sint tempora.
+1302,Muñoz LLC S.A.S.,2021-09-27,87391.48,CREDIT,Nobis facere earum tempora repellat.
+1303,Ramírez LLC S.A.S.,2024-07-12,533963.45,CREDIT,Hic natus fuga aliquid vel.
+1304,"Galvis, Ramírez and Angarita S.A.S.",2020-10-20,609323.22,CREDIT,Recusandae iusto eveniet soluta.
+1305,"Pacheco, Velandia and Ávila S.A.S.",2025-01-21,55995.72,CREDIT,Dolorem itaque numquam.
+1306,Vargas-Álvarez S.A.S.,2024-01-07,760636.02,CREDIT,Illum vitae officia.
+1307,Mosquera-Medina S.A.S.,2024-09-19,680007.05,DEBIT,Adipisci at modi qui deserunt facilis.
+1308,Mosquera-Medina S.A.S.,2022-01-12,948846.7,DEBIT,Quasi tempora autem nostrum odio iusto.
+1309,"García, Castro and Rendón S.A.S.",2025-05-14,238963.23,DEBIT,Minus commodi voluptates officia.
+1310,Flórez Ltd S.A.S.,2024-07-30,164316.57,CREDIT,Sint officiis repellendus tempora.
+1311,"Pacheco, Velandia and Ávila S.A.S.",2023-03-16,360145.05,CREDIT,Error est dicta omnis ab voluptate.
+1312,Vargas-Álvarez S.A.S.,2021-05-15,663265.84,CREDIT,Mollitia fugiat voluptatem.
+1313,Posada-Peña S.A.S.,2021-06-11,61745.85,CREDIT,Occaecati fuga praesentium.
+1314,"Reyes, Álvarez and Hernández S.A.S.",2023-02-04,761224.6,DEBIT,Voluptas recusandae excepturi.
+1315,Gil-Salazar S.A.S.,2022-11-08,397040.43,CREDIT,Perspiciatis laborum voluptatum.
+1316,Jaimes-Quintero S.A.S.,2024-02-10,90185.83,DEBIT,Corporis accusamus eius voluptatum sequi.
+1317,"Pacheco, Velandia and Ávila S.A.S.",2025-01-03,580559.66,CREDIT,Veritatis ducimus alias placeat.
+1318,Oviedo-Domínguez S.A.S.,2022-02-16,741908.65,DEBIT,Dolorem ut necessitatibus.
+1319,Durán-Bernal S.A.S.,2022-04-24,346856.29,CREDIT,Quibusdam officiis quae laboriosam.
+1320,"Galvis, Ramírez and Angarita S.A.S.",2024-03-01,11520.78,CREDIT,Iste hic omnis tenetur corrupti.
+1321,Portilla-Palacios S.A.S.,2021-07-03,706371.74,DEBIT,Aut ipsam saepe ipsa quibusdam.
+1322,"Galvis, Ramírez and Angarita S.A.S.",2023-12-06,438352.48,CREDIT,Nam soluta nihil sint quos atque.
+1323,"Galvis, Ramírez and Angarita S.A.S.",2022-02-02,557146.66,DEBIT,Laboriosam recusandae corrupti vel.
+1324,Jaimes-Quintero S.A.S.,2021-09-02,722989.98,CREDIT,Quo nesciunt sunt.
+1325,"Galvis, Ramírez and Angarita S.A.S.",2024-06-04,581327.56,DEBIT,Officia quos deleniti eos repellendus facilis.
+1326,"Reyes, Álvarez and Hernández S.A.S.",2020-06-11,375458.33,CREDIT,Exercitationem ab accusantium.
+1327,Calderón and Sons S.A.S.,2022-09-04,169741.12,CREDIT,Nihil sequi modi quam corrupti ut.
+1328,"Buitrago, García and García S.A.S.",2020-06-19,790399.52,DEBIT,Dolor sed animi.
+1329,Jaimes-Quintero S.A.S.,2024-09-23,428301.86,CREDIT,Aliquid sed veniam eveniet ipsam.
+1330,"Galvis, Ramírez and Angarita S.A.S.",2021-09-15,136857.17,CREDIT,Excepturi nisi saepe placeat enim.
+1331,Castro-Flórez S.A.S.,2024-11-06,544189.62,CREDIT,Dolores consectetur optio reiciendis qui.
+1332,"García, Castro and Rendón S.A.S.",2025-03-20,52088.01,CREDIT,Qui perferendis quas veritatis quis.
+1333,Rodríguez-Martínez S.A.S.,2022-05-19,814396.8,CREDIT,Fugiat aperiam fuga nisi laudantium dolore repellat.
+1334,"Reyes, Álvarez and Hernández S.A.S.",2022-05-18,275808.56,DEBIT,Voluptatem cumque et sunt repellendus.
+1335,Flórez Ltd S.A.S.,2025-05-01,765402.28,DEBIT,Dolor animi maxime aut nostrum.
+1336,González Inc S.A.S.,2020-12-02,57308.85,DEBIT,Natus ipsam velit provident.
+1337,González Inc S.A.S.,2020-06-26,228490.07,CREDIT,Cumque culpa dicta quod.
+1338,Jaimes-Quintero S.A.S.,2021-08-27,504155.87,DEBIT,Error pariatur dignissimos consectetur voluptatibus.
+1339,Durán-Bernal S.A.S.,2023-05-20,1261.04,CREDIT,Debitis accusamus illum reiciendis nesciunt voluptate.
+1340,Portilla-Palacios S.A.S.,2020-11-13,617219.5,CREDIT,Aperiam nihil eum suscipit eius.
+1341,Posada-Peña S.A.S.,2022-10-21,960632.67,DEBIT,Nemo culpa aliquid enim voluptates.
+1342,Rodríguez-Martínez S.A.S.,2022-12-06,895733.99,CREDIT,Distinctio velit odio qui et.
+1343,"Galvis, Ramírez and Angarita S.A.S.",2022-04-11,306886.27,CREDIT,Pariatur magnam iure sapiente libero.
+1344,Portilla-Palacios S.A.S.,2023-06-28,363934.11,DEBIT,Sequi officia cum dolorem dolor.
+1345,"Reyes, Álvarez and Hernández S.A.S.",2024-04-15,545239.7,CREDIT,Nemo eos tempore.
+1346,"Buitrago, García and García S.A.S.",2025-03-23,554629.72,DEBIT,Perferendis sunt omnis perferendis suscipit numquam.
+1347,"Galvis, Ramírez and Angarita S.A.S.",2022-10-16,892348.62,CREDIT,Rerum pariatur laudantium qui esse aspernatur.
+1348,"Palacios, Becerra and Rodríguez S.A.S.",2022-12-23,516014.47,CREDIT,Et eius facilis magni ab.
+1349,"Pacheco, Velandia and Ávila S.A.S.",2022-02-24,457143.57,CREDIT,Quaerat veniam veniam voluptatum aliquid.
+1350,"Palacios, Becerra and Rodríguez S.A.S.",2021-05-04,180763.16,DEBIT,Rem beatae officia.
+1351,Flórez Ltd S.A.S.,2021-01-07,548803.73,CREDIT,Porro neque at natus.
+1352,Ramírez LLC S.A.S.,2025-02-04,924837.29,DEBIT,Deleniti natus iure quos quas.
+1353,Calderón and Sons S.A.S.,2020-10-05,643320.63,DEBIT,Iure numquam molestiae.
+1354,"Galvis, Ramírez and Angarita S.A.S.",2025-03-06,47242.58,DEBIT,Voluptate exercitationem minima.
+1355,"Reyes, Álvarez and Hernández S.A.S.",2022-01-13,661879.63,CREDIT,Cupiditate assumenda vitae.
+1356,"Pacheco, Velandia and Ávila S.A.S.",2023-07-30,814804.45,CREDIT,Dolor aspernatur molestiae dolorum laborum.
+1357,Portilla-Palacios S.A.S.,2022-09-14,706115.11,CREDIT,Nostrum minima laborum.
+1358,Garcés-Buitrago S.A.S.,2023-03-31,65581.92,CREDIT,Sequi sapiente ut pariatur fugit fuga.
+1359,"García, Castro and Rendón S.A.S.",2020-10-05,473788.31,CREDIT,Voluptas earum rerum dolorum perspiciatis atque.
+1360,"Galvis, Ramírez and Angarita S.A.S.",2024-06-01,470768.36,CREDIT,Possimus corrupti fugiat earum omnis iste.
+1361,González Inc S.A.S.,2024-09-23,54750.56,CREDIT,Aliquid totam fugiat.
+1362,"Gómez, Sanabria and Pulido S.A.S.",2021-09-05,347798.42,DEBIT,Voluptas quos ipsum minima accusamus.
+1363,Portilla-Palacios S.A.S.,2021-11-11,61724.77,CREDIT,Labore quibusdam cumque assumenda.
+1364,Garcés-Buitrago S.A.S.,2024-08-11,602005.81,DEBIT,Illum maxime expedita.
+1365,"Palacios, Becerra and Rodríguez S.A.S.",2022-06-18,770563.68,CREDIT,Nulla dolorum praesentium iusto.
+1366,"Reyes, Álvarez and Hernández S.A.S.",2025-06-08,451743.71,DEBIT,Enim saepe tempora corporis assumenda ab.
+1367,Flórez Ltd S.A.S.,2023-03-22,87924.56,CREDIT,Molestias dolorem saepe nulla at voluptates.
+1368,Gil-Salazar S.A.S.,2023-01-02,499843.27,DEBIT,Optio quia consequatur.
+1369,Garcés-Buitrago S.A.S.,2023-07-01,51961.37,CREDIT,Repellat molestias quae corporis.
+1370,Portilla-Palacios S.A.S.,2022-03-02,143746.09,CREDIT,Nesciunt molestiae soluta sequi rerum esse.
+1371,Muñoz LLC S.A.S.,2022-05-19,994050.17,DEBIT,Veniam cupiditate cumque enim blanditiis.
+1372,Calderón and Sons S.A.S.,2022-02-17,165382.85,DEBIT,Quis suscipit magnam doloribus corrupti beatae.
+1373,Gil-Salazar S.A.S.,2020-09-28,871399.01,DEBIT,Tempore occaecati ipsum saepe numquam.
+1374,"García, Castro and Rendón S.A.S.",2024-08-08,408112.22,DEBIT,Beatae debitis quos ea hic.
+1375,Ramírez LLC S.A.S.,2020-11-21,915375.39,CREDIT,Totam facere quisquam ea quae recusandae.
+1376,Gil-Salazar S.A.S.,2024-01-19,365521.53,DEBIT,Architecto harum aliquam.
+1377,Ramírez LLC S.A.S.,2021-12-23,326090.54,DEBIT,Cum quis velit.
+1378,Garcés-Buitrago S.A.S.,2024-04-05,47537.92,DEBIT,Vitae cupiditate fugit cumque.
+1379,"Gómez, Sanabria and Pulido S.A.S.",2021-10-16,323824.83,CREDIT,Quidem magnam nihil eligendi neque velit.
+1380,Portilla-Palacios S.A.S.,2021-02-19,399445.84,DEBIT,Itaque nam officiis ullam.
+1381,"Buitrago, García and García S.A.S.",2021-02-06,274187.31,CREDIT,Occaecati voluptas possimus voluptatem officia.
+1382,Rodríguez-Martínez S.A.S.,2025-05-07,840056.02,DEBIT,Molestiae quis ab velit suscipit accusantium ullam.
+1383,"Reyes, Álvarez and Hernández S.A.S.",2022-08-09,735750.76,CREDIT,Accusantium laudantium nam et rem.
+1384,Gómez-Cardozo S.A.S.,2020-12-20,43589.31,DEBIT,Itaque pariatur fugiat nemo sed voluptas.
+1385,Gil-Salazar S.A.S.,2023-10-31,488527.34,CREDIT,Dolorum consectetur iste nobis.
+1386,Muñoz LLC S.A.S.,2022-05-04,778406.32,CREDIT,Minima architecto impedit aliquam repellat.
+1387,Durán-Bernal S.A.S.,2022-03-03,197898.67,CREDIT,Aspernatur omnis dicta nobis nisi.
+1388,Oviedo-Domínguez S.A.S.,2022-06-03,247015.81,CREDIT,Illo distinctio eligendi.
+1389,"Reyes, Álvarez and Hernández S.A.S.",2022-04-16,63670.09,CREDIT,Quae totam distinctio molestias rerum.
+1390,Castro-Flórez S.A.S.,2023-12-31,930167.36,DEBIT,Veritatis fugiat reprehenderit expedita.
+1391,"Palacios, Becerra and Rodríguez S.A.S.",2025-01-07,930911.97,DEBIT,Unde natus excepturi commodi.
+1392,Flórez Ltd S.A.S.,2022-04-12,526503.52,CREDIT,Ipsa unde error sint.
+1393,Calderón and Sons S.A.S.,2021-01-18,71396.56,CREDIT,Tempora vel ad necessitatibus.
+1394,Mosquera-Medina S.A.S.,2023-08-20,667039.39,DEBIT,Ducimus quos commodi natus.
+1395,Durán-Bernal S.A.S.,2025-05-25,60435.96,CREDIT,Exercitationem vitae nostrum.
+1396,"Palacios, Becerra and Rodríguez S.A.S.",2024-07-07,680847.02,DEBIT,Ad doloremque ipsam distinctio omnis.
+1397,Oviedo-Domínguez S.A.S.,2024-05-15,768948.05,DEBIT,Illum natus dolores ullam possimus.
+1398,Castro-Flórez S.A.S.,2024-06-01,177520.71,CREDIT,Ad beatae saepe laboriosam praesentium.
+1399,"Galvis, Ramírez and Angarita S.A.S.",2024-10-19,726064.92,CREDIT,Iusto eaque voluptate sit fugit fugiat.
+1400,"Reyes, Álvarez and Hernández S.A.S.",2024-12-29,507480.0,DEBIT,Quidem maiores a nam perferendis.
+1401,Mosquera-Medina S.A.S.,2024-03-09,245459.89,CREDIT,Ut quae tempora illum ab.
+1402,Mosquera-Medina S.A.S.,2024-01-24,755435.03,DEBIT,Sunt repellendus vitae optio.
+1403,González Inc S.A.S.,2020-10-02,984796.57,DEBIT,Quo modi reiciendis provident delectus.
+1404,Gómez-Cardozo S.A.S.,2022-03-04,114217.1,DEBIT,Quisquam earum aliquam omnis ipsum.
+1405,Ramírez LLC S.A.S.,2020-09-18,593392.01,CREDIT,Laborum optio vero quis quis fuga.
+1406,"García, Castro and Rendón S.A.S.",2022-12-05,731958.78,CREDIT,Sapiente non quo ea.
+1407,Portilla-Palacios S.A.S.,2023-06-04,452053.92,DEBIT,Praesentium reiciendis nihil iste distinctio corrupti.
+1408,Gómez-Cardozo S.A.S.,2024-11-13,754320.21,CREDIT,Facere fuga iusto quos incidunt.
+1409,Flórez Ltd S.A.S.,2022-05-08,112258.34,DEBIT,Inventore vel cumque ad.
+1410,Jaimes-Quintero S.A.S.,2024-09-09,8366.24,CREDIT,Corrupti minus tempore atque ab.
+1411,Ramírez LLC S.A.S.,2020-08-23,134381.43,CREDIT,Aut ducimus magnam nihil pariatur incidunt.
+1412,"Gómez, Sanabria and Pulido S.A.S.",2022-10-16,708123.71,CREDIT,Veniam eius non iste tempora.
+1413,Posada-Peña S.A.S.,2021-09-10,601899.73,CREDIT,Voluptatibus excepturi perspiciatis ipsam sapiente sapiente.
+1414,Gil-Salazar S.A.S.,2025-05-20,856236.43,CREDIT,Vitae maxime accusantium reprehenderit vel.
+1415,Calderón and Sons S.A.S.,2023-11-21,952304.41,DEBIT,Ducimus ea nemo.
+1416,"Galvis, Ramírez and Angarita S.A.S.",2021-12-30,998818.58,CREDIT,Veritatis libero excepturi.
+1417,"Palacios, Becerra and Rodríguez S.A.S.",2021-02-28,818226.45,CREDIT,Maiores inventore aliquam incidunt.
+1418,Ramírez LLC S.A.S.,2021-05-22,769634.24,CREDIT,Ex et consectetur quis at facere.
+1419,Portilla-Palacios S.A.S.,2023-05-21,246705.91,DEBIT,Velit laudantium dolor iure recusandae.
+1420,"Galvis, Ramírez and Angarita S.A.S.",2021-04-01,364628.01,CREDIT,Ad tempore commodi repellat libero.
+1421,González Inc S.A.S.,2022-03-15,153024.3,CREDIT,Labore veritatis sit.
+1422,"Reyes, Álvarez and Hernández S.A.S.",2021-05-25,71504.46,DEBIT,Adipisci ullam at.
+1423,Ramírez LLC S.A.S.,2021-01-02,160725.83,DEBIT,Molestias officiis repellat.
+1424,Muñoz LLC S.A.S.,2024-08-01,966389.82,DEBIT,Dicta eveniet dolorem maiores reiciendis.
+1425,"Buitrago, García and García S.A.S.",2020-12-21,798423.54,CREDIT,Iste consectetur quis numquam accusamus amet.
+1426,González Inc S.A.S.,2025-03-17,378606.44,DEBIT,Voluptatem at repellat laudantium impedit ea.
+1427,Calderón and Sons S.A.S.,2020-11-21,473637.14,DEBIT,Velit quia libero saepe rerum.
+1428,"Reyes, Álvarez and Hernández S.A.S.",2023-12-19,176234.59,CREDIT,Tenetur ullam vero harum.
+1429,Portilla-Palacios S.A.S.,2024-04-18,49274.36,CREDIT,Qui quaerat nesciunt.
+1430,"Pacheco, Velandia and Ávila S.A.S.",2024-12-26,465889.34,CREDIT,Molestias cum qui.
+1431,González Inc S.A.S.,2022-02-22,733351.71,CREDIT,Accusamus optio rem numquam.
+1432,Flórez Ltd S.A.S.,2022-05-30,658993.52,CREDIT,Exercitationem saepe suscipit officiis commodi amet.
+1433,Oviedo-Domínguez S.A.S.,2022-12-09,203846.51,CREDIT,Inventore fugit ipsam in sunt.
+1434,"Buitrago, García and García S.A.S.",2021-03-03,774375.04,DEBIT,Iure occaecati ut ipsam.
+1435,"Buitrago, García and García S.A.S.",2024-10-24,965228.05,CREDIT,Facere doloremque unde quisquam atque.
+1436,Posada-Peña S.A.S.,2022-04-29,74853.53,DEBIT,Neque doloremque neque.
+1437,Flórez Ltd S.A.S.,2025-05-12,174028.95,DEBIT,Incidunt quae maiores dolore.
+1438,"Buitrago, García and García S.A.S.",2024-07-10,546724.09,DEBIT,Ratione sapiente ab laudantium rem quam.
+1439,Gómez-Cardozo S.A.S.,2021-08-26,599279.48,CREDIT,Nobis corporis harum debitis veritatis.
+1440,"Buitrago, García and García S.A.S.",2024-02-06,710964.45,CREDIT,Tempora explicabo dolores.
+1441,"García, Castro and Rendón S.A.S.",2023-06-08,303162.82,DEBIT,Suscipit voluptas quam excepturi dolore minus.
+1442,Gómez-Cardozo S.A.S.,2021-01-12,449864.24,CREDIT,Vitae voluptates ullam ut molestiae dolor.
+1443,Reyes-Zambrano S.A.S.,2024-03-26,979139.21,CREDIT,Quia vitae natus.
+1444,Gil-Salazar S.A.S.,2022-09-09,33454.77,DEBIT,Blanditiis dolorem quia saepe.
+1445,Jaimes-Quintero S.A.S.,2024-08-11,55881.25,DEBIT,Sit vero quam vitae reprehenderit blanditiis.
+1446,"Reyes, Álvarez and Hernández S.A.S.",2020-12-29,742638.18,DEBIT,Explicabo facere incidunt magni quos harum.
+1447,Muñoz LLC S.A.S.,2022-11-30,559005.88,DEBIT,Illum voluptates voluptatem labore vero sed.
+1448,Calderón and Sons S.A.S.,2025-02-09,145444.53,DEBIT,Magni voluptas pariatur velit quaerat.
+1449,"García, Castro and Rendón S.A.S.",2022-03-30,852072.82,CREDIT,Rerum unde placeat ipsam.
+1450,"Reyes, Álvarez and Hernández S.A.S.",2023-02-09,452733.09,CREDIT,Eius ipsa repellat illo perspiciatis.
+1451,Castro-Flórez S.A.S.,2024-12-14,17209.91,DEBIT,Fugiat iure amet perspiciatis.
+1452,Castro-Flórez S.A.S.,2020-10-07,959174.87,DEBIT,Exercitationem quod ipsa nostrum incidunt et.
+1453,"Galvis, Ramírez and Angarita S.A.S.",2023-05-06,203089.9,CREDIT,Saepe laudantium sapiente doloribus pariatur odio.
+1454,Flórez Ltd S.A.S.,2023-03-19,288784.86,DEBIT,Commodi ullam praesentium officiis dicta.
+1455,"Buitrago, García and García S.A.S.",2022-11-02,549113.7,DEBIT,Saepe dolore inventore repellendus.
+1456,"Reyes, Álvarez and Hernández S.A.S.",2022-08-12,413766.39,CREDIT,Alias deleniti minus debitis.
+1457,Rodríguez-Martínez S.A.S.,2023-07-15,595024.03,DEBIT,Earum sed rerum.
+1458,Mosquera-Medina S.A.S.,2021-01-16,298966.61,DEBIT,In laborum veniam exercitationem eos.
+1459,Durán-Bernal S.A.S.,2022-09-13,332683.31,DEBIT,Sit maxime modi.
+1460,Garcés-Buitrago S.A.S.,2023-03-14,566192.11,CREDIT,Quam asperiores veritatis nisi.
+1461,Vargas-Álvarez S.A.S.,2024-10-21,738564.94,CREDIT,Quo aliquam molestiae.
+1462,"Gómez, Sanabria and Pulido S.A.S.",2024-11-23,44488.71,DEBIT,Quibusdam eligendi incidunt consequatur molestiae.
+1463,Rodríguez-Martínez S.A.S.,2022-01-13,986134.22,DEBIT,Laborum sint unde non.
+1464,Gil-Salazar S.A.S.,2024-01-04,738920.46,DEBIT,Quisquam quasi officiis aliquam deserunt magni.
+1465,"Reyes, Álvarez and Hernández S.A.S.",2024-06-15,743086.87,CREDIT,Id delectus nisi impedit ipsa odit.
+1466,Portilla-Palacios S.A.S.,2024-10-24,138180.54,DEBIT,Animi maxime fuga.
+1467,"Gómez, Sanabria and Pulido S.A.S.",2021-11-19,298639.6,DEBIT,Consectetur voluptates voluptatem.
+1468,"García, Castro and Rendón S.A.S.",2022-09-17,292922.16,CREDIT,Incidunt asperiores voluptates distinctio ad.
+1469,"Buitrago, García and García S.A.S.",2024-04-01,872199.62,DEBIT,Aliquid quos natus voluptatem.
+1470,"Galvis, Ramírez and Angarita S.A.S.",2020-11-25,279991.37,DEBIT,Itaque magni voluptate iure optio alias.
+1471,"Palacios, Becerra and Rodríguez S.A.S.",2024-07-03,218826.19,DEBIT,Ab quaerat vitae delectus beatae.
+1472,Muñoz LLC S.A.S.,2021-09-12,971563.91,DEBIT,Minima odit expedita reiciendis.
+1473,Flórez Ltd S.A.S.,2022-01-28,739109.84,CREDIT,Consequuntur excepturi dicta non est optio.
+1474,"Buitrago, García and García S.A.S.",2021-03-16,885362.81,DEBIT,Dolore quis explicabo ratione.
+1475,Posada-Peña S.A.S.,2023-08-25,384643.63,CREDIT,Perspiciatis veritatis saepe doloremque.
+1476,Posada-Peña S.A.S.,2023-05-03,832263.1,CREDIT,Magni commodi asperiores reprehenderit.
+1477,"Buitrago, García and García S.A.S.",2024-06-15,827355.63,DEBIT,Atque facilis sunt repellat sit.
+1478,Jaimes-Quintero S.A.S.,2022-01-24,425017.57,CREDIT,Excepturi fugiat expedita.
+1479,"Palacios, Becerra and Rodríguez S.A.S.",2022-02-18,742536.21,CREDIT,Fuga odio quam quo aliquid ullam.
+1480,"Reyes, Álvarez and Hernández S.A.S.",2024-07-01,474656.8,CREDIT,Consequuntur voluptatem porro voluptate.
+1481,Rodríguez-Martínez S.A.S.,2024-02-07,407402.93,DEBIT,Et sapiente repellat unde deserunt.
+1482,"Galvis, Ramírez and Angarita S.A.S.",2025-02-28,615896.07,CREDIT,Ad illo distinctio.
+1483,González Inc S.A.S.,2021-12-27,132993.36,CREDIT,Omnis iusto quis dolore esse sapiente.
+1484,Gómez-Cardozo S.A.S.,2022-10-01,212774.92,DEBIT,Totam numquam nesciunt natus.
+1485,Reyes-Zambrano S.A.S.,2020-11-19,413750.38,DEBIT,Aut modi vitae.
+1486,Reyes-Zambrano S.A.S.,2020-12-15,901560.92,CREDIT,Quia libero itaque.
+1487,Reyes-Zambrano S.A.S.,2021-10-09,813626.48,CREDIT,Hic nostrum hic eveniet officiis at.
+1488,Vargas-Álvarez S.A.S.,2021-10-07,12035.9,DEBIT,Labore at incidunt est debitis pariatur.
+1489,Oviedo-Domínguez S.A.S.,2021-09-15,434291.95,CREDIT,Hic laboriosam illum omnis quo.
+1490,Reyes-Zambrano S.A.S.,2024-03-05,133908.5,DEBIT,Blanditiis magni voluptate voluptatibus.
+1491,"Reyes, Álvarez and Hernández S.A.S.",2023-02-02,940657.19,CREDIT,Fugit neque alias cum.
+1492,Calderón and Sons S.A.S.,2021-05-19,82934.77,DEBIT,Perspiciatis aut repudiandae.
+1493,Castro-Flórez S.A.S.,2022-10-25,175091.33,CREDIT,Perferendis eveniet molestiae iure laborum.
+1494,González Inc S.A.S.,2021-07-14,154590.34,CREDIT,Laborum repellendus repellendus voluptas.
+1495,Muñoz LLC S.A.S.,2021-11-19,122711.11,DEBIT,Corrupti quo praesentium quia quibusdam totam.
+1496,Posada-Peña S.A.S.,2023-12-13,901813.04,CREDIT,Ducimus ab ad iure sed impedit.
+1497,Ramírez LLC S.A.S.,2022-05-18,669833.89,DEBIT,Itaque nulla animi ipsam officiis.
+1498,Vargas-Álvarez S.A.S.,2022-11-29,60457.76,DEBIT,Officia aut porro.
+1499,Calderón and Sons S.A.S.,2021-08-30,887537.18,CREDIT,Nisi ullam facilis minima molestiae exercitationem.
+1500,Muñoz LLC S.A.S.,2024-01-26,336373.81,DEBIT,Eum nisi deleniti ab quia.
+1501,Reyes-Zambrano S.A.S.,2021-03-09,670491.69,CREDIT,Dignissimos soluta eaque quae.
+1502,Castro-Flórez S.A.S.,2021-01-27,321608.24,CREDIT,Ex neque sed.
+1503,Muñoz LLC S.A.S.,2023-07-25,518982.94,DEBIT,Corporis placeat eos.
+1504,Mosquera-Medina S.A.S.,2025-03-06,572511.19,CREDIT,Provident tenetur ad.
+1505,"Gómez, Sanabria and Pulido S.A.S.",2021-12-03,127564.62,DEBIT,Ratione incidunt velit minima aliquam quaerat.
+1506,González Inc S.A.S.,2023-06-25,160320.27,DEBIT,Alias modi odit dolore.
+1507,"Palacios, Becerra and Rodríguez S.A.S.",2024-10-17,730845.45,DEBIT,A odio earum odio laudantium rerum.
+1508,"Pacheco, Velandia and Ávila S.A.S.",2024-05-28,24655.98,DEBIT,Ducimus illum veritatis eos doloremque.
+1509,Ramírez LLC S.A.S.,2021-03-20,293256.25,CREDIT,Nulla enim impedit.
+1510,Muñoz LLC S.A.S.,2024-07-06,520354.52,DEBIT,Ipsum reiciendis magni.
+1511,"Pacheco, Velandia and Ávila S.A.S.",2025-04-08,751414.89,CREDIT,Accusantium fuga architecto ea ut in.
+1512,Gil-Salazar S.A.S.,2023-05-28,120241.3,CREDIT,Aut dolor ut illum facilis sunt.
+1513,"Palacios, Becerra and Rodríguez S.A.S.",2020-09-07,949462.32,CREDIT,Voluptatibus aliquam rerum.
+1514,Castro-Flórez S.A.S.,2023-06-27,86014.11,DEBIT,Fugit amet voluptatum.
+1515,"Gómez, Sanabria and Pulido S.A.S.",2023-05-19,721752.53,DEBIT,Fugiat incidunt sequi soluta eum suscipit.
+1516,"Pacheco, Velandia and Ávila S.A.S.",2022-04-07,100520.71,CREDIT,Excepturi nisi recusandae.
+1517,Muñoz LLC S.A.S.,2021-08-09,901154.77,CREDIT,Tempore vitae officiis deserunt vitae hic.
+1518,Mosquera-Medina S.A.S.,2023-12-15,764364.96,CREDIT,Odio voluptate deserunt asperiores maiores deserunt.
+1519,Flórez Ltd S.A.S.,2022-09-29,626953.77,DEBIT,Placeat debitis molestiae minus atque.
+1520,González Inc S.A.S.,2023-08-26,435277.43,DEBIT,Rerum ea illum similique.
+1521,Oviedo-Domínguez S.A.S.,2023-09-07,754412.41,DEBIT,Non labore assumenda vitae dolore autem.
+1522,"Reyes, Álvarez and Hernández S.A.S.",2020-06-18,515171.18,CREDIT,Repellendus commodi sapiente.
+1523,"García, Castro and Rendón S.A.S.",2023-09-24,912488.56,CREDIT,Voluptatibus qui optio.
+1524,Oviedo-Domínguez S.A.S.,2022-04-08,735625.44,CREDIT,Dolore atque fuga ut ipsa amet.
+1525,Posada-Peña S.A.S.,2020-09-29,164456.68,CREDIT,Culpa autem suscipit exercitationem eligendi nesciunt.
+1526,Gil-Salazar S.A.S.,2022-01-07,101305.5,CREDIT,Quidem voluptates natus similique quas.
+1527,Gómez-Cardozo S.A.S.,2022-12-02,561958.7,DEBIT,Earum saepe fuga.
+1528,Jaimes-Quintero S.A.S.,2023-02-24,931499.96,CREDIT,Perferendis tempore sint tempora consequuntur.
+1529,Durán-Bernal S.A.S.,2023-11-16,963204.16,CREDIT,Deleniti natus quam eaque numquam.
+1530,"Buitrago, García and García S.A.S.",2021-02-19,382292.08,CREDIT,Assumenda quisquam aliquam quo mollitia.
+1531,"Pacheco, Velandia and Ávila S.A.S.",2022-07-03,765124.87,DEBIT,Tempore a ipsa error praesentium.
+1532,Castro-Flórez S.A.S.,2021-02-25,255523.9,DEBIT,Illo consectetur autem.
+1533,Portilla-Palacios S.A.S.,2023-09-12,73795.92,CREDIT,Voluptatum necessitatibus consequuntur.
+1534,Reyes-Zambrano S.A.S.,2024-12-20,623630.66,CREDIT,Sit quia quae.
+1535,Durán-Bernal S.A.S.,2023-06-08,568506.4,CREDIT,Explicabo itaque quisquam.
+1536,Ramírez LLC S.A.S.,2021-02-16,229597.39,CREDIT,Occaecati in molestiae voluptatibus.
+1537,Castro-Flórez S.A.S.,2025-01-15,987377.98,CREDIT,Vel suscipit quae non modi.
+1538,"Gómez, Sanabria and Pulido S.A.S.",2022-08-13,413565.06,CREDIT,Numquam quasi accusantium ut assumenda sit.
+1539,Rodríguez-Martínez S.A.S.,2021-06-13,905301.89,CREDIT,Sapiente aperiam quos.
+1540,Gil-Salazar S.A.S.,2020-06-20,828453.32,DEBIT,Delectus placeat corporis ab culpa ab.
+1541,Reyes-Zambrano S.A.S.,2025-03-31,385011.46,CREDIT,Veniam ut suscipit enim doloribus amet.
+1542,Gómez-Cardozo S.A.S.,2021-01-04,403384.91,DEBIT,Accusamus accusantium ipsa porro dolore.
+1543,"Pacheco, Velandia and Ávila S.A.S.",2024-10-29,229903.13,DEBIT,Voluptatum ipsam eius aut harum delectus.
+1544,Oviedo-Domínguez S.A.S.,2023-09-15,849503.94,CREDIT,Natus unde iste.
+1545,Jaimes-Quintero S.A.S.,2022-03-09,799591.93,DEBIT,Dignissimos ea non repudiandae.
+1546,Calderón and Sons S.A.S.,2021-02-06,127305.93,DEBIT,Quasi veniam incidunt.
+1547,Calderón and Sons S.A.S.,2021-03-28,848020.61,CREDIT,Nam aperiam voluptatibus magnam debitis et.
+1548,Jaimes-Quintero S.A.S.,2020-11-17,588994.9,DEBIT,Ipsum quibusdam consequatur ratione consequatur.
+1549,"Reyes, Álvarez and Hernández S.A.S.",2022-09-24,745633.83,DEBIT,Adipisci autem et voluptas.
+1550,Gil-Salazar S.A.S.,2021-04-25,392167.35,DEBIT,Aliquid inventore harum eius.
+1551,Calderón and Sons S.A.S.,2025-04-22,553498.55,CREDIT,Eius voluptatibus nemo laudantium impedit quidem.
+1552,Posada-Peña S.A.S.,2022-07-01,192249.87,DEBIT,Nulla nam culpa aliquam placeat.
+1553,Calderón and Sons S.A.S.,2022-03-07,293107.25,DEBIT,Voluptates dolore aliquid.
+1554,"Pacheco, Velandia and Ávila S.A.S.",2022-11-03,875660.69,DEBIT,Labore expedita hic eveniet.
+1555,Durán-Bernal S.A.S.,2021-10-03,109464.2,DEBIT,Tenetur assumenda ducimus sunt alias.
+1556,"García, Castro and Rendón S.A.S.",2023-02-18,66460.89,CREDIT,A animi cum.
+1557,Calderón and Sons S.A.S.,2024-06-16,533475.79,CREDIT,Exercitationem dolor enim quam.
+1558,"Buitrago, García and García S.A.S.",2023-04-07,402074.62,CREDIT,Repudiandae laudantium voluptatibus architecto ad.
+1559,"Pacheco, Velandia and Ávila S.A.S.",2024-08-30,990610.49,DEBIT,Perspiciatis quo provident fuga illo quasi.
+1560,Reyes-Zambrano S.A.S.,2023-03-09,841995.39,CREDIT,Rem sequi officia officia repellendus.
+1561,Gil-Salazar S.A.S.,2024-07-10,549368.97,DEBIT,Eveniet voluptatum suscipit ipsa neque eos.
+1562,Calderón and Sons S.A.S.,2021-11-29,578629.65,DEBIT,Consequuntur reprehenderit voluptatibus tenetur minima accusamus.
+1563,González Inc S.A.S.,2021-09-26,110248.89,CREDIT,Modi consequuntur molestias recusandae.
+1564,Posada-Peña S.A.S.,2024-09-02,776072.77,DEBIT,Odio officiis eum quibusdam ut quisquam.
+1565,Ramírez LLC S.A.S.,2022-08-13,716474.02,DEBIT,Magnam natus iusto distinctio molestiae.
+1566,"Reyes, Álvarez and Hernández S.A.S.",2023-02-20,551089.87,CREDIT,Porro repudiandae eveniet eveniet.
+1567,Calderón and Sons S.A.S.,2021-05-25,378514.73,CREDIT,Cumque exercitationem repellat mollitia praesentium.
+1568,Rodríguez-Martínez S.A.S.,2020-09-03,606732.64,DEBIT,Sint libero fugiat.
+1569,"Buitrago, García and García S.A.S.",2024-02-20,116426.7,DEBIT,Dolorum deleniti dolore nostrum.
+1570,Garcés-Buitrago S.A.S.,2023-12-13,959600.02,CREDIT,Quis voluptatibus exercitationem unde.
+1571,Castro-Flórez S.A.S.,2024-05-10,915377.4,DEBIT,Nulla reiciendis modi aliquam dicta porro.
+1572,"Palacios, Becerra and Rodríguez S.A.S.",2021-06-06,95690.54,CREDIT,Quisquam quos reiciendis veritatis veniam magni.
+1573,Posada-Peña S.A.S.,2021-02-26,648107.27,CREDIT,Enim earum recusandae.
+1574,Posada-Peña S.A.S.,2020-06-14,984060.25,DEBIT,Dignissimos quisquam expedita totam.
+1575,Vargas-Álvarez S.A.S.,2020-11-06,354826.43,DEBIT,Harum libero ipsam harum tempore.
+1576,Rodríguez-Martínez S.A.S.,2020-07-21,772843.51,DEBIT,Debitis quia veritatis harum nostrum fugit.
+1577,Portilla-Palacios S.A.S.,2024-03-29,213826.58,DEBIT,Odit eveniet ratione molestias error.
+1578,"García, Castro and Rendón S.A.S.",2022-10-23,149825.83,DEBIT,Enim accusamus eveniet quis.
+1579,"Gómez, Sanabria and Pulido S.A.S.",2022-06-17,336143.31,DEBIT,Mollitia amet id animi.
+1580,Flórez Ltd S.A.S.,2023-04-19,133700.34,CREDIT,Minus possimus dolorem aperiam soluta.
+1581,Portilla-Palacios S.A.S.,2021-02-20,906260.14,CREDIT,Saepe debitis fugiat expedita.
+1582,Calderón and Sons S.A.S.,2023-05-07,685310.18,DEBIT,Debitis ab repellat fugit dignissimos totam.
+1583,Garcés-Buitrago S.A.S.,2023-04-09,841159.66,CREDIT,Voluptatibus necessitatibus quibusdam iure voluptatibus sequi.
+1584,Rodríguez-Martínez S.A.S.,2023-08-24,842810.73,DEBIT,Quae necessitatibus consequatur nobis.
+1585,"Pacheco, Velandia and Ávila S.A.S.",2025-06-04,97819.02,DEBIT,Eos dolorem doloremque neque rem.
+1586,Gil-Salazar S.A.S.,2024-05-29,155146.4,DEBIT,Quis beatae corporis reiciendis explicabo reiciendis.
+1587,Portilla-Palacios S.A.S.,2023-12-07,65486.77,DEBIT,Eligendi nostrum nihil quisquam nisi.
+1588,Castro-Flórez S.A.S.,2020-11-30,456214.76,DEBIT,Nemo amet temporibus cumque.
+1589,Posada-Peña S.A.S.,2021-01-23,853021.52,CREDIT,Dolores inventore voluptas.
+1590,Ramírez LLC S.A.S.,2025-02-09,274889.83,CREDIT,Earum voluptate recusandae impedit voluptate.
+1591,Vargas-Álvarez S.A.S.,2023-02-16,176185.7,CREDIT,Velit nulla eveniet dolor labore aliquam dolorem.
+1592,Mosquera-Medina S.A.S.,2022-07-23,70707.04,CREDIT,Consequuntur animi dolorem quae sint.
+1593,"Pacheco, Velandia and Ávila S.A.S.",2020-06-18,172014.4,CREDIT,Recusandae temporibus saepe.
+1594,"Reyes, Álvarez and Hernández S.A.S.",2020-11-23,692051.0,DEBIT,Minima ex temporibus vitae adipisci.
+1595,Vargas-Álvarez S.A.S.,2023-03-18,381101.2,CREDIT,Accusamus optio aliquid quaerat voluptatum molestias.
+1596,Vargas-Álvarez S.A.S.,2020-08-12,676793.73,DEBIT,Facilis rerum excepturi totam accusamus.
+1597,Vargas-Álvarez S.A.S.,2021-05-18,158978.78,DEBIT,Adipisci ipsum non.
+1598,Flórez Ltd S.A.S.,2022-01-21,149808.68,CREDIT,Occaecati earum laudantium.
+1599,Jaimes-Quintero S.A.S.,2024-12-06,793623.61,DEBIT,Nihil distinctio pariatur nihil.
+1600,Ramírez LLC S.A.S.,2025-01-09,241607.94,DEBIT,Repellat nostrum fugiat assumenda odit nesciunt.
+1601,Garcés-Buitrago S.A.S.,2024-11-14,422188.78,CREDIT,Exercitationem eveniet iste expedita.
+1602,Gómez-Cardozo S.A.S.,2025-04-21,508990.39,CREDIT,Earum maxime magni eius.
+1603,Ramírez LLC S.A.S.,2020-08-04,8744.25,CREDIT,Doloremque necessitatibus quaerat corrupti cupiditate adipisci.
+1604,Muñoz LLC S.A.S.,2022-06-05,992103.15,CREDIT,Facere magni laudantium eveniet.
+1605,Durán-Bernal S.A.S.,2025-02-05,359656.45,CREDIT,Iure blanditiis ipsum quisquam omnis.
+1606,Ramírez LLC S.A.S.,2025-03-29,278542.79,DEBIT,In iure quis laborum quia cumque.
+1607,González Inc S.A.S.,2020-06-15,24687.51,DEBIT,Quam neque ullam ex.
+1608,"García, Castro and Rendón S.A.S.",2023-08-15,783653.63,CREDIT,Et nostrum praesentium vero.
+1609,"Reyes, Álvarez and Hernández S.A.S.",2023-09-27,565327.65,CREDIT,Omnis ut porro voluptatibus.
+1610,"Pacheco, Velandia and Ávila S.A.S.",2022-02-04,751085.03,DEBIT,Alias qui voluptates.
+1611,Durán-Bernal S.A.S.,2023-09-03,206154.79,DEBIT,Adipisci cum mollitia fuga a.
+1612,Vargas-Álvarez S.A.S.,2021-02-08,641458.91,DEBIT,Exercitationem cumque deleniti iure tempora.
+1613,Garcés-Buitrago S.A.S.,2024-06-17,767628.98,DEBIT,Voluptatibus ad corporis.
+1614,Calderón and Sons S.A.S.,2023-09-16,149079.66,DEBIT,Sequi pariatur cumque quibusdam consequuntur nesciunt.
+1615,Portilla-Palacios S.A.S.,2024-08-30,166220.66,CREDIT,Quo sed quisquam expedita.
+1616,Gómez-Cardozo S.A.S.,2021-07-26,347478.04,CREDIT,Dolor natus vitae alias.
+1617,Durán-Bernal S.A.S.,2024-04-03,6020.51,DEBIT,Quas ex optio libero quasi.
+1618,"García, Castro and Rendón S.A.S.",2024-06-24,529376.55,DEBIT,Reprehenderit soluta numquam adipisci quibusdam.
+1619,Muñoz LLC S.A.S.,2023-02-15,85139.83,CREDIT,Fuga officiis eveniet.
+1620,Posada-Peña S.A.S.,2024-05-24,657413.35,DEBIT,Nobis sit saepe reprehenderit.
+1621,Gómez-Cardozo S.A.S.,2023-09-07,125987.99,DEBIT,Veniam consequatur minus totam.
+1622,Portilla-Palacios S.A.S.,2021-10-09,993017.62,DEBIT,Quis optio iusto rerum.
+1623,Muñoz LLC S.A.S.,2023-07-27,619412.76,DEBIT,Cum excepturi mollitia.
+1624,Oviedo-Domínguez S.A.S.,2022-08-12,948194.7,CREDIT,Placeat quidem adipisci.
+1625,Oviedo-Domínguez S.A.S.,2021-12-29,459090.44,DEBIT,Aspernatur aliquam sed.
+1626,Muñoz LLC S.A.S.,2023-05-20,271071.33,CREDIT,Tempora veritatis suscipit culpa quisquam ab.
+1627,"Galvis, Ramírez and Angarita S.A.S.",2022-09-17,580598.13,CREDIT,Quia beatae dolorum.
+1628,Reyes-Zambrano S.A.S.,2020-11-24,814871.87,DEBIT,Recusandae voluptates autem perspiciatis facilis.
+1629,Portilla-Palacios S.A.S.,2023-07-16,799059.85,DEBIT,Libero doloribus eveniet cupiditate iusto.
+1630,Muñoz LLC S.A.S.,2022-06-12,740092.66,CREDIT,Expedita omnis rem praesentium dicta praesentium.
+1631,Muñoz LLC S.A.S.,2023-06-04,597148.89,CREDIT,Ullam id perspiciatis magni modi.
+1632,Flórez Ltd S.A.S.,2022-12-31,279767.66,CREDIT,Atque sed eum beatae minus.
+1633,González Inc S.A.S.,2022-07-20,143271.9,DEBIT,Eius consequatur sed laboriosam nostrum.
+1634,Muñoz LLC S.A.S.,2022-01-30,273866.86,CREDIT,Officiis ipsam ducimus ad quas.
+1635,Calderón and Sons S.A.S.,2025-04-26,281484.94,CREDIT,Fugiat blanditiis repudiandae.
+1636,Durán-Bernal S.A.S.,2022-02-19,109003.19,CREDIT,Exercitationem laborum minima.
+1637,Rodríguez-Martínez S.A.S.,2023-05-07,509884.35,CREDIT,Ipsum accusantium odit tempora tempora.
+1638,"Pacheco, Velandia and Ávila S.A.S.",2020-09-08,320417.27,CREDIT,Dignissimos soluta quis quo perspiciatis doloribus.
+1639,Muñoz LLC S.A.S.,2022-11-05,108187.74,DEBIT,Sequi inventore voluptate corporis aut deserunt.
+1640,Gómez-Cardozo S.A.S.,2021-07-09,341159.85,DEBIT,Totam labore voluptatibus.
+1641,"Gómez, Sanabria and Pulido S.A.S.",2022-08-03,719272.19,DEBIT,Consequatur iusto consequuntur nihil at eius.
+1642,Durán-Bernal S.A.S.,2022-10-16,620548.5,DEBIT,Minima alias eligendi.
+1643,"García, Castro and Rendón S.A.S.",2024-11-02,499399.05,DEBIT,Alias impedit asperiores laborum.
+1644,Durán-Bernal S.A.S.,2025-02-07,611081.75,DEBIT,Dolore quia at libero veniam voluptas.
+1645,Portilla-Palacios S.A.S.,2022-09-27,906678.92,CREDIT,Officia saepe mollitia.
+1646,Gómez-Cardozo S.A.S.,2025-01-05,25856.95,DEBIT,Necessitatibus impedit sunt voluptate quos.
+1647,Garcés-Buitrago S.A.S.,2021-07-28,468508.01,DEBIT,Accusamus eos perspiciatis minus nemo eos.
+1648,Ramírez LLC S.A.S.,2020-09-23,644431.61,DEBIT,Ullam mollitia modi itaque.
+1649,Portilla-Palacios S.A.S.,2024-02-10,370162.58,DEBIT,Commodi rem doloremque mollitia at voluptates.
+1650,Calderón and Sons S.A.S.,2025-05-19,59044.83,DEBIT,Dolores iste inventore sint.
+1651,"Buitrago, García and García S.A.S.",2021-02-16,830030.73,DEBIT,Architecto ad voluptates.
+1652,"Gómez, Sanabria and Pulido S.A.S.",2023-11-29,552665.07,DEBIT,Pariatur esse maiores.
+1653,Portilla-Palacios S.A.S.,2024-02-18,182521.57,CREDIT,Aspernatur sequi eos rerum temporibus iusto.
+1654,"Pacheco, Velandia and Ávila S.A.S.",2020-08-10,405381.09,DEBIT,Voluptatem aliquid architecto recusandae ab.
+1655,Gómez-Cardozo S.A.S.,2023-10-05,750099.68,DEBIT,Magnam ducimus tenetur dignissimos.
+1656,Vargas-Álvarez S.A.S.,2024-04-25,472188.15,CREDIT,Cupiditate aliquid laborum veniam.
+1657,"Pacheco, Velandia and Ávila S.A.S.",2025-03-19,849230.76,DEBIT,Voluptate enim repudiandae nam.
+1658,Portilla-Palacios S.A.S.,2020-07-26,914367.86,DEBIT,Culpa ut praesentium.
+1659,Reyes-Zambrano S.A.S.,2021-11-20,837700.87,DEBIT,Quod ratione deserunt.
+1660,Gil-Salazar S.A.S.,2021-08-07,254910.09,DEBIT,Libero corrupti cumque corporis eligendi molestias.
+1661,Ramírez LLC S.A.S.,2022-05-27,518102.42,CREDIT,Vitae laudantium distinctio.
+1662,"Galvis, Ramírez and Angarita S.A.S.",2021-12-04,91472.74,CREDIT,Inventore deleniti id.
+1663,Gómez-Cardozo S.A.S.,2025-02-28,587540.31,DEBIT,Necessitatibus ex dicta quo.
+1664,Calderón and Sons S.A.S.,2022-03-23,180550.02,DEBIT,Exercitationem quasi numquam quis.
+1665,Mosquera-Medina S.A.S.,2020-10-04,859095.94,DEBIT,Magnam sapiente aliquid eum.
+1666,"Gómez, Sanabria and Pulido S.A.S.",2021-12-09,926754.71,CREDIT,Nostrum odio tempora officia.
+1667,Garcés-Buitrago S.A.S.,2021-04-04,487820.03,CREDIT,Delectus ipsam et.
+1668,Jaimes-Quintero S.A.S.,2023-08-13,868766.7,CREDIT,Repellat vero quibusdam perspiciatis doloremque.
+1669,Gómez-Cardozo S.A.S.,2024-01-07,365266.85,CREDIT,Fugit magnam repellat culpa perspiciatis.
+1670,Calderón and Sons S.A.S.,2021-03-27,726277.44,CREDIT,Aliquam maxime voluptates alias tempora.
+1671,Oviedo-Domínguez S.A.S.,2023-09-18,103904.31,DEBIT,Minus nesciunt sint.
+1672,Garcés-Buitrago S.A.S.,2024-05-26,53471.29,DEBIT,Blanditiis voluptatum corrupti cumque dolores quibusdam.
+1673,Flórez Ltd S.A.S.,2023-09-09,939763.67,DEBIT,Repellat dolorum at.
+1674,"Gómez, Sanabria and Pulido S.A.S.",2020-11-04,203821.39,DEBIT,Est delectus minus in at tenetur.
+1675,"Reyes, Álvarez and Hernández S.A.S.",2024-09-19,477135.07,DEBIT,Eius optio fugiat.
+1676,Vargas-Álvarez S.A.S.,2020-10-04,249504.49,DEBIT,Ipsa voluptatum labore in eos voluptatem.
+1677,Castro-Flórez S.A.S.,2024-09-08,921476.88,DEBIT,Sunt eveniet cum.
+1678,Calderón and Sons S.A.S.,2024-10-28,30976.55,DEBIT,Fugit maiores dicta fugiat nulla quas.
+1679,Vargas-Álvarez S.A.S.,2023-04-08,302172.87,DEBIT,Provident temporibus voluptate quo.
+1680,Castro-Flórez S.A.S.,2025-01-11,221657.77,DEBIT,Nostrum eaque tenetur nam similique facilis.
+1681,Portilla-Palacios S.A.S.,2023-01-06,954178.56,CREDIT,Facere earum quae.
+1682,"Galvis, Ramírez and Angarita S.A.S.",2024-02-15,989995.65,CREDIT,Animi consectetur harum sed.
+1683,Jaimes-Quintero S.A.S.,2023-07-02,523371.6,CREDIT,Necessitatibus quibusdam similique suscipit ullam nobis.
+1684,Ramírez LLC S.A.S.,2023-04-25,346755.31,CREDIT,Dolore expedita sed.
+1685,Calderón and Sons S.A.S.,2020-08-07,927180.0,CREDIT,Odit quo ipsum repudiandae.
+1686,Castro-Flórez S.A.S.,2022-07-02,974439.55,DEBIT,Neque doloremque facere amet minus.
+1687,Gil-Salazar S.A.S.,2024-06-08,784292.95,DEBIT,Omnis dolore facere hic.
+1688,Garcés-Buitrago S.A.S.,2024-01-30,340012.02,CREDIT,Eaque eaque quas maiores.
+1689,"Galvis, Ramírez and Angarita S.A.S.",2023-03-04,55543.81,DEBIT,Nostrum consectetur corrupti maiores consequuntur alias beatae.
+1690,"Reyes, Álvarez and Hernández S.A.S.",2023-01-07,50052.22,CREDIT,Ipsam voluptates quisquam accusantium fugit.
+1691,Muñoz LLC S.A.S.,2023-05-14,972504.85,CREDIT,Id expedita natus odio totam.
+1692,"Buitrago, García and García S.A.S.",2023-06-25,504654.96,DEBIT,Occaecati mollitia corrupti odio delectus possimus.
+1693,"García, Castro and Rendón S.A.S.",2022-01-20,545581.8,DEBIT,Similique rerum hic placeat cupiditate possimus.
+1694,Mosquera-Medina S.A.S.,2020-07-21,495103.61,DEBIT,Necessitatibus explicabo ad.
+1695,Castro-Flórez S.A.S.,2025-01-24,620407.06,CREDIT,Exercitationem quam libero.
+1696,"Palacios, Becerra and Rodríguez S.A.S.",2024-10-31,375308.38,CREDIT,Dolore quia ad.
+1697,Vargas-Álvarez S.A.S.,2023-11-21,906137.07,DEBIT,Cum doloremque aut beatae culpa excepturi.
+1698,Mosquera-Medina S.A.S.,2020-07-08,880769.13,CREDIT,Rerum velit deserunt magni temporibus inventore.
+1699,Gómez-Cardozo S.A.S.,2025-05-29,628185.26,DEBIT,Assumenda veniam architecto dolor est distinctio.
+1700,"Pacheco, Velandia and Ávila S.A.S.",2022-06-07,599869.39,CREDIT,Quas dolor nam.
+1701,Reyes-Zambrano S.A.S.,2021-09-24,914453.22,CREDIT,Similique maiores quas.
+1702,Garcés-Buitrago S.A.S.,2025-04-10,76242.11,CREDIT,Nemo dolore inventore.
+1703,Muñoz LLC S.A.S.,2021-03-01,4470.05,DEBIT,Odit maiores a sequi explicabo natus.
+1704,Calderón and Sons S.A.S.,2024-04-11,531797.37,CREDIT,Numquam iste deserunt quam illo.
+1705,Portilla-Palacios S.A.S.,2022-03-23,482173.54,DEBIT,Unde numquam libero deserunt accusantium cupiditate.
+1706,Muñoz LLC S.A.S.,2022-11-27,125358.05,CREDIT,Architecto recusandae quis laudantium.
+1707,Garcés-Buitrago S.A.S.,2024-08-30,133072.99,CREDIT,Rem ipsam expedita.
+1708,Vargas-Álvarez S.A.S.,2024-10-07,710574.99,DEBIT,Sunt quibusdam numquam distinctio eos.
+1709,Flórez Ltd S.A.S.,2023-11-14,147351.42,CREDIT,Minima dolor quaerat.
+1710,"Gómez, Sanabria and Pulido S.A.S.",2025-05-22,651750.49,DEBIT,Quidem excepturi et fugit eum doloremque assumenda.
+1711,"Pacheco, Velandia and Ávila S.A.S.",2021-08-13,622501.03,DEBIT,Impedit aliquid voluptatem.
+1712,"Buitrago, García and García S.A.S.",2025-03-24,439834.07,DEBIT,Dolor aliquid magni totam laborum ipsam.
+1713,Garcés-Buitrago S.A.S.,2020-07-18,778600.46,CREDIT,Qui dolorum eos velit velit voluptatibus.
+1714,"Reyes, Álvarez and Hernández S.A.S.",2024-04-19,846717.18,DEBIT,Numquam pariatur tempore.
+1715,Flórez Ltd S.A.S.,2022-07-31,340320.46,CREDIT,Cupiditate quod magni at atque possimus.
+1716,"Buitrago, García and García S.A.S.",2022-12-22,809550.22,CREDIT,Laborum amet facilis debitis delectus.
+1717,Portilla-Palacios S.A.S.,2022-09-05,219906.96,CREDIT,Dolorum eligendi sequi mollitia soluta.
+1718,Castro-Flórez S.A.S.,2020-08-21,867139.5,CREDIT,Fugiat nulla cum illum repudiandae.
+1719,Reyes-Zambrano S.A.S.,2023-12-20,713243.57,DEBIT,Omnis aliquid deserunt magni.
+1720,Oviedo-Domínguez S.A.S.,2023-10-10,664459.42,CREDIT,Itaque voluptatum voluptatum placeat cum.
+1721,Reyes-Zambrano S.A.S.,2020-11-29,16871.73,DEBIT,Saepe distinctio exercitationem sequi dolor architecto.
+1722,Castro-Flórez S.A.S.,2022-01-22,658190.92,CREDIT,Tempora repudiandae illo eaque possimus.
+1723,Durán-Bernal S.A.S.,2024-07-15,924627.23,CREDIT,Iste dolore ab natus.
+1724,Garcés-Buitrago S.A.S.,2021-01-19,16753.49,CREDIT,Nostrum dolorem quod recusandae non autem.
+1725,González Inc S.A.S.,2021-03-22,402787.15,DEBIT,Distinctio cupiditate cupiditate similique dolor.
+1726,"García, Castro and Rendón S.A.S.",2022-02-14,768078.74,CREDIT,Eligendi reprehenderit voluptatem consectetur cum animi.
+1727,"Buitrago, García and García S.A.S.",2021-06-23,777565.77,CREDIT,Ratione magni neque facilis.
+1728,"Palacios, Becerra and Rodríguez S.A.S.",2023-02-08,34250.24,CREDIT,Nobis cupiditate accusamus.
+1729,Calderón and Sons S.A.S.,2024-05-03,656378.9,CREDIT,Quam quos molestias natus ipsum.
+1730,Castro-Flórez S.A.S.,2025-01-20,423229.55,DEBIT,Modi recusandae iste.
+1731,"Galvis, Ramírez and Angarita S.A.S.",2023-12-26,915227.68,DEBIT,Porro optio beatae temporibus autem quas.
+1732,"García, Castro and Rendón S.A.S.",2025-05-14,402228.11,CREDIT,Cupiditate mollitia placeat nihil culpa maxime.
+1733,Gómez-Cardozo S.A.S.,2022-10-07,668424.2,DEBIT,Adipisci voluptatum modi praesentium quia.
+1734,Reyes-Zambrano S.A.S.,2020-08-09,531081.37,CREDIT,Architecto incidunt alias.
+1735,Posada-Peña S.A.S.,2024-06-15,317494.9,DEBIT,Aliquam voluptates blanditiis eveniet ex ad.
+1736,Rodríguez-Martínez S.A.S.,2023-04-02,119228.13,DEBIT,Iure natus eveniet iure voluptatum.
+1737,Gil-Salazar S.A.S.,2022-07-15,138323.62,DEBIT,Placeat ad occaecati excepturi sapiente.
+1738,Flórez Ltd S.A.S.,2025-03-14,63420.41,DEBIT,Pariatur atque laborum.
+1739,Gómez-Cardozo S.A.S.,2025-02-22,953843.44,DEBIT,Nobis temporibus perferendis repellat.
+1740,"García, Castro and Rendón S.A.S.",2022-09-28,122010.0,CREDIT,Veniam provident suscipit.
+1741,Reyes-Zambrano S.A.S.,2020-10-24,383706.46,CREDIT,Quam eligendi sit.
+1742,Flórez Ltd S.A.S.,2022-04-23,155228.99,DEBIT,Corporis voluptatum possimus eaque non.
+1743,Ramírez LLC S.A.S.,2021-11-08,615104.78,CREDIT,Minus minus aut odio tenetur eius.
+1744,Portilla-Palacios S.A.S.,2023-01-14,807387.6,CREDIT,Non magnam quis vel.
+1745,Flórez Ltd S.A.S.,2023-04-26,781741.77,DEBIT,Saepe natus fugit.
+1746,Portilla-Palacios S.A.S.,2020-12-29,467782.32,CREDIT,Quo fugiat quidem optio amet.
+1747,"Palacios, Becerra and Rodríguez S.A.S.",2024-05-09,968920.81,DEBIT,Mollitia perferendis occaecati in asperiores.
+1748,González Inc S.A.S.,2023-08-03,236217.21,CREDIT,Debitis libero consequatur soluta.
+1749,Rodríguez-Martínez S.A.S.,2020-07-13,803602.27,CREDIT,Ratione nisi maiores.
+1750,Portilla-Palacios S.A.S.,2022-01-27,716710.57,CREDIT,Perferendis modi ratione illum repellat.
+1751,Flórez Ltd S.A.S.,2022-07-09,818144.36,DEBIT,Provident sunt quam ratione deserunt saepe.
+1752,"Reyes, Álvarez and Hernández S.A.S.",2023-10-06,568037.69,CREDIT,Reiciendis adipisci sunt voluptatibus placeat nesciunt.
+1753,Gil-Salazar S.A.S.,2024-04-27,457063.39,DEBIT,Placeat eius fugiat animi deleniti.
+1754,Gil-Salazar S.A.S.,2021-06-02,197179.74,DEBIT,Fugit ducimus optio.
+1755,Rodríguez-Martínez S.A.S.,2020-09-29,643784.21,DEBIT,Ut magni atque officiis tempora odit.
+1756,Gómez-Cardozo S.A.S.,2022-11-16,912510.78,DEBIT,Consequuntur quas et quas.
+1757,Mosquera-Medina S.A.S.,2024-11-07,581119.51,CREDIT,Maxime consequuntur veritatis nam.
+1758,Flórez Ltd S.A.S.,2022-12-26,229509.34,DEBIT,Labore quis omnis eaque voluptatibus.
+1759,Mosquera-Medina S.A.S.,2023-08-03,168413.84,DEBIT,Nemo natus deserunt.
+1760,Durán-Bernal S.A.S.,2022-01-15,968256.33,DEBIT,Deleniti perspiciatis itaque possimus nisi consequatur.
+1761,Portilla-Palacios S.A.S.,2020-10-16,175386.25,CREDIT,Accusamus asperiores accusantium temporibus.
+1762,Flórez Ltd S.A.S.,2021-08-27,679588.91,DEBIT,Quam doloribus esse sunt.
+1763,Durán-Bernal S.A.S.,2020-09-09,367217.87,CREDIT,Magni officia consectetur.
+1764,Vargas-Álvarez S.A.S.,2022-01-24,121597.15,CREDIT,Quod error quia distinctio molestiae animi.
+1765,Vargas-Álvarez S.A.S.,2022-01-01,408020.29,DEBIT,Aliquid explicabo enim nisi.
+1766,Rodríguez-Martínez S.A.S.,2024-09-11,866665.74,DEBIT,Fuga corporis nam ab in pariatur.
+1767,Reyes-Zambrano S.A.S.,2023-10-27,969167.63,CREDIT,Unde fuga pariatur.
+1768,Oviedo-Domínguez S.A.S.,2020-09-26,330486.24,CREDIT,Fuga molestiae architecto voluptas.
+1769,Reyes-Zambrano S.A.S.,2025-04-07,819103.46,CREDIT,Maxime soluta odio expedita.
+1770,Rodríguez-Martínez S.A.S.,2024-12-03,43772.25,CREDIT,Vero pariatur perspiciatis.
+1771,Jaimes-Quintero S.A.S.,2022-05-02,361100.11,DEBIT,Delectus vitae aliquid iusto.
+1772,Gómez-Cardozo S.A.S.,2024-01-21,783445.66,CREDIT,Laborum iste quae.
+1773,Durán-Bernal S.A.S.,2022-05-04,134390.64,CREDIT,Quam molestiae sunt.
+1774,Rodríguez-Martínez S.A.S.,2021-05-28,45030.9,CREDIT,Molestias sit sequi.
+1775,Ramírez LLC S.A.S.,2024-08-19,229171.87,CREDIT,Minima praesentium perferendis iste.
+1776,"Galvis, Ramírez and Angarita S.A.S.",2022-01-05,535313.19,DEBIT,Blanditiis quibusdam quos nihil.
+1777,Jaimes-Quintero S.A.S.,2020-09-21,621665.78,DEBIT,Dignissimos saepe nobis maxime odio.
+1778,"García, Castro and Rendón S.A.S.",2022-11-07,977993.89,CREDIT,Repudiandae sed laudantium dolor repellendus quibusdam.
+1779,Muñoz LLC S.A.S.,2024-02-16,894832.42,DEBIT,Eaque vitae esse alias ipsum.
+1780,Rodríguez-Martínez S.A.S.,2021-07-27,564962.32,CREDIT,Corporis quo rerum.
+1781,Mosquera-Medina S.A.S.,2021-08-25,194962.47,CREDIT,Dicta impedit distinctio.
+1782,Portilla-Palacios S.A.S.,2023-05-27,38442.37,CREDIT,Aut vitae rem.
+1783,Oviedo-Domínguez S.A.S.,2021-05-19,38748.93,CREDIT,Odit molestiae occaecati impedit cupiditate numquam consequuntur.
+1784,Ramírez LLC S.A.S.,2022-05-16,219753.21,CREDIT,Libero suscipit atque debitis autem repellat.
+1785,Ramírez LLC S.A.S.,2024-01-29,765981.79,DEBIT,Aspernatur laboriosam quo suscipit eaque iste.
+1786,"Galvis, Ramírez and Angarita S.A.S.",2021-07-05,312888.24,CREDIT,Animi iure quos eius incidunt earum.
+1787,González Inc S.A.S.,2024-03-07,530523.33,DEBIT,Quam eaque dicta sit quibusdam.
+1788,Posada-Peña S.A.S.,2021-02-02,861052.77,CREDIT,Ab ad amet.
+1789,Jaimes-Quintero S.A.S.,2023-03-10,722640.42,CREDIT,Nostrum ex ipsam a.
+1790,Vargas-Álvarez S.A.S.,2020-06-21,176240.48,DEBIT,Dignissimos tempora modi.
+1791,Rodríguez-Martínez S.A.S.,2023-09-05,203763.05,CREDIT,Ad eius exercitationem.
+1792,Oviedo-Domínguez S.A.S.,2020-09-14,107689.1,CREDIT,A ipsa voluptate vitae.
+1793,Posada-Peña S.A.S.,2023-10-04,558203.75,DEBIT,Eligendi iste cum.
+1794,Garcés-Buitrago S.A.S.,2021-05-06,225900.02,CREDIT,Aspernatur totam ipsa deleniti.
+1795,Posada-Peña S.A.S.,2020-11-11,744764.33,CREDIT,Quam ratione neque dignissimos tempore consequatur.
+1796,Reyes-Zambrano S.A.S.,2021-11-04,899897.18,DEBIT,Error cupiditate perspiciatis.
+1797,Rodríguez-Martínez S.A.S.,2023-09-24,58112.53,DEBIT,Nemo facere corporis minima blanditiis.
+1798,Portilla-Palacios S.A.S.,2020-10-28,8564.84,DEBIT,Quaerat voluptatem minima corporis.
+1799,Muñoz LLC S.A.S.,2024-05-24,433476.83,DEBIT,Enim ipsa vero.
+1800,"Gómez, Sanabria and Pulido S.A.S.",2024-06-18,376324.47,DEBIT,Aut quae amet enim unde vero.
+1801,Garcés-Buitrago S.A.S.,2022-07-31,957494.88,DEBIT,Maiores aliquam corrupti occaecati.
+1802,"Pacheco, Velandia and Ávila S.A.S.",2022-01-26,480155.83,CREDIT,Nobis aperiam ullam tenetur nemo voluptas.
+1803,Posada-Peña S.A.S.,2024-11-19,439912.44,CREDIT,Similique ea magni.
+1804,Ramírez LLC S.A.S.,2023-03-03,776053.69,DEBIT,Ducimus corporis deleniti expedita earum.
+1805,"Pacheco, Velandia and Ávila S.A.S.",2021-07-23,345022.93,DEBIT,Aspernatur est atque.
+1806,"García, Castro and Rendón S.A.S.",2023-03-05,336448.52,DEBIT,Quibusdam autem quo nihil ipsa.
+1807,"Gómez, Sanabria and Pulido S.A.S.",2020-12-06,313419.49,DEBIT,Repellendus aspernatur distinctio.
+1808,Durán-Bernal S.A.S.,2023-08-15,177712.82,CREDIT,Aliquam et repellat atque.
+1809,"Buitrago, García and García S.A.S.",2024-01-03,891689.07,CREDIT,Excepturi quaerat saepe vitae nesciunt quasi.
+1810,Vargas-Álvarez S.A.S.,2024-04-30,812600.4,DEBIT,Magnam iste occaecati.
+1811,Portilla-Palacios S.A.S.,2021-02-05,359043.21,CREDIT,Optio provident quo culpa et quasi.
+1812,"Galvis, Ramírez and Angarita S.A.S.",2023-03-17,381294.87,CREDIT,Eligendi error dolores quasi quod.
+1813,Rodríguez-Martínez S.A.S.,2020-10-16,594483.26,CREDIT,Voluptas nisi quaerat porro maxime omnis.
+1814,Garcés-Buitrago S.A.S.,2021-01-21,704893.43,CREDIT,Similique est inventore modi.
+1815,Durán-Bernal S.A.S.,2025-04-12,686711.69,DEBIT,Possimus sapiente consectetur occaecati assumenda.
+1816,Mosquera-Medina S.A.S.,2023-02-18,598129.08,CREDIT,Amet ut quisquam eos esse cupiditate.
+1817,Mosquera-Medina S.A.S.,2021-05-26,929049.33,DEBIT,Ea rem atque.
+1818,Calderón and Sons S.A.S.,2023-10-13,235896.13,DEBIT,Ipsum reprehenderit tempore ex.
+1819,Rodríguez-Martínez S.A.S.,2024-06-15,911819.54,CREDIT,Omnis nihil quasi ad commodi dicta.
+1820,Portilla-Palacios S.A.S.,2021-03-18,925916.99,CREDIT,Possimus nemo ratione corrupti.
+1821,Oviedo-Domínguez S.A.S.,2023-10-02,891070.84,DEBIT,Tempore eos praesentium ab.
+1822,Portilla-Palacios S.A.S.,2025-05-31,132193.54,CREDIT,Nostrum repellat natus tenetur qui nemo.
+1823,Rodríguez-Martínez S.A.S.,2025-05-29,283657.91,CREDIT,Unde voluptatibus repellendus distinctio ex.
+1824,Posada-Peña S.A.S.,2021-09-25,534459.23,CREDIT,Similique quo numquam nostrum eos natus.
+1825,Castro-Flórez S.A.S.,2020-07-27,519374.64,DEBIT,Voluptates quidem quam mollitia.
+1826,"Reyes, Álvarez and Hernández S.A.S.",2021-02-22,280043.51,CREDIT,Voluptatum modi molestiae adipisci officiis.
+1827,Vargas-Álvarez S.A.S.,2025-05-05,172738.79,CREDIT,Nobis quasi maxime natus molestias.
+1828,Mosquera-Medina S.A.S.,2021-10-31,174803.07,DEBIT,Ex molestias adipisci.
+1829,Flórez Ltd S.A.S.,2023-12-13,689607.19,CREDIT,Excepturi dignissimos vel sed.
+1830,"Buitrago, García and García S.A.S.",2023-12-16,637929.38,CREDIT,Doloremque sapiente itaque.
+1831,Gil-Salazar S.A.S.,2022-06-30,711520.58,CREDIT,Provident praesentium maxime praesentium.
+1832,Vargas-Álvarez S.A.S.,2023-10-24,429243.76,CREDIT,Labore esse facilis debitis voluptates.
+1833,Ramírez LLC S.A.S.,2021-02-08,498396.37,DEBIT,Rem dignissimos ducimus.
+1834,"García, Castro and Rendón S.A.S.",2023-07-20,377065.08,CREDIT,Totam laboriosam corporis enim.
+1835,Jaimes-Quintero S.A.S.,2021-09-27,950665.26,DEBIT,Temporibus perspiciatis hic quibusdam.
+1836,Castro-Flórez S.A.S.,2021-04-25,73379.95,DEBIT,Iste quisquam ad fuga cum.
+1837,Portilla-Palacios S.A.S.,2022-10-14,674199.06,DEBIT,Culpa recusandae facilis cumque qui.
+1838,González Inc S.A.S.,2024-06-08,367887.67,DEBIT,Sed eius suscipit.
+1839,Muñoz LLC S.A.S.,2023-04-15,528984.2,DEBIT,Consequuntur ipsum ex sunt.
+1840,Garcés-Buitrago S.A.S.,2024-02-27,723176.9,DEBIT,Temporibus iste ratione numquam.
+1841,"García, Castro and Rendón S.A.S.",2020-12-23,104644.51,CREDIT,Tempore labore ullam repellat eligendi itaque.
+1842,Mosquera-Medina S.A.S.,2024-07-09,154950.75,CREDIT,Laudantium exercitationem quia nemo aperiam eaque.
+1843,"Gómez, Sanabria and Pulido S.A.S.",2024-04-15,334437.17,CREDIT,Fugiat repellat ab amet.
+1844,"Pacheco, Velandia and Ávila S.A.S.",2021-02-03,89774.98,CREDIT,Quidem aut corporis.
+1845,"Palacios, Becerra and Rodríguez S.A.S.",2023-06-08,48468.11,DEBIT,Dolor nobis corporis iste tempora.
+1846,"Gómez, Sanabria and Pulido S.A.S.",2021-07-24,595339.74,DEBIT,Cupiditate deserunt illum fugit at.
+1847,"Buitrago, García and García S.A.S.",2023-06-26,812500.47,CREDIT,Quos quae quis accusamus mollitia.
+1848,"Galvis, Ramírez and Angarita S.A.S.",2023-02-10,178576.67,CREDIT,Fugit est minima laboriosam error.
+1849,Gil-Salazar S.A.S.,2024-03-18,864016.26,DEBIT,Error architecto voluptatibus voluptatibus blanditiis.
+1850,"Gómez, Sanabria and Pulido S.A.S.",2020-12-12,786912.83,DEBIT,Eos occaecati earum ipsa libero.
+1851,Castro-Flórez S.A.S.,2024-02-17,186571.95,DEBIT,Qui nostrum fugiat.
+1852,"Galvis, Ramírez and Angarita S.A.S.",2022-06-17,149544.61,DEBIT,Incidunt ad corrupti.
+1853,Posada-Peña S.A.S.,2023-10-19,549549.6,DEBIT,Recusandae tenetur dolorum quaerat tempore.
+1854,Reyes-Zambrano S.A.S.,2023-03-05,865118.65,DEBIT,Suscipit alias recusandae.
+1855,González Inc S.A.S.,2024-08-26,200931.29,DEBIT,Amet laborum mollitia rerum minima occaecati.
+1856,Flórez Ltd S.A.S.,2022-02-23,268336.27,CREDIT,Veritatis et quaerat nesciunt.
+1857,Durán-Bernal S.A.S.,2024-11-22,165859.29,CREDIT,Modi alias illum ab quasi.
+1858,"Galvis, Ramírez and Angarita S.A.S.",2020-12-28,508908.07,DEBIT,Harum voluptatum ut vero repellat iste.
+1859,Ramírez LLC S.A.S.,2022-12-05,989005.26,CREDIT,Consectetur nemo sit.
+1860,"García, Castro and Rendón S.A.S.",2025-02-18,564898.17,CREDIT,Quia velit deleniti voluptate ipsum dicta.
+1861,Jaimes-Quintero S.A.S.,2024-10-01,500191.01,DEBIT,Dignissimos alias velit vel nemo.
+1862,Portilla-Palacios S.A.S.,2022-06-16,790532.56,DEBIT,Nesciunt molestiae dolorem dolor quaerat labore.
+1863,Durán-Bernal S.A.S.,2021-03-29,92286.23,CREDIT,Ullam temporibus quia perferendis placeat.
+1864,Jaimes-Quintero S.A.S.,2023-06-29,424120.91,CREDIT,Velit voluptas porro.
+1865,Posada-Peña S.A.S.,2024-01-25,935886.45,DEBIT,Tempora ipsum voluptate nulla sit mollitia.
+1866,"García, Castro and Rendón S.A.S.",2023-02-08,394836.88,CREDIT,Atque dolores aliquid.
+1867,"Buitrago, García and García S.A.S.",2022-07-11,219902.88,CREDIT,Dolorem neque error minus possimus.
+1868,"García, Castro and Rendón S.A.S.",2023-06-05,707241.61,DEBIT,Eveniet nam reiciendis iusto.
+1869,Jaimes-Quintero S.A.S.,2024-06-26,559189.07,DEBIT,Totam velit fugiat.
+1870,Oviedo-Domínguez S.A.S.,2022-04-12,3418.96,CREDIT,Quod dolorum eaque voluptatum.
+1871,Durán-Bernal S.A.S.,2021-07-23,406040.6,DEBIT,Repudiandae id cupiditate.
+1872,Portilla-Palacios S.A.S.,2024-08-13,939357.89,CREDIT,Velit pariatur tempore libero similique.
+1873,Vargas-Álvarez S.A.S.,2024-02-23,386145.28,DEBIT,In maiores commodi officia.
+1874,"Palacios, Becerra and Rodríguez S.A.S.",2022-01-29,530193.39,CREDIT,Mollitia autem numquam eaque laborum enim.
+1875,Rodríguez-Martínez S.A.S.,2023-12-08,443929.43,CREDIT,Fugiat omnis laborum enim.
+1876,"Buitrago, García and García S.A.S.",2024-03-11,173720.41,DEBIT,Unde distinctio in.
+1877,Reyes-Zambrano S.A.S.,2023-03-28,46396.62,CREDIT,Dicta molestiae odit.
+1878,Ramírez LLC S.A.S.,2020-08-03,528877.43,DEBIT,Ex cupiditate dolorem labore.
+1879,"Palacios, Becerra and Rodríguez S.A.S.",2020-06-13,216054.63,DEBIT,Neque eius dolor expedita.
+1880,Gil-Salazar S.A.S.,2021-05-25,781250.3,DEBIT,Quasi sunt enim enim aliquam repellat.
+1881,Gil-Salazar S.A.S.,2023-02-02,933845.55,CREDIT,Eaque eligendi assumenda expedita.
+1882,Durán-Bernal S.A.S.,2020-12-05,682939.31,CREDIT,Recusandae accusamus vel.
+1883,"Reyes, Álvarez and Hernández S.A.S.",2024-05-14,799832.84,DEBIT,Sequi praesentium quasi.
+1884,Castro-Flórez S.A.S.,2023-12-26,244790.76,CREDIT,Ad architecto dolores vero debitis magnam.
+1885,"Galvis, Ramírez and Angarita S.A.S.",2024-02-16,203887.67,CREDIT,Et hic non distinctio in.
+1886,"Buitrago, García and García S.A.S.",2022-04-06,436579.35,CREDIT,Officiis temporibus explicabo.
+1887,Muñoz LLC S.A.S.,2023-04-07,272031.93,CREDIT,Officia accusamus voluptates perspiciatis.
+1888,Flórez Ltd S.A.S.,2023-12-07,960923.26,CREDIT,Similique velit accusamus.
+1889,Ramírez LLC S.A.S.,2022-11-19,547331.58,CREDIT,Eum facere error.
+1890,González Inc S.A.S.,2021-08-06,454450.97,DEBIT,Porro velit modi amet autem.
+1891,"Buitrago, García and García S.A.S.",2024-05-26,744791.46,CREDIT,Nobis odio soluta.
+1892,Gómez-Cardozo S.A.S.,2023-10-26,104508.68,CREDIT,Ab fugiat doloremque accusamus.
+1893,Flórez Ltd S.A.S.,2024-06-22,789492.23,DEBIT,Vel quis aperiam laborum.
+1894,"Gómez, Sanabria and Pulido S.A.S.",2023-03-28,966294.3,CREDIT,Dolorem ipsum exercitationem illum eligendi.
+1895,Mosquera-Medina S.A.S.,2023-12-02,844768.78,DEBIT,Mollitia natus necessitatibus.
+1896,"Reyes, Álvarez and Hernández S.A.S.",2021-03-20,130609.73,CREDIT,Vero nulla deleniti laborum nihil.
+1897,"García, Castro and Rendón S.A.S.",2024-02-06,96525.55,CREDIT,Adipisci cupiditate aperiam quae ducimus optio.
+1898,"Buitrago, García and García S.A.S.",2020-11-28,77827.51,DEBIT,Molestiae maiores quisquam dolorem est.
+1899,"Gómez, Sanabria and Pulido S.A.S.",2021-05-26,891536.83,DEBIT,Beatae esse et natus accusantium provident.
+1900,Gil-Salazar S.A.S.,2021-12-23,457028.2,DEBIT,Quia et sequi dolorum.
+1901,Gómez-Cardozo S.A.S.,2024-09-02,76218.21,CREDIT,Placeat ducimus velit.
+1902,"Buitrago, García and García S.A.S.",2022-01-24,252612.2,DEBIT,Minima aperiam inventore a.
+1903,Mosquera-Medina S.A.S.,2025-04-20,529719.52,CREDIT,Nulla sit officia nihil.
+1904,"Buitrago, García and García S.A.S.",2021-08-14,275100.46,CREDIT,Labore saepe illo vel eius dicta.
+1905,Ramírez LLC S.A.S.,2022-03-21,741020.62,CREDIT,Debitis fuga nam labore.
+1906,Jaimes-Quintero S.A.S.,2024-01-09,844853.07,CREDIT,Eius voluptatem nisi eum saepe omnis.
+1907,"Palacios, Becerra and Rodríguez S.A.S.",2023-02-13,880113.92,DEBIT,Distinctio ipsum dolore minima laudantium.
+1908,Muñoz LLC S.A.S.,2020-11-05,220725.71,CREDIT,Minima deleniti porro.
+1909,Ramírez LLC S.A.S.,2024-05-01,43848.04,CREDIT,Est aperiam amet mollitia delectus.
+1910,"Pacheco, Velandia and Ávila S.A.S.",2021-11-09,362738.49,CREDIT,Reiciendis perferendis ullam cumque voluptatibus dolorem.
+1911,Gil-Salazar S.A.S.,2023-03-20,987382.93,CREDIT,Quos excepturi inventore.
+1912,"Galvis, Ramírez and Angarita S.A.S.",2022-05-20,212294.47,DEBIT,Assumenda quidem doloribus aperiam.
+1913,Castro-Flórez S.A.S.,2023-01-13,954167.47,DEBIT,Id et sit itaque sint.
+1914,"Buitrago, García and García S.A.S.",2021-12-06,224348.15,CREDIT,Iste mollitia nostrum mollitia officia voluptates.
+1915,Muñoz LLC S.A.S.,2024-09-25,52952.32,CREDIT,Dolorum ducimus adipisci dolor.
+1916,"Galvis, Ramírez and Angarita S.A.S.",2022-05-11,972858.49,DEBIT,Optio laborum cum repudiandae voluptatem.
+1917,Rodríguez-Martínez S.A.S.,2020-11-27,92526.47,DEBIT,Molestias velit repellendus ducimus molestiae.
+1918,Portilla-Palacios S.A.S.,2022-07-20,800534.3,CREDIT,Sequi id explicabo consequatur molestias laborum.
+1919,Durán-Bernal S.A.S.,2022-05-13,84079.63,DEBIT,Eligendi mollitia odit.
+1920,"Pacheco, Velandia and Ávila S.A.S.",2020-12-20,970003.71,CREDIT,Nam sequi cumque aliquam aut voluptatem.
+1921,Portilla-Palacios S.A.S.,2023-09-01,990422.7,DEBIT,Odit quas qui qui.
+1922,Jaimes-Quintero S.A.S.,2024-01-26,287198.47,DEBIT,At eligendi eos eum laborum.
+1923,Posada-Peña S.A.S.,2021-12-15,418029.17,CREDIT,Sed harum aperiam ipsam odio.
+1924,Castro-Flórez S.A.S.,2022-10-12,988464.32,CREDIT,Voluptatibus explicabo ea nulla incidunt nulla.
+1925,González Inc S.A.S.,2021-09-28,341364.87,CREDIT,Eaque veritatis modi optio.
+1926,Jaimes-Quintero S.A.S.,2022-05-30,247360.86,CREDIT,Mollitia perspiciatis magni fugit perferendis esse sit.
+1927,"Gómez, Sanabria and Pulido S.A.S.",2023-09-26,502099.93,CREDIT,Omnis doloremque cupiditate.
+1928,Garcés-Buitrago S.A.S.,2023-07-11,556025.44,DEBIT,Tempore similique voluptatem maiores ullam.
+1929,Gil-Salazar S.A.S.,2023-03-24,534438.78,DEBIT,Nemo sapiente a magnam.
+1930,"Reyes, Álvarez and Hernández S.A.S.",2025-04-05,856602.71,CREDIT,Ipsa inventore eveniet.
+1931,Posada-Peña S.A.S.,2024-09-22,412100.23,DEBIT,Praesentium et omnis ea velit.
+1932,Mosquera-Medina S.A.S.,2021-02-06,513892.77,DEBIT,Cum fugiat facere omnis est architecto.
+1933,Durán-Bernal S.A.S.,2024-11-21,398817.25,CREDIT,In et officiis totam eius.
+1934,Portilla-Palacios S.A.S.,2023-03-18,856235.28,CREDIT,Natus laborum id.
+1935,Garcés-Buitrago S.A.S.,2020-09-24,339548.36,CREDIT,Illo eaque corrupti distinctio.
+1936,Portilla-Palacios S.A.S.,2021-11-15,324028.71,DEBIT,Deleniti sequi similique.
+1937,Flórez Ltd S.A.S.,2022-06-17,984808.75,CREDIT,Accusantium sequi voluptatibus nihil commodi commodi.
+1938,Mosquera-Medina S.A.S.,2024-02-15,18102.2,CREDIT,Delectus vero repudiandae labore.
+1939,Posada-Peña S.A.S.,2024-08-20,519370.73,DEBIT,Provident doloribus quibusdam impedit.
+1940,"Galvis, Ramírez and Angarita S.A.S.",2023-04-21,940045.26,DEBIT,Hic sequi dolorem consectetur.
+1941,Oviedo-Domínguez S.A.S.,2021-05-17,763184.87,DEBIT,Provident corporis eligendi quidem eveniet nobis.
+1942,Muñoz LLC S.A.S.,2022-02-25,778895.82,DEBIT,Velit dolorem animi neque sint.
+1943,"Galvis, Ramírez and Angarita S.A.S.",2021-06-01,292480.46,CREDIT,Doloribus doloribus ad quasi.
+1944,"Pacheco, Velandia and Ávila S.A.S.",2024-02-06,838938.94,CREDIT,Corrupti quisquam eius quibusdam.
+1945,"García, Castro and Rendón S.A.S.",2023-11-24,859045.26,CREDIT,Rerum deleniti neque.
+1946,Ramírez LLC S.A.S.,2022-09-30,942452.79,CREDIT,Deserunt dicta saepe porro sint.
+1947,"García, Castro and Rendón S.A.S.",2023-10-01,377260.59,DEBIT,Nemo veritatis voluptatibus perferendis.
+1948,Gil-Salazar S.A.S.,2024-07-10,565689.81,CREDIT,Delectus reiciendis doloremque placeat.
+1949,Garcés-Buitrago S.A.S.,2020-10-03,813548.99,CREDIT,Quisquam dignissimos cumque odio perspiciatis.
+1950,Posada-Peña S.A.S.,2023-09-03,878646.71,CREDIT,Aut ratione accusantium.
+1951,Calderón and Sons S.A.S.,2023-12-28,497410.06,CREDIT,Ipsum dignissimos officiis.
+1952,Rodríguez-Martínez S.A.S.,2024-03-18,816638.72,DEBIT,Dicta ducimus optio neque error inventore.
+1953,Reyes-Zambrano S.A.S.,2022-07-02,466544.93,DEBIT,Molestiae expedita necessitatibus.
+1954,"García, Castro and Rendón S.A.S.",2024-03-18,672693.54,DEBIT,Ab nam doloremque voluptas iste sequi.
+1955,Reyes-Zambrano S.A.S.,2021-10-17,690144.11,DEBIT,Commodi sunt possimus cupiditate.
+1956,Muñoz LLC S.A.S.,2023-10-28,844091.52,DEBIT,Earum similique ea nihil repellendus voluptate.
+1957,Castro-Flórez S.A.S.,2022-10-31,505517.58,DEBIT,Quaerat id optio nisi suscipit soluta.
+1958,Castro-Flórez S.A.S.,2023-03-05,53311.46,CREDIT,Quasi ullam fuga dicta.
+1959,"Gómez, Sanabria and Pulido S.A.S.",2021-12-11,704643.71,DEBIT,Nulla pariatur doloribus ipsum excepturi corrupti.
+1960,"Palacios, Becerra and Rodríguez S.A.S.",2024-09-22,865696.09,DEBIT,Praesentium magnam dolorum.
+1961,González Inc S.A.S.,2023-05-06,514071.21,CREDIT,Ipsa qui possimus dolorum eius voluptatibus.
+1962,Gómez-Cardozo S.A.S.,2022-08-06,415345.86,CREDIT,Vitae reiciendis expedita placeat libero minus.
+1963,Reyes-Zambrano S.A.S.,2020-07-03,788381.12,DEBIT,Laudantium culpa sint laborum aut.
+1964,Calderón and Sons S.A.S.,2023-07-08,1212.07,DEBIT,Qui nisi quo.
+1965,"Reyes, Álvarez and Hernández S.A.S.",2025-06-11,526809.04,DEBIT,Quasi dolor ab porro.
+1966,Ramírez LLC S.A.S.,2024-09-30,550055.44,DEBIT,Eaque unde vero quas quod.
+1967,Muñoz LLC S.A.S.,2023-02-08,411293.59,DEBIT,Amet nulla animi nemo.
+1968,Muñoz LLC S.A.S.,2022-11-15,123452.86,CREDIT,Commodi commodi vitae iure saepe expedita.
+1969,Garcés-Buitrago S.A.S.,2023-11-19,807674.67,DEBIT,Eius suscipit similique.
+1970,"Reyes, Álvarez and Hernández S.A.S.",2024-01-26,430460.24,CREDIT,Repudiandae deleniti accusamus at.
+1971,"Palacios, Becerra and Rodríguez S.A.S.",2022-05-11,298165.5,DEBIT,In quam error temporibus officiis voluptatem.
+1972,"Pacheco, Velandia and Ávila S.A.S.",2020-07-10,45449.95,CREDIT,Incidunt necessitatibus voluptatibus eius.
+1973,Castro-Flórez S.A.S.,2025-04-22,797420.84,DEBIT,Repellat nobis quisquam repudiandae voluptatem.
+1974,Jaimes-Quintero S.A.S.,2023-07-26,345448.67,CREDIT,Nam enim veritatis accusantium molestiae.
+1975,"Gómez, Sanabria and Pulido S.A.S.",2020-09-25,928219.13,DEBIT,Magnam nihil aut id reiciendis error.
+1976,"Pacheco, Velandia and Ávila S.A.S.",2021-09-29,923380.35,DEBIT,Saepe fugit similique aut perspiciatis adipisci.
+1977,"García, Castro and Rendón S.A.S.",2021-12-08,89405.64,CREDIT,Consequuntur beatae ipsa placeat eligendi voluptates.
+1978,Posada-Peña S.A.S.,2022-01-02,457919.69,DEBIT,Ad officia minima enim consequuntur.
+1979,Mosquera-Medina S.A.S.,2024-08-17,391452.02,DEBIT,Rerum labore voluptatibus.
+1980,González Inc S.A.S.,2022-07-30,181925.96,CREDIT,Saepe quod at architecto quis occaecati.
+1981,"Pacheco, Velandia and Ávila S.A.S.",2020-12-17,275376.15,DEBIT,Cumque modi molestiae perspiciatis sunt aliquid.
+1982,Garcés-Buitrago S.A.S.,2021-08-20,926219.28,CREDIT,Est deleniti consequatur.
+1983,Reyes-Zambrano S.A.S.,2021-11-08,736225.42,DEBIT,Commodi magnam quod fuga modi sapiente.
+1984,Rodríguez-Martínez S.A.S.,2025-01-29,930688.13,CREDIT,Necessitatibus minus at animi omnis est.
+1985,Castro-Flórez S.A.S.,2024-12-07,350444.89,DEBIT,Expedita quam molestiae rem.
+1986,Garcés-Buitrago S.A.S.,2025-01-29,541071.84,CREDIT,Sit sapiente soluta sunt blanditiis.
+1987,Durán-Bernal S.A.S.,2025-03-31,60649.3,CREDIT,Porro eveniet iste non minus.
+1988,"Palacios, Becerra and Rodríguez S.A.S.",2021-02-26,768950.2,DEBIT,Animi quasi enim.
+1989,"Buitrago, García and García S.A.S.",2022-07-17,723268.93,CREDIT,Minima ipsa dolorum eum rem.
+1990,Portilla-Palacios S.A.S.,2022-12-22,705565.05,CREDIT,Expedita quisquam odio perferendis earum repudiandae.
+1991,Durán-Bernal S.A.S.,2021-08-07,357065.16,CREDIT,Ad quas sunt dolore.
+1992,Vargas-Álvarez S.A.S.,2024-05-29,476742.39,CREDIT,Iste odit amet exercitationem officiis porro.
+1993,Portilla-Palacios S.A.S.,2021-01-04,112341.09,DEBIT,Repellat quia voluptate rerum.
+1994,Posada-Peña S.A.S.,2024-01-24,768563.69,CREDIT,Nemo alias quia doloremque.
+1995,"Gómez, Sanabria and Pulido S.A.S.",2020-10-02,832119.22,CREDIT,Iure ducimus dolore corporis.
+1996,"Palacios, Becerra and Rodríguez S.A.S.",2022-08-21,341147.37,CREDIT,Delectus quaerat non culpa.
+1997,"Galvis, Ramírez and Angarita S.A.S.",2020-09-23,322454.72,CREDIT,Sequi cumque voluptatum qui esse veniam.
+1998,Flórez Ltd S.A.S.,2022-03-02,668172.93,CREDIT,Quisquam ut iusto excepturi officia voluptatibus fugiat.
+1999,Castro-Flórez S.A.S.,2022-07-07,864129.7,CREDIT,Eum quae beatae iure sequi ad.

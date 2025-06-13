@@ -1,0 +1,102 @@
+[
+    {
+        "original_name": "Mu\u00f1oz LLC S.A.S.",
+        "sanitized_folder_name": "empresa_1_Munoz_LLC_SAS"
+    },
+    {
+        "original_name": "Posada-Pe\u00f1a S.A.S.",
+        "sanitized_folder_name": "empresa_2_Posada-Pena_SAS"
+    },
+    {
+        "original_name": "Gonz\u00e1lez Inc S.A.S.",
+        "sanitized_folder_name": "empresa_3_Gonzalez_Inc_SAS"
+    },
+    {
+        "original_name": "Gil-Salazar S.A.S.",
+        "sanitized_folder_name": "empresa_4_Gil-Salazar_SAS"
+    },
+    {
+        "original_name": "Galvis, Ram\u00edrez and Angarita S.A.S.",
+        "sanitized_folder_name": "empresa_5_Galvis_Ramirez_and_Angarita_SAS"
+    },
+    {
+        "original_name": "G\u00f3mez, Sanabria and Pulido S.A.S.",
+        "sanitized_folder_name": "empresa_6_Gomez_Sanabria_and_Pulido_SAS"
+    },
+    {
+        "original_name": "Buitrago, Garc\u00eda and Garc\u00eda S.A.S.",
+        "sanitized_folder_name": "empresa_7_Buitrago_Garcia_and_Garcia_SAS"
+    },
+    {
+        "original_name": "Reyes-Zambrano S.A.S.",
+        "sanitized_folder_name": "empresa_8_Reyes-Zambrano_SAS"
+    },
+    {
+        "original_name": "Pacheco, Velandia and \u00c1vila S.A.S.",
+        "sanitized_folder_name": "empresa_9_Pacheco_Velandia_and_Avila_SAS"
+    },
+    {
+        "original_name": "Dur\u00e1n-Bernal S.A.S.",
+        "sanitized_folder_name": "empresa_10_Duran-Bernal_SAS"
+    },
+    {
+        "original_name": "Mosquera-Medina S.A.S.",
+        "sanitized_folder_name": "empresa_11_Mosquera-Medina_SAS"
+    },
+    {
+        "original_name": "Ram\u00edrez LLC S.A.S.",
+        "sanitized_folder_name": "empresa_12_Ramirez_LLC_SAS"
+    },
+    {
+        "original_name": "Portilla-Palacios S.A.S.",
+        "sanitized_folder_name": "empresa_13_Portilla-Palacios_SAS"
+    },
+    {
+        "original_name": "Oviedo-Dom\u00ednguez S.A.S.",
+        "sanitized_folder_name": "empresa_14_Oviedo-Dominguez_SAS"
+    },
+    {
+        "original_name": "G\u00f3mez-Cardozo S.A.S.",
+        "sanitized_folder_name": "empresa_15_Gomez-Cardozo_SAS"
+    },
+    {
+        "original_name": "Reyes, \u00c1lvarez and Hern\u00e1ndez S.A.S.",
+        "sanitized_folder_name": "empresa_16_Reyes_Alvarez_and_Hernandez_SAS"
+    },
+    {
+        "original_name": "Fl\u00f3rez Ltd S.A.S.",
+        "sanitized_folder_name": "empresa_17_Florez_Ltd_SAS"
+    },
+    {
+        "original_name": "Rodr\u00edguez-Mart\u00ednez S.A.S.",
+        "sanitized_folder_name": "empresa_18_Rodriguez-Martinez_SAS"
+    },
+    {
+        "original_name": "Garc\u00eda, Castro and Rend\u00f3n S.A.S.",
+        "sanitized_folder_name": "empresa_19_Garcia_Castro_and_Rendon_SAS"
+    },
+    {
+        "original_name": "Vargas-\u00c1lvarez S.A.S.",
+        "sanitized_folder_name": "empresa_20_Vargas-Alvarez_SAS"
+    },
+    {
+        "original_name": "Garc\u00e9s-Buitrago S.A.S.",
+        "sanitized_folder_name": "empresa_21_Garces-Buitrago_SAS"
+    },
+    {
+        "original_name": "Calder\u00f3n and Sons S.A.S.",
+        "sanitized_folder_name": "empresa_22_Calderon_and_Sons_SAS"
+    },
+    {
+        "original_name": "Jaimes-Quintero S.A.S.",
+        "sanitized_folder_name": "empresa_23_Jaimes-Quintero_SAS"
+    },
+    {
+        "original_name": "Castro-Fl\u00f3rez S.A.S.",
+        "sanitized_folder_name": "empresa_24_Castro-Florez_SAS"
+    },
+    {
+        "original_name": "Palacios, Becerra and Rodr\u00edguez S.A.S.",
+        "sanitized_folder_name": "empresa_25_Palacios_Becerra_and_Rodriguez_SAS"
+    }
+]
