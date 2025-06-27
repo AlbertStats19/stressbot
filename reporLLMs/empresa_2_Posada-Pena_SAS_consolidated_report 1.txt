@@ -1,0 +1,156 @@
+Reporte Consolidado para: Castro Group S.A.S.
+================================================================================
+
+--- INICIO REPORTE DEL PROMPT: unified_report_1 ---
+
+1. Descripción general de la empresa:
+
+    Castro Group S.A.S. es una empresa que ha experimentado un crecimiento del 15% en sus operaciones en el último año, consolidando su presencia en el mercado. La compañía se ha enfocado en proyectos estratégicos que incluyen la implementación de nuevas tecnologías y la optimización de procesos bancarios a través de la inteligencia artificial. La fuerza laboral de la empresa asciende a 174 empleados.
+
+    Los principales productos y servicios de Castro Group S.A.S. incluyen soluciones financieras y tecnológicas, con un enfoque en la digitalización y la optimización de procesos. La empresa ha invertido $ 3,017,991 USD en nuevas tecnologías, lo que indica su compromiso con la innovación y la mejora continua.
+
+    Los clientes de Castro Group S.A.S. son principalmente empresas y organizaciones que buscan soluciones financieras y tecnológicas avanzadas. La competencia principal de la empresa incluye a Montes-Rivera y Mena, Sánchez and Murillo.
+
+    En cuanto a la cadena de suministros, Castro Group S.A.S. se basa en una red de proveedores y socios estratégicos para garantizar la eficiencia y la calidad de sus productos y servicios.
+
+    La empresa ha lanzado una iniciativa de sostenibilidad que busca reducir la huella de carbono en un 29%. Esta estrategia ambiental demuestra el compromiso de Castro Group S.A.S. con la sostenibilidad y la responsabilidad social corporativa.
+
+    En términos de su estructura organizacional y gestión de talento humano, Castro Group S.A.S. cuenta con un equipo de 174 empleados dedicados y altamente capacitados. La empresa valora la diversidad y la inclusión, y se esfuerza por proporcionar un entorno de trabajo positivo y enriquecedor para su personal.
+
+    Castro Group S.A.S. ha demostrado un sólido desempeño financiero, con ingresos que alcanzaron los $ 18,968,626 USD en el último año y una utilidad neta de $ 2,271,875 USD. Los activos totales de la empresa son de $ 18,766,227 USD y los pasivos de $ 4,272,798 USD. El ratio de liquidez actual es de 2.38, lo que indica una buena salud financiera. Además, la empresa ha mostrado una mejora en el flujo de caja operativo del 20%.
+
+    En resumen, Castro Group S.A.S. es una empresa en crecimiento con un fuerte enfoque en la innovación y la sostenibilidad. A pesar de los desafíos del mercado, la empresa ha demostrado un sólido desempeño financiero y ha implementado estrategias efectivas para optimizar sus operaciones y reducir su huella de carbono.
+
+--- FIN REPORTE DEL PROMPT: unified_report_1 ---
+--------------------------------------------------------------------------------
+
+--- INICIO REPORTE DEL PROMPT: unified_report_2 ---
+
+# 2. Resumen financiero
+
+## 2.1. Principales cifras y variaciones del Estado de resultados y situación financiera
+
+A continuación, se presenta una tabla comparativa de las principales cifras financieras de Castro Group S.A.S. en los últimos años, basada en la información obtenida del DataFrame "df_perfilador_md".
+
+| Año  | Ingresos o Ventas (USD) | Gastos (USD) | Utilidad (USD) | Flujo de Efectivo Neto (USD) | Activos (USD) | Pasivos (USD) | Patrimonio (USD) | Indicadores de Liquidez |
+|------|-------------------------|--------------|----------------|-------------------------------|---------------|---------------|-------------------|--------------------------|
+| 2019 | 25,802,300              | N/A          | 12,543,700     | 365,117                       | N/A           | N/A           | N/A               | 1.15                     |
+| 2021 | 57,153,500              | N/A          | 11,975,700     | -3,608,870                    | N/A           | N/A           | N/A               | 0.9                      |
+| 2022 | 21,034,500              | N/A          | 1,899,390      | 1,152,370                     | N/A           | N/A           | N/A               | 1.53                     |
+| 2023 | 66,578,700              | N/A          | 11,821,300     | -3,016,250                    | N/A           | N/A           | N/A               | 0.65                     |
+
+**Nota:** Los valores de los gastos, activos, pasivos y patrimonio no están disponibles en la fuente de información proporcionada.
+
+## 2.2. Comparativos anuales
+
+En términos de ingresos, Castro Group S.A.S. ha experimentado un crecimiento significativo en los últimos años, pasando de 25,802,300 USD en 2019 a 66,578,700 USD en 2023, lo que representa un aumento del 158%. Sin embargo, la utilidad de la empresa ha fluctuado durante este período, alcanzando su punto más bajo en 2022 con 1,899,390 USD y recuperándose en 2023 con 11,821,300 USD.
+
+En cuanto al flujo de efectivo neto, la empresa ha experimentado una variación negativa, pasando de 365,117 USD en 2019 a -3,016,250 USD en 2023. Esto podría indicar problemas de liquidez o una estrategia de inversión agresiva.
+
+Finalmente, el indicador de liquidez de la empresa ha disminuido de 1.15 en 2019 a 0.65 en 2023, lo que podría sugerir un aumento en el riesgo financiero. Sin embargo, este indicador sigue estando por encima del umbral de 0.5, lo que indica que la empresa tiene más activos que pasivos a corto plazo.
+
+--- FIN REPORTE DEL PROMPT: unified_report_2 ---
+--------------------------------------------------------------------------------
+
+--- INICIO REPORTE DEL PROMPT: unified_report_3 ---
+
+# 3. Relación actual con el Banco de Bogotá
+
+## 3.1. Saldos de productos activos por periodo
+
+Para la empresa Castro Group S.A.S., los saldos de productos activos por periodo se distribuyen de la siguiente manera:
+
+- Préstamos comerciales: $563,751 (2020-09-08), $800,066 (2023-07-26), $31,461 (2024-07-13)
+- Créditos de Liquidez: $626,396 (2022-10-08)
+- Ahorro Superdia Especial: No se dispone de información.
+- CDT: No se dispone de información.
+- Cuentas de ahorro: No se dispone de información.
+- Cuentas corrientes: $934,203 (2023-11-14)
+
+## 3.2. Información sobre desembolsos
+
+Los desembolsos realizados por Castro Group S.A.S. en el Banco de Bogotá se detallan a continuación:
+
+- $563,751 (2020-09-08)
+- $800,066 (2023-07-26)
+- $31,461 (2024-07-13)
+- $626,396 (2022-10-08)
+- $934,203 (2023-11-14)
+
+## 3.3. Margen de contribución
+
+El margen de contribución de Castro Group S.A.S. en el Banco de Bogotá se detalla a continuación:
+
+- 2023: $1,306,510
+- 2022: $1,899,390
+- 2023: $1,182,130
+- 2019: $1,254,370
+- 2021: $1,197,570
+
+## 3.4. Niveles de endeudamiento total
+
+El endeudamiento total de Castro Group S.A.S. con el Banco de Bogotá y otros bancos se detalla a continuación:
+
+- Banco de Bogotá: 0.6 (2023), 1.52 (2022), 2.04 (2023), 1.76 (2019), 0.92 (2021)
+- Otros bancos: No se dispone de información.
+
+## 3.5. Participación accionaria
+
+La participación accionaria de Castro Group S.A.S. en el Banco de Bogotá se detalla a continuación:
+
+- No se dispone de información.
+
+## 3.6. Calificación crediticia y perfil de riesgo
+
+La calificación crediticia y el perfil de riesgo de Castro Group S.A.S. en el Banco de Bogotá se detallan a continuación:
+
+- Calificación crediticia: No se dispone de información.
+- Perfil de riesgo: No se dispone de información.
+
+--- FIN REPORTE DEL PROMPT: unified_report_3 ---
+--------------------------------------------------------------------------------
+
+--- INICIO REPORTE DEL PROMPT: unified_report_4 ---
+
+# 4. Noticias relevantes
+
+## 4.1. Expansiones de mercado; nuevos puntos de venta o cierres de operaciones
+
+Según la información obtenida de Primera Página, Castro Group S.A.S. ha experimentado una expansión regional en el último año. Esta expansión es un indicativo de la creciente presencia de la empresa en el mercado y su compromiso con la expansión de sus operaciones. Sin embargo, no se proporcionaron detalles específicos sobre los nuevos puntos de venta o cierres de operaciones. 
+
+Fuente: Primera Página (Fecha de publicación no especificada)
+
+## 4.2. Inversiones (nivel nacional o internacional si aplica)
+
+De acuerdo con Valora Analitik, Castro Group S.A.S. ha realizado inversiones significativas en tecnología de Inteligencia Artificial (IA) para optimizar sus procesos bancarios. Esta inversión en tecnología de vanguardia es un indicativo de la estrategia de la empresa para mantenerse competitiva en el sector financiero y tecnológico. 
+
+Además, el informe de gestión de Castro Group S.A.S. menciona que el directorio aprobó un plan de inversión de $ 3,017,991 USD para nuevas tecnologías. 
+
+Fuentes: Valora Analitik (Fecha de publicación no especificada), Informe de Gestión Castro Group S.A.S. - Resumen Anual
+
+## 4.3. Cambios regulatorios (noticias de la bolsa de valores, nuevas normas, regulaciones internas o externas) que le aplican a la empresa
+
+El análisis sectorial del mercado Barbosa menciona nuevas regulaciones sobre "nisi" que podrían afectar las operaciones de Castro Group S.A.S. en el futuro cercano. Sin embargo, no se proporcionaron detalles específicos sobre cómo estas regulaciones podrían impactar a la empresa. 
+
+Fuente: Análisis Sectorial del Mercado Barbosa - Impacto en Castro Group S.A.S.
+
+--- FIN REPORTE DEL PROMPT: unified_report_4 ---
+--------------------------------------------------------------------------------
+
+--- INICIO REPORTE DEL PROMPT: unified_report_5 ---
+
+# 5. Oportunidades identificadas
+
+Tras un análisis exhaustivo de la información financiera, ratios financieros, proyectos o inversiones anunciadas, retos organizacionales o normativos, alertas de riesgo, iniciativas ESG: ambiental, social y de gobernanza; necesidades de liquidez; inversiones a futuro; información de empleados; proyectos de impacto y huella de carbono y proyectos tecnológicos de la empresa Castro Group S.A.S., se han identificado las siguientes oportunidades comerciales:
+
+| Oportunidad | Insight Clave | Producto/Estructura Recomendada | Justificación Personalizada | Frase de Consulta para el Cliente |
+|-------------|---------------|---------------------------------|-----------------------------|----------------------------------|
+| 1. Inversión en Tecnología | Plan de inversión aprobado de $3,017,991 USD para nuevas tecnologías. | Préstamos Comerciales | Los préstamos comerciales del Banco de Bogotá pueden proporcionar el capital necesario para llevar a cabo este plan de inversión en tecnología, permitiendo a Castro Group S.A.S. mantenerse a la vanguardia en su sector. | ¿Han considerado la posibilidad de financiar su plan de inversión en tecnología con un préstamo comercial? |
+| 2. Expansión Regional | Expansión regional de la empresa en el último año. | Créditos de Liquidez | Los créditos de liquidez del Banco de Bogotá pueden proporcionar el capital de trabajo necesario para apoyar esta expansión regional, asegurando que Castro Group S.A.S. tenga los recursos necesarios para crecer de manera efectiva. | ¿Han considerado cómo un crédito de liquidez podría apoyar su expansión regional? |
+| 3. Iniciativa de Sostenibilidad | Iniciativa lanzada para reducir la huella de carbono en un 29%. | Cuentas de Ahorro | Las cuentas de ahorro del Banco de Bogotá pueden ayudar a Castro Group S.A.S. a reservar fondos para su iniciativa de sostenibilidad, asegurando que tengan los recursos necesarios para cumplir con sus objetivos ambientales. | ¿Han considerado cómo una cuenta de ahorro podría ayudar a financiar su iniciativa de sostenibilidad? |
+| 4. Mejora en el Flujo de Caja | Mejora en el flujo de caja operativo del 20%. | CDT | Los CDT del Banco de Bogotá pueden proporcionar una forma segura y rentable para que Castro Group S.A.S. invierta su exceso de flujo de caja, generando rendimientos adicionales para la empresa. | ¿Han considerado cómo un CDT podría ayudarles a maximizar el rendimiento de su exceso de flujo de caja? |
+
+Las oportunidades se han ordenado por impacto estimado, siendo la inversión en tecnología la de mayor prioridad debido a su potencial para impulsar el crecimiento y la competitividad de Castro Group S.A.S. en su sector.
+
+--- FIN REPORTE DEL PROMPT: unified_report_5 ---
+--------------------------------------------------------------------------------

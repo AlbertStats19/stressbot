@@ -1,0 +1,129 @@
+Reporte Consolidado para: Suárez-Gallego S.A.S.
+================================================================================
+
+--- INICIO REPORTE DEL PROMPT: unified_report_1 ---
+
+# Informe Estratégico Comercial: Suárez-Gallego S.A.S.
+
+## 1. Descripción General de la Empresa
+
+Suárez-Gallego S.A.S. es una empresa consolidada en el sector de Tecnología y Servicios Financieros. En el último año, ha experimentado un crecimiento del 19% en sus operaciones, lo que ha fortalecido su presencia en el mercado. La compañía ha centrado sus proyectos estratégicos en la optimización de procesos bancarios a través de la inversión en Inteligencia Artificial (IA). 
+
+La empresa ofrece una variedad de productos y servicios financieros y tecnológicos, aunque los detalles específicos no se proporcionan en la información suministrada. Su clientela es diversa y abarca varios sectores, aunque no se proporcionan detalles específicos.
+
+En el mercado, Suárez-Gallego S.A.S. enfrenta competencia directa de empresas como Sánchez, Ariza and Meneses y Guzmán PLC. La cadena de suministro de la empresa no se especifica en la información proporcionada.
+
+La estructura organizacional de la empresa no se detalla en la información proporcionada, pero se sabe que la fuerza laboral actual asciende a 670 empleados. 
+
+En cuanto a los proyectos de inversión, el directorio de Suárez-Gallego S.A.S. ha aprobado un plan de inversión de $ 335,858 USD para nuevas tecnologías. 
+
+En términos de sostenibilidad, la empresa ha lanzado una iniciativa que busca reducir su huella de carbono en un 14%. No se proporcionan detalles sobre otras estrategias ambientales, sociales o de otro tipo.
+
+### Situación Actual de la Compañía
+
+Suárez-Gallego S.A.S. se encuentra en una posición financiera sólida, con ingresos que alcanzaron los $ 33,398,660 USD en el último año y una utilidad neta de $ 2,965,142 USD. Los activos totales de la empresa son de $ 17,929,389 USD y los pasivos de $ 6,104,115 USD. El ratio de liquidez actual es de 1.86, lo que indica una buena capacidad para cubrir sus obligaciones a corto plazo. Además, la empresa ha mostrado una mejora en el flujo de caja operativo del 5%.
+
+El desempeño reciente de la empresa ha sido positivo, con un crecimiento del 19% en sus operaciones en el último año. Sin embargo, nuevas regulaciones en el sector podrían afectar las operaciones de la empresa en el futuro cercano. A pesar de esto, la empresa ha demostrado su capacidad para adaptarse y crecer, como lo demuestra su reciente expansión regional y su inversión en IA para optimizar procesos bancarios.
+
+--- FIN REPORTE DEL PROMPT: unified_report_1 ---
+--------------------------------------------------------------------------------
+
+--- INICIO REPORTE DEL PROMPT: unified_report_2 ---
+
+2. Resumen financiero:
+
+2.1. Principales cifras y variaciones del Estado de resultados y situación financiera:
+
+A continuación, se presenta una tabla comparativa de las principales cifras financieras de Suárez-Gallego S.A.S. en los últimos años, según la información obtenida del DataFrame "df_perfilador_md".
+
+| Año  | Ingresos o ventas (USD) | Gastos (USD) | Utilidad (USD) | Flujo de caja (USD) | Activos (USD) | Pasivos (USD) | Patrimonio (USD) | Indicadores de liquidez |
+|------|-------------------------|--------------|----------------|---------------------|---------------|---------------|------------------|--------------------------|
+| 2019 | 42,289,200             | N/A          | 15,900,300     | 3,756,030           | N/A           | N/A           | N/A              | 1.98                     |
+| 2020 | 2,044,730              | N/A          | 19,085,900     | 307,367             | N/A           | N/A           | N/A              | 1.28                     |
+| 2021 | 17,553,600             | N/A          | 14,427,400     | 9,861,060           | N/A           | N/A           | N/A              | 1.51                     |
+| 2022 | 54,690,100             | N/A          | 5,727,900      | -998,643            | N/A           | N/A           | N/A              | 1.24                     |
+
+Nota: Los valores de gastos, activos, pasivos y patrimonio no están disponibles en la fuente de información proporcionada.
+
+2.2. Comparativos anuales:
+
+- En 2020, los ingresos de Suárez-Gallego S.A.S. disminuyeron significativamente en comparación con 2019, sin embargo, la utilidad aumentó, lo que indica una mejora en la eficiencia operativa de la empresa. El flujo de caja también disminuyó en comparación con 2019.
+- En 2021, los ingresos y la utilidad de la empresa aumentaron en comparación con 2020, lo que indica un crecimiento en las operaciones de la empresa. El flujo de caja también aumentó significativamente en comparación con 2020.
+- En 2022, los ingresos de la empresa aumentaron significativamente en comparación con 2021, sin embargo, la utilidad disminuyó, lo que puede indicar un aumento en los costos operativos. El flujo de caja fue negativo, lo que puede indicar una disminución en la eficiencia de la gestión del efectivo de la empresa.
+
+En términos de liquidez, la empresa ha mostrado una tendencia decreciente en los últimos años, lo que puede indicar un aumento en el riesgo financiero. Sin embargo, el ratio de liquidez sigue siendo superior a 1, lo que indica que la empresa tiene suficientes activos líquidos para cubrir sus obligaciones a corto plazo.
+
+--- FIN REPORTE DEL PROMPT: unified_report_2 ---
+--------------------------------------------------------------------------------
+
+--- INICIO REPORTE DEL PROMPT: unified_report_3 ---
+
+# 3. Relación actual con el Banco de Bogotá
+
+## 3.1. Saldos de productos activos por periodo
+
+Para la empresa Suárez-Gallego S.A.S., los saldos de productos activos por periodo se distribuyen de la siguiente manera (valores en USD):
+
+- Préstamos comerciales: $550,274
+- Créditos de Liquidez: $951,511
+- Ahorro Superdia Especial: $748,781
+- CDT: $232,359
+- Cuentas de ahorro: $939,999
+
+## 3.2. Información sobre desembolsos
+
+La empresa ha tenido varias transacciones con el Banco de Bogotá, incluyendo débitos y créditos. Los débitos suman un total de $1,531,414 y los créditos suman un total de $1,891,510.
+
+## 3.3. Margen de contribución
+
+El margen de contribución de Suárez-Gallego S.A.S. ha variado a lo largo de los años. En 2019, el margen fue de $15,900,300, en 2020 fue de $19,085,900, en 2021 fue de $14,427,400 y en 2022 fue de $5,727,900.
+
+## 3.4. Niveles de endeudamiento total
+
+El endeudamiento total de Suárez-Gallego S.A.S. con el Banco de Bogotá y otros bancos es el siguiente:
+
+- Banco de Bogotá: 2.13 (2019), 2.34 (2022), 1.15 (2021), 1.74 (2019), 2.28 (2020)
+- Otros bancos: No se dispone de información.
+
+## 3.5. Participación accionaria
+
+La información sobre los accionistas de Suárez-Gallego S.A.S. no está disponible en los datos proporcionados.
+
+## 3.6. Calificación crediticia y perfil de riesgo
+
+La calificación crediticia y el perfil de riesgo de Suárez-Gallego S.A.S. se pueden inferir de su ratio de liquidez y su flujo de caja. El ratio de liquidez ha variado entre 1.05 y 1.98 en los últimos años, lo que indica una buena capacidad para cubrir sus obligaciones a corto plazo. El flujo de caja ha sido positivo en la mayoría de los años, aunque ha habido algunos años con flujo de caja negativo.
+
+--- FIN REPORTE DEL PROMPT: unified_report_3 ---
+--------------------------------------------------------------------------------
+
+--- INICIO REPORTE DEL PROMPT: unified_report_4 ---
+
+# 4. Noticias relevantes
+
+## 4.1. Expansiones de mercado; nuevos puntos de venta o cierres de operaciones
+
+Según el podcast de Primera Página, Suárez-Gallego S.A.S. ha experimentado una expansión regional en el último año. Esta expansión es un indicativo de la creciente presencia de la empresa en el mercado y su estrategia de crecimiento. Sin embargo, no se proporcionaron detalles específicos sobre los nuevos puntos de venta o posibles cierres de operaciones. 
+
+Fuente: Primera Página (Fecha de publicación no especificada)
+
+## 4.2. Inversiones (nivel nacional o internacional si aplica)
+
+De acuerdo con la información proporcionada por Valora Analitik, Suárez-Gallego S.A.S. ha realizado inversiones significativas en Inteligencia Artificial (IA) para optimizar sus procesos bancarios. Además, el informe de gestión de la empresa indica que el directorio aprobó un plan de inversión de $ 335,858 USD para nuevas tecnologías. Estas inversiones demuestran el compromiso de la empresa con la innovación y la mejora continua de sus operaciones.
+
+Fuentes: Valora Analitik (Fecha de publicación no especificada), Informe de Gestión Suárez-Gallego S.A.S. - Resumen Anual
+
+## 4.3. Cambios regulatorios (noticias de la bolsa de valores, nuevas normas, regulaciones internas o externas) que le aplican a la empresa
+
+El análisis sectorial del mercado San Jacinto señala que nuevas regulaciones sobre "qui" podrían afectar las operaciones de Suárez-Gallego S.A.S. en el futuro cercano. No se proporcionaron detalles específicos sobre estas regulaciones, pero es importante que la empresa esté al tanto de estos cambios y se prepare para adaptarse a ellos.
+
+Fuente: Análisis Sectorial del Mercado San Jacinto - Impacto en Suárez-Gallego S.A.S.
+
+--- FIN REPORTE DEL PROMPT: unified_report_4 ---
+--------------------------------------------------------------------------------
+
+--- INICIO REPORTE DEL PROMPT: unified_report_5 ---
+
+FALLO AL GENERAR REPORTE: Contenido no generado.
+
+--- FIN REPORTE DEL PROMPT: unified_report_5 ---
+--------------------------------------------------------------------------------

@@ -1,0 +1,216 @@
+pk2_ = "C:/Users/Alber/OneDrive/Documentos/MADUREZ MLOPS/stressbot/reporLLMs/"
+
+
+# --- 4. Función para Cargar Contenido de PDFs Simulados por Empresa (Tu versión adaptada) ---
+def load_company_documents(sanitized_folder_name):
+    """Carga el contenido textual simulado de los PDFs para una empresa usando su nombre de carpeta sanitizado."""
+    doc_contents = {}
+    # Usar pk_ para la ruta base de los documentos de las empresas
+    base_path = os.path.join(pk_, 'company_docs', sanitized_folder_name)
+    if not os.path.exists(base_path):
+        print(f"Advertencia: Carpeta de documentos no encontrada para '{sanitized_folder_name}' en '{base_path}'")
+        return doc_contents
+
+    # Este timer imprime su tiempo, pero su métrica se capturará indirectamente
+    # en "Creación de PineconeManagers (carga de documentos)" de run_unified_report_flow.
+    with timer(f"Carga documentos para {sanitized_folder_name}") as t_doc_load:
+        for doc_type in ['gestion', 'sectorial', 'financiero']:
+            file_path = os.path.join(base_path, f'{doc_type}.txt')
+            if os.path.exists(file_path):
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    doc_contents[doc_type] = f.read()
+            else:
+                doc_contents[doc_type] = "" # Vacío si no se encuentra el archivo
+    return doc_contents
+
+
+    # --- 5. Lógica Principal de Generación de Reporte (Emulación del main.py) ---
+
+def run_unified_report_flow(company_original_name, company_sanitized_folder_name, report_prompt_key, user_query=""):
+    """
+    Ejecuta un flujo simulado de generación de reporte unificado para una empresa.
+    Mide tiempos y recolecta métricas, utilizando reportes pre-generados de .txt.
+    """
+    # Asegúrate de que unified_report_prompts, company_mapping, transactions_df, financial_df
+    # estén definidos globalmente o pasados como argumentos.
+    if 'unified_report_prompts' not in globals() or not unified_report_prompts or \
+       'company_mapping' not in globals() or not company_mapping or \
+       'transactions_df' not in globals() or transactions_df.empty or \
+       'financial_df' not in globals() or financial_df.empty:
+        print("ERROR: Variables globales (prompts, mapping, dataframes) no inicializadas. Abortando.")
+        return {"status": "failed", "error": "Setup incomplete"}
+
+
+    print(f"\n--- Ejecutando flujo para {company_original_name} ({report_prompt_key}) ---")
+    metrics = {
+        "status": "success",
+        "total_execution_time": 0.0,
+        "report_chars_read": 0, # Nuevo: Cantidad de caracteres leídos del archivo del reporte
+        "data_processed_tx_rows": 0,
+        "data_processed_fin_rows": 0,
+        "report_file_read_latency": 0.0, # Nuevo: Latencia de lectura del archivo de reporte
+        "timer_metrics": {} # Para guardar los tiempos de cada [TIMER]
+    }
+    
+    # Timer principal para el flujo completo
+    with timer("Tiempo total conversación") as total_timer_result: 
+        # --- [TIMER] Normalización y decisión de flujo: (SIMULADO)
+        with timer("Normalización y decisión de flujo") as t_norm_result:
+            time.sleep(0.001) # Pequeña simulación de procesamiento
+        metrics["timer_metrics"]["Normalización y decisión de flujo"] = t_norm_result.elapsed_time
+        
+        # --- [TIMER] Inicialización cliente e historial: (SIMULADO)
+        with timer("Inicialización cliente e historial") as t_init_result:
+            time.sleep(0.01) # Pequeña simulación
+        metrics["timer_metrics"]["Inicialización cliente e historial"] = t_init_result.elapsed_time
+
+        # --- [TIMER] Configuración y modelos: (SIMULADO)
+        with timer("Configuración y modelos") as t_config_result:
+            time.sleep(0.05) # Simulación de tiempo para configuración
+        metrics["timer_metrics"]["Configuración y modelos"] = t_config_result.elapsed_time
+        
+        # --- [TIMER] Creación de PineconeManagers (incluye carga de docs simulada):
+        with timer("Creación de PineconeManagers (carga de documentos)") as t_pinecone_init_result:
+            company_docs = load_company_documents(company_sanitized_folder_name)
+        metrics["timer_metrics"]["Creación de PineconeManagers (carga de documentos)"] = t_pinecone_init_result.elapsed_time
+        
+        # --- Preparar el Prompt Final para el LLM (Aunque no se usará el LLM, se mantiene la estructura) ---
+        current_report_prompt_template = unified_report_prompts.get(report_prompt_key)
+        if not current_report_prompt_template:
+            print(f"ERROR: Prompt '{report_prompt_key}' no encontrado.")
+            metrics["status"] = "failed"
+            return metrics
+        
+        # --- [TIMER] Filtrado de dataframes por empresa (simulando query a BD) ---
+        with timer("Filtrado de dataframes por empresa (simulando query a BD)") as t_filter_df_result:
+            company_transactions_df = transactions_df[transactions_df['company_name'] == company_original_name].copy()
+            company_financial_df = financial_df[financial_df['company_name'] == company_original_name].copy()
+            metrics["data_processed_tx_rows"] = len(company_transactions_df)
+            metrics["data_processed_fin_rows"] = len(company_financial_df)
+        metrics["timer_metrics"]["Filtrado de dataframes por empresa (simulando query a BD)"] = t_filter_df_result.elapsed_time
+
+        # --- [TIMER] Búsqueda similitud reporte unificado (simulando Pinecone/RAG):
+        with timer("Búsqueda similitud reporte unificado") as t_rag_search_result:
+            context_from_docs = company_docs.get('gestion', '') + "\n\n" + \
+                                company_docs.get('sectorial', '') + "\n\n" + \
+                                company_docs.get('financiero', '')
+            
+            time.sleep(0.01 + len(context_from_docs) / 1000000.0) # Simulación de tiempo RAG
+        metrics["timer_metrics"]["Búsqueda similitud reporte unificado"] = t_rag_search_result.elapsed_time
+
+        # --- YA NO SE HACE LLAMADA AL LLM, SE LEE EL ARCHIVO ---
+        report_read_start_time = time.perf_counter()
+        response_content = ""
+        
+        # **** INICIO DE LA MODIFICACIÓN CLAVE ****
+        # Usamos company_sanitized_folder_name para construir el nombre del archivo
+        report_file_name = f"{company_sanitized_folder_name}_consolidated_report.txt"
+        report_file_path = os.path.join(pk2_, report_file_name)
+        # **** FIN DE LA MODIFICACIÓN CLAVE ****
+        
+        try:
+            if os.path.exists(report_file_path):
+                with open(report_file_path, 'r', encoding='utf-8') as f:
+                    response_content = f.read()
+                metrics["report_file_read_latency"] = time.perf_counter() - report_read_start_time
+                metrics["report_chars_read"] = len(response_content)
+                print(f"Reporte cargado desde archivo: {report_file_path} (primeros 200 chars): {response_content[:200]}...")
+            else:
+                response_content = f"ERROR: Archivo de reporte consolidado no encontrado para '{company_original_name}' en '{report_file_path}'"
+                print(response_content)
+                metrics["status"] = "failed"
+                metrics["error"] = "Report file not found"
+                metrics["report_file_read_latency"] = time.perf_counter() - report_read_start_time
+        except Exception as e:
+            response_content = f"ERROR al leer el archivo de reporte para {company_original_name}: {e}"
+            print(response_content)
+            metrics["status"] = "failed"
+            metrics["error"] = str(e)
+            metrics["report_file_read_latency"] = time.perf_counter() - report_read_start_time
+        
+        # Ajuste para los timers:
+        metrics["timer_metrics"]["Lectura reporte pre-generado (archivo)"] = metrics["report_file_read_latency"]
+        metrics["llm_input_tokens"] = 0 # Ya no aplica
+        metrics["llm_output_tokens"] = 0 # Ya no aplica
+    
+    # Captura el tiempo total del contexto principal al salir del 'with timer'
+    metrics["total_execution_time"] = total_timer_result.elapsed_time
+
+    print(f"\n--- Métricas Finales para {company_original_name} ({report_prompt_key}) ---")
+    print(f"Tiempo Total de Ejecución: {metrics['total_execution_time']:.3f}s")
+    print(f"Latencia de Lectura Archivo Reporte: {metrics['report_file_read_latency']:.6f}s")
+    print(f"Caracteres del Reporte Leídos: {metrics['report_chars_read']}")
+    print(f"Tokens de Entrada LLM (ya no aplica): {metrics['llm_input_tokens']}")
+    print(f"Tokens de Salida LLM (ya no aplica): {metrics['llm_output_tokens']}")
+    print(f"Volumen de Transacciones procesadas: {metrics['data_processed_tx_rows']} filas")
+    print(f"Volumen de Financieros procesados: {metrics['data_processed_fin_rows']} filas")
+    print(f"Estado del flujo: {metrics['status']}")
+    print("Tiempos por subproceso:")
+    for k, v in metrics["timer_metrics"].items():
+        if v is not None:
+            print(f"   - {k}: {v:.6f}s")
+        else:
+            print(f"   - {k}: N/A (tiempo no capturado)")
+
+    return metrics
+
+
+    # --- 6. Ejecutar Pruebas (Ejemplo - AHORA LEYENDO DE ARCHIVOS) ---
+# Primero, asegúrate de haber ejecutado data_generator.py (o _light.py)
+# para que los archivos CSV, TXT y company_mapping.json existan,
+# y que los reportes consolidados estén en la carpeta 'reporLLMs'.
+
+if not company_mapping:
+    print("No se pudo cargar el mapeo de empresas. Asegúrate de ejecutar el generador de datos primero.")
+else:
+    test_company_data = company_mapping[0] # Tomamos la primera empresa del mapeo para la prueba de ejemplo
+    test_company_original_name = test_company_data["original_name"]
+    test_company_sanitized_folder_name = test_company_data["sanitized_folder_name"]
+
+    print(f"\nRealizando una prueba de ejemplo para la empresa: {test_company_original_name} (Lectura de Archivo)")
+    
+    if 'unified_report_1' in unified_report_prompts:
+        results = run_unified_report_flow(
+            company_original_name=test_company_original_name,
+            company_sanitized_folder_name=test_company_sanitized_folder_name,
+            report_prompt_key='unified_report_1',
+            user_query="Genera el resumen general de la empresa con los datos proporcionados." # User query sigue siendo informativa
+        )
+        print("\n--- Resultados Detallados de la Prueba de Ejemplo (Leyendo de Archivo) ---")
+        print(json.dumps(results, indent=2))
+    else:
+        print("El prompt 'unified_report_1' no está disponible en prompts.yml. Por favor, revisa tus prompts.")
+
+# --- 7. Planificación de Pruebas de Estrés y Recopilación de Resultados (AHORA LEYENDO DE ARCHIVOS) ---
+
+all_test_results = []
+num_companies_to_test = min(3, len(company_mapping)) # Puedes ajustar cuántas empresas probar (ej: 5, 10, o len(company_mapping) para todas)
+
+print(f"\nIniciando pruebas de estrés (LEYENDO DE ARCHIVOS) para {num_companies_to_test} empresas...")
+
+for i in range(num_companies_to_test):
+    company_data = company_mapping[i]
+    company_original_name = company_data["original_name"]
+    company_sanitized_folder_name = company_data["sanitized_folder_name"]
+
+    print(f"\n--- Ejecutando pruebas para la empresa: {company_original_name} ---")
+
+    for prompt_key in ['unified_report_1']:
+        if prompt_key in unified_report_prompts:
+            print(f"  > Con prompt: {prompt_key}")
+            result = run_unified_report_flow(
+                company_original_name=company_original_name,
+                company_sanitized_folder_name=company_sanitized_folder_name,
+                report_prompt_key=prompt_key,
+                user_query=f"Genera el reporte de {prompt_key} para {company_original_name} (leyendo de archivo)."
+            )
+            all_test_results.append({
+                "company_name": company_original_name,
+                "prompt_key": prompt_key,
+                "metrics": result
+            })
+        else:
+            print(f"  > Advertencia: El prompt '{prompt_key}' no se encontró en unified_report_prompts. Saltando.")
+
+print("\n--- Todas las pruebas de estrés (LEYENDO DE ARCHIVOS) ejecutadas ---")
+print("Puedes analizar la variable 'all_test_results' para ver los resultados consolidados.")

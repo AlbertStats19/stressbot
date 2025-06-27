@@ -1,0 +1,341 @@
+# qa_stress_test.ipynb
+
+# --- 0. Configuración Inicial y Carga de Librerías ---
+import pandas as pd
+import numpy as np
+import os
+import json
+import yaml
+import time
+from openai import OpenAI
+# Importación de utils asumiendo que está en la misma carpeta 'notebooks/'
+# Asegúrate de que utils.py contenga la clase TimerResult y el @contextmanager def timer(name): yield result
+from utils import timer 
+
+# >>>>> RUTA BASE PERSONALIZADA DEL PROYECTO (INTEGRACIÓN DE TU pk_) <<<<<
+# Esta ruta es esencial para que el notebook encuentre los archivos
+# generados por data_generator.py (data/, company_docs/, etc.)
+pk_ = "C:/Users/Alber/OneDrive/Documentos/MADUREZ MLOPS/gerente-relacional-qa-test/"
+# Puedes ajustar esta variable si la ubicación de tu proyecto cambia.
+# >>>>> FIN DE RUTA BASE PERSONALIZADA <<<<<
+
+# --- 1. Cargar Credenciales ---
+print("Cargando credenciales de OpenAI...")
+try:
+    # Usar pk_ para la ruta de credentials.json
+    with open(os.path.join('credentials.json')) as f:
+        config_env = json.load(f)
+    api_key = config_env["openai_key"]
+    client = OpenAI(api_key=api_key)
+    print("Credenciales cargadas. Cliente OpenAI inicializado.")
+except FileNotFoundError:
+    print(f"ERROR: 'credentials.json' no encontrado en la ruta: {os.path.join(pk_, 'credentials.json')}. Asegúrate de crearlo en la raíz de tu proyecto ('{pk_}').")
+    api_key = None
+    client = None
+except KeyError:
+    print("ERROR: 'openai_key' no encontrada en 'credentials.json'.")
+    api_key = None
+    client = None
+
+# --- 2. Cargar Prompts del Reporte Unificado ---
+print("\nCargando prompts desde prompts.yml...")
+# Usar pk_ para la ruta de prompts.yml
+prompts_path = os.path.join('prompts.yml')
+unified_report_prompts = {}
+with timer("Carga de prompts y queries") as t_prompts: # Timer para esta etapa
+    try:
+        with open(prompts_path, 'r', encoding='utf-8') as file:
+            all_prompts = yaml.safe_load(file)
+        unified_report_prompts = {k: v for k, v in all_prompts.items() if k.startswith('unified_report_')}
+        print(f"Prompts de reporte unificado cargados: {list(unified_report_prompts.keys())}")
+    except FileNotFoundError:
+        print(f"ERROR: '{prompts_path}' no encontrado.")
+    except yaml.YAMLError as e:
+        print(f"ERROR al parsear YAML: {e}")
+
+# --- 3. Cargar Datas Simuladas (10M Transacciones y 300K Financieros) y Mapeo de Empresas ---
+print("\nCargando datas simuladas...")
+transactions_df = pd.DataFrame()
+financial_df = pd.DataFrame()
+company_mapping = [] # Lista de diccionarios {original_name, sanitized_folder_name}
+
+# Decide qué versión de datos cargar (LIGHT o FULL)
+USE_LIGHT_DATA = True # Cambia a False para usar los datos grandes (10M/300K)
+
+transactions_file = 'simulated_transactions.csv'
+financial_file = 'simulated_financial_metrics.csv'
+
+with timer("Carga de dataframes e historial") as t_data_load: # Timer para esta etapa
+    try:
+        # Usar pk_ para la ruta de los archivos de datos
+        transactions_df = pd.read_csv(os.path.join(pk_, 'data', transactions_file))
+        print(f"Data de transacciones cargada ({'LIGHT' if USE_LIGHT_DATA else 'FULL'}). Registros: {len(transactions_df)}")
+    except FileNotFoundError:
+        print(f"ERROR: '{transactions_file}' no encontrado en la ruta: '{os.path.join(pk_, 'data')}/'. Ejecuta data_generator.py (o _light.py).")
+
+    try:
+        # Usar pk_ para la ruta de los archivos de datos
+        financial_df = pd.read_csv(os.path.join(pk_, 'data', financial_file))
+        print(f"Data financiera cargada ({'LIGHT' if USE_LIGHT_DATA else 'FULL'}). Registros: {len(financial_df)}")
+    except FileNotFoundError:
+        print(f"ERROR: '{financial_file}' no encontrado en la ruta: '{os.path.join(pk_, 'data')}/'. Ejecuta data_generator.py (o _light.py).")
+
+    # Cargar el mapeo de empresas
+    try:
+        # Usar pk_ para la ruta del mapeo de empresas
+        with open(os.path.join(pk_, 'data', 'company_mapping.json'), 'r', encoding='utf-8') as f:
+            company_mapping = json.load(f)
+        print(f"Mapeo de {len(company_mapping)} empresas cargado.")
+    except FileNotFoundError:
+        print(f"ERROR: 'company_mapping.json' no encontrado en la ruta: '{os.path.join(pk_, 'data')}/'. Ejecuta data_generator.py (o _light.py).")
+    except json.JSONDecodeError:
+        print("ERROR: Fallo al leer 'company_mapping.json'. Asegúrate de que es un JSON válido.")
+
+
+# --- 4. Función para Cargar Contenido de PDFs Simulados por Empresa (Tu versión adaptada) ---
+def load_company_documents(sanitized_folder_name):
+    """Carga el contenido textual simulado de los PDFs para una empresa usando su nombre de carpeta sanitizado."""
+    doc_contents = {}
+    # Usar pk_ para la ruta base de los documentos de las empresas
+    base_path = os.path.join(pk_, 'company_docs', sanitized_folder_name)
+    if not os.path.exists(base_path):
+        print(f"Advertencia: Carpeta de documentos no encontrada para '{sanitized_folder_name}' en '{base_path}'")
+        return doc_contents
+
+    # Este timer imprime su tiempo, pero su métrica se capturará indirectamente
+    # en "Creación de PineconeManagers (carga de documentos)" de run_unified_report_flow.
+    with timer(f"Carga documentos para {sanitized_folder_name}") as t_doc_load:
+        for doc_type in ['gestion', 'sectorial', 'financiero']:
+            file_path = os.path.join(base_path, f'{doc_type}.txt')
+            if os.path.exists(file_path):
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    doc_contents[doc_type] = f.read()
+            else:
+                doc_contents[doc_type] = "" # Vacío si no se encuentra el archivo
+    return doc_contents
+
+# --- 5. Lógica Principal de Generación de Reporte (Emulación del main.py) ---
+
+def run_unified_report_flow(company_original_name, company_sanitized_folder_name, report_prompt_key, user_query=""):
+    """
+    Ejecuta un flujo simulado de generación de reporte unificado para una empresa.
+    Mide tiempos y recolecta métricas.
+    """
+    # Asegúrate de que client, unified_report_prompts, company_mapping, transactions_df, financial_df
+    # estén definidos globalmente o pasados como argumentos.
+    # Si no, esta comprobación fallará.
+    if 'client' not in globals() or client is None or \
+       'unified_report_prompts' not in globals() or not unified_report_prompts or \
+       'company_mapping' not in globals() or not company_mapping or \
+       'transactions_df' not in globals() or transactions_df.empty or \
+       'financial_df' not in globals() or financial_df.empty:
+        print("ERROR: Variables globales (client, prompts, mapping, dataframes) no inicializadas. Abortando.")
+        return {"status": "failed", "error": "Setup incomplete"}
+
+
+    print(f"\n--- Ejecutando flujo para {company_original_name} ({report_prompt_key}) ---")
+    metrics = {
+        "status": "success",
+        "total_execution_time": 0.0,
+        "llm_input_tokens": 0,
+        "llm_output_tokens": 0,
+        "data_processed_tx_rows": 0,
+        "data_processed_fin_rows": 0,
+        "llm_api_latency": 0.0, # Latencia de la llamada al LLM aislada
+        "timer_metrics": {} # Para guardar los tiempos de cada [TIMER]
+    }
+    
+    # Timer principal para el flujo completo
+    with timer("Tiempo total conversación") as total_timer_result: 
+        # --- [TIMER] Normalización y decisión de flujo: (SIMULADO)
+        with timer("Normalización y decisión de flujo") as t_norm_result:
+            time.sleep(0.001) # Pequeña simulación de procesamiento
+        # >>>>> AÑADE ESTAS LÍNEAS PARA DEPURACIÓN <<<<<
+        print(f"DEBUG_NORM: t_norm_result object: {t_norm_result}")
+        if t_norm_result is not None:
+            print(f"DEBUG_NORM: t_norm_result.elapsed_time: {t_norm_result.elapsed_time}")
+        else:
+            print("DEBUG_NORM: t_norm_result es None.")
+        # >>>>> FIN DE LÍNEAS DE DEPURACIÓN <<<<<
+        metrics["timer_metrics"]["Normalización y decisión de flujo"] = t_norm_result.elapsed_time
+        
+        # --- [TIMER] Inicialización cliente e historial: (SIMULADO)
+        with timer("Inicialización cliente e historial") as t_init_result:
+            time.sleep(0.01) # Pequeña simulación
+        # >>>>> AÑADE ESTAS LÍNEAS PARA DEPURACIÓN <<<<<
+        print(f"DEBUG_INIT: t_init_result object: {t_init_result}")
+        if t_init_result is not None:
+            print(f"DEBUG_INIT: t_init_result.elapsed_time: {t_init_result.elapsed_time}")
+        else:
+            print("DEBUG_INIT: t_init_result es None.")
+        # >>>>> FIN DE LÍNEAS DE DEPURACIÓN <<<<<
+        metrics["timer_metrics"]["Inicialización cliente e historial"] = t_init_result.elapsed_time
+
+        # --- [TIMER] Configuración y modelos: (SIMULADO)
+        with timer("Configuración y modelos") as t_config_result:
+            time.sleep(0.05) # Simulación de tiempo para configuración
+        # >>>>> AÑADE ESTAS LÍNEAS PARA DEPURACIÓN <<<<<
+        print(f"DEBUG_CONFIG: t_config_result object: {t_config_result}")
+        if t_config_result is not None:
+            print(f"DEBUG_CONFIG: t_config_result.elapsed_time: {t_config_result.elapsed_time}")
+        else:
+            print("DEBUG_CONFIG: t_config_result es None.")
+        # >>>>> FIN DE LÍNEAS DE DEPURACIÓN <<<<<
+        metrics["timer_metrics"]["Configuración y modelos"] = t_config_result.elapsed_time
+        
+        # --- [TIMER] Creación de PineconeManagers (incluye carga de docs simulada):
+        with timer("Creación de PineconeManagers (carga de documentos)") as t_pinecone_init_result:
+            company_docs = load_company_documents(company_sanitized_folder_name)
+        # >>>>> AÑADE ESTAS LÍNEAS PARA DEPURACIÓN <<<<<
+        print(f"DEBUG_PINECONE: t_pinecone_init_result object: {t_pinecone_init_result}")
+        if t_pinecone_init_result is not None:
+            print(f"DEBUG_PINECONE: t_pinecone_init_result.elapsed_time: {t_pinecone_init_result.elapsed_time}")
+        else:
+            print("DEBUG_PINECONE: t_pinecone_init_result es None.")
+        # >>>>> FIN DE LÍNEAS DE DEPURACIÓN <<<<<
+        metrics["timer_metrics"]["Creación de PineconeManagers (carga de documentos)"] = t_pinecone_init_result.elapsed_time
+        
+        # --- Preparar el Prompt Final para el LLM ---
+        current_report_prompt_template = unified_report_prompts.get(report_prompt_key)
+        if not current_report_prompt_template:
+            print(f"ERROR: Prompt '{report_prompt_key}' no encontrado.")
+            metrics["status"] = "failed"
+            return metrics
+        
+        # --- [TIMER] Filtrado de dataframes por empresa (simulando query a BD) ---
+        with timer("Filtrado de dataframes por empresa (simulando query a BD)") as t_filter_df_result:
+            company_transactions_df = transactions_df[transactions_df['company_name'] == company_original_name].copy()
+            company_financial_df = financial_df[financial_df['company_name'] == company_original_name].copy()
+            metrics["data_processed_tx_rows"] = len(company_transactions_df)
+            metrics["data_processed_fin_rows"] = len(company_financial_df)
+        # >>>>> AÑADE ESTAS LÍNEAS PARA DEPURACIÓN <<<<<
+        print(f"DEBUG_FILTER: t_filter_df_result object: {t_filter_df_result}")
+        if t_filter_df_result is not None:
+            print(f"DEBUG_FILTER: t_filter_df_result.elapsed_time: {t_filter_df_result.elapsed_time}")
+        else:
+            print("DEBUG_FILTER: t_filter_df_result es None.")
+        # >>>>> FIN DE LÍNEAS DE DEPURACIÓN <<<<<
+        metrics["timer_metrics"]["Filtrado de dataframes por empresa (simulando query a BD)"] = t_filter_df_result.elapsed_time
+
+        # --- [TIMER] Búsqueda similitud reporte unificado (simulando Pinecone/RAG):
+        with timer("Búsqueda similitud reporte unificado") as t_rag_search_result:
+            context_from_docs = company_docs.get('gestion', '') + "\n\n" + \
+                                company_docs.get('sectorial', '') + "\n\n" + \
+                                company_docs.get('financiero', '')
+            
+            time.sleep(0.01 + len(context_from_docs) / 1000000.0)
+            
+        # Esta ya la teníamos, la dejo para consistencia
+        print(f"DEBUG_RAG: Tipo de t_rag_search_result después del bloque timer: {type(t_rag_search_result)}")
+        if t_rag_search_result is not None:
+            print(f"DEBUG_RAG: Valor de t_rag_search_result.elapsed_time: {t_rag_search_result.elapsed_time}")
+        else:
+            print("DEBUG_RAG: t_rag_search_result es None.")
+        metrics["timer_metrics"]["Búsqueda similitud reporte unificado"] = t_rag_search_result.elapsed_time
+
+        # --- Rellenar los placeholders del prompt ---
+        simulated_products_list = "Préstamos Comerciales, Créditos de Liquidez, Cuentas de Ahorro, CDT."
+        simulated_sector = "Tecnología y Servicios Financieros" 
+
+        df_desem_pag_cast_md_str = company_transactions_df.head(5).to_markdown(index=False)
+        df_perfilador_md_str = company_financial_df.head(5).to_markdown(index=False)
+
+        response_va_simulated = "Según Valora Analitik, la empresa ha invertido en IA para optimizar procesos bancarios."
+        response_pp_simulated = "En Primera Página se destacó la expansión regional de la empresa en el último año."
+
+        try:
+            formatted_prompt = current_report_prompt_template.format(
+                company_name=company_original_name,
+                user_request=user_query if user_query else f"Genera un reporte unificado para {company_original_name} basado en los datos proporcionados.",
+                management_report=company_docs.get('gestion', 'No disponible'),
+                sector=simulated_sector,
+                sector_report=company_docs.get('sectorial', 'No disponible'),
+                financial_report=company_docs.get('financiero', 'No disponible'),
+                response_va=response_va_simulated,
+                response_pp=response_pp_simulated,
+                df_desem_pag_cast_md=df_desem_pag_cast_md_str,
+                df_perfilador_md=df_perfilador_md_str,
+                products_list=simulated_products_list
+            )
+        except KeyError as e:
+            print(f"ERROR: Placeholder '{e}' no encontrado en el prompt '{report_prompt_key}'. Revisa tu prompts.yml.")
+            metrics["status"] = "failed"
+            return metrics
+
+        full_messages = [
+            {"role": "system", "content": formatted_prompt},
+            {"role": "user", "content": user_query if user_query else f"Genera el reporte unificado para {company_original_name}."}
+        ]
+
+        # --- [TIMER] Generación prompt + invocación LLM (reporte) ---
+        llm_invocation_start_time = time.perf_counter()
+        try:
+            completion = client.chat.completions.create(
+                model="gpt-4", # Asegúrate de tener acceso a este modelo
+                temperature=0.0,
+                messages=full_messages
+            )
+            metrics["llm_api_latency"] = time.perf_counter() - llm_invocation_start_time
+            
+            response_content = completion.choices[0].message.content
+            metrics["llm_input_tokens"] = completion.usage.prompt_tokens
+            metrics["llm_output_tokens"] = completion.usage.completion_tokens
+            
+            # Usar la misma métrica de latencia de API para el timer_metrics
+            metrics["timer_metrics"]["Generación prompt + invocación LLM (reporte)"] = metrics["llm_api_latency"] 
+            
+            print(f"Respuesta del LLM generada (primeros 200 chars): {response_content[:200]}...")
+        except Exception as e:
+            print(f"ERROR en invocación LLM: {e}")
+            metrics["status"] = "failed"
+            metrics["error"] = str(e)
+            # Registrar el tiempo del intento incluso si falla
+            metrics["timer_metrics"]["Generación prompt + invocación LLM (reporte)"] = time.perf_counter() - llm_invocation_start_time 
+            response_content = "ERROR"
+    
+    # Captura el tiempo total del contexto principal al salir del 'with timer'
+    metrics["total_execution_time"] = total_timer_result.elapsed_time
+
+    print(f"\n--- Métricas Finales para {company_original_name} ({report_prompt_key}) ---")
+    print(f"Tiempo Total de Ejecución: {metrics['total_execution_time']:.3f}s")
+    print(f"Latencia de Invocación LLM (aislada): {metrics['llm_api_latency']:.3f}s")
+    print(f"Tokens de Entrada LLM: {metrics['llm_input_tokens']}")
+    print(f"Tokens de Salida LLM: {metrics['llm_output_tokens']}")
+    print(f"Volumen de Transacciones procesadas: {metrics['data_processed_tx_rows']} filas")
+    print(f"Volumen de Financieros procesados: {metrics['data_processed_fin_rows']} filas")
+    print(f"Estado del flujo: {metrics['status']}")
+    print("Tiempos por subproceso:")
+    for k, v in metrics["timer_metrics"].items():
+        if v is not None: # Asegurar que el valor no sea None antes de formatear
+            print(f"  - {k}: {v:.3f}s")
+        else:
+            print(f"  - {k}: N/A (tiempo no capturado)")
+
+    return metrics
+
+
+# --- 6. Ejecutar Pruebas (Ejemplo) ---
+# Primero, asegúrate de haber ejecutado data_generator.py (o _light.py)
+# para que los archivos CSV, TXT y company_mapping.json existan.
+
+if not company_mapping:
+    print("No se pudo cargar el mapeo de empresas. Asegúrate de ejecutar el generador de datos primero.")
+else:
+    test_company_data = company_mapping[0] # Tomamos la primera empresa del mapeo para la prueba de ejemplo
+    test_company_original_name = test_company_data["original_name"]
+    test_company_sanitized_folder_name = test_company_data["sanitized_folder_name"]
+
+    print(f"\nRealizando una prueba de ejemplo para la empresa: {test_company_original_name}")
+    
+    if 'unified_report_1' in unified_report_prompts:
+        results = run_unified_report_flow(
+            company_original_name=test_company_original_name,
+            company_sanitized_folder_name=test_company_sanitized_folder_name,
+            report_prompt_key='unified_report_1',
+            user_query="Genera el resumen general de la empresa con los datos proporcionados."
+        )
+        print("\n--- Resultados Detallados de la Prueba de Ejemplo ---")
+        print(json.dumps(results, indent=2))
+    else:
+        print("El prompt 'unified_report_1' no está disponible en prompts.yml. Por favor, revisa tus prompts.")
+
